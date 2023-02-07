@@ -204,6 +204,9 @@
 
 ## Go 
 
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
 - [nat-henderson/terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
@@ -294,6 +297,7 @@
 
 ## Java 
 
+- [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [pulumi/pulumi-github](https://github.com/pulumi/pulumi-github) - A Pulumi package to facilitate interacting with GitHub
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -321,6 +325,7 @@
 
 ## JavaScript 
 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [githubnext/blocks-template-react](https://github.com/githubnext/blocks-template-react) - make GitHub Blocks with React!
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
@@ -613,6 +618,8 @@
 
 ## Python 
 
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
@@ -791,6 +798,8 @@
 
 ## TypeScript 
 
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
+- [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [githubnext/blocks-dev](https://github.com/githubnext/blocks-dev) - 
 - [Wattenberger/footsteps-vscode](https://github.com/Wattenberger/footsteps-vscode) - Keep your place when jumping between a different parts of your code. This is a vscode extension that will highlight lines as you edit them, fading as you move away.
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
