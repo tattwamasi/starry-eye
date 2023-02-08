@@ -336,7 +336,7 @@
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [maintainers/invite-automation](https://github.com/maintainers/invite-automation) - 
+- [maintainers/invite-automation](https://github.com/maintainers/invite-automation) - Instructions repo to join the Maintainers Organization
 - [johnnyopao/awsp](https://github.com/johnnyopao/awsp) - Switch AWS Profiles Easily
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
