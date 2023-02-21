@@ -275,7 +275,6 @@
 - [lowerbarriers/resume](https://github.com/lowerbarriers/resume) - Easy-to-use résumé template with lots of features
 - [schnerring/hugo-mod-json-resume](https://github.com/schnerring/hugo-mod-json-resume) - A Hugo module containing templates to integrate multilingual JSON Resume data into your Hugo website.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [Kimbatt/btc-address-generator](https://github.com/Kimbatt/btc-address-generator) - Bitcoin address generator (bech32, segwit, paper wallets, BIP39 seed, etc.)
 - [walletgeneratornet/WalletGenerator.net](https://github.com/walletgeneratornet/WalletGenerator.net) - Universal JavaScript Client-Side Wallet Generator
 - [pointbiz/bitaddress.org](https://github.com/pointbiz/bitaddress.org) - JavaScript Client-Side Bitcoin Wallet Generator
@@ -339,6 +338,7 @@
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
+- [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
