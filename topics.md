@@ -998,7 +998,7 @@
 
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
-- [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Ballerine is an open-source infrastructure for user identity, KYC, and risk management
+- [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -1796,7 +1796,7 @@
 
 ## svelte 
 
-- [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Ballerine is an open-source infrastructure for user identity, KYC, and risk management
+- [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
