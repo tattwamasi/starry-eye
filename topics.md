@@ -179,7 +179,7 @@
 
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
@@ -506,7 +506,7 @@
 ## deep-learning 
 
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
@@ -1192,7 +1192,7 @@
 - [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT inside the IDE
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - GPT Index (LlamaIndex) is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
+- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
