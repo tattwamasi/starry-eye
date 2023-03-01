@@ -375,6 +375,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
 
 ## c 
 
@@ -653,7 +654,7 @@
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [neithernut/git-dit](https://github.com/neithernut/git-dit) - Decentralized Issue Tracking for git
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 
 ## github 
 
@@ -675,7 +676,7 @@
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
 - [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
 - [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [jasonlong/cayman-theme](https://github.com/jasonlong/cayman-theme) - A responsive theme for GitHub Pages
 
 ## github-api 
@@ -793,7 +794,7 @@
 - [nimbinatus/broken-k8s](https://github.com/nimbinatus/broken-k8s) - A repo full of deliberately broken k8s setups to pull down and practice on
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 
 ## haskell 
 
@@ -904,7 +905,7 @@
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Universal theme for Hugo, it stands out with its clean design and elegant typography.
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 
@@ -1490,7 +1491,6 @@
 - [quartzmo/discussion](https://github.com/quartzmo/discussion) - Dynamic comments for static blogs. Use it "server-less" with Firebase, or provide your own RESTful API.
 - [michaelusner/Home-Device-Controller](https://github.com/michaelusner/Home-Device-Controller) - node.js interface to home devices (Pentair pool controller and Yamaha amp)
 - [netlify/netlify-git-api](https://github.com/netlify/netlify-git-api) - 
-- [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
 - [nghuuphuoc/tocjs](https://github.com/nghuuphuoc/tocjs) - A jQuery plugin for generating table of contents
 - [Floris497/mac-pixel-clock-patch-V2](https://github.com/Floris497/mac-pixel-clock-patch-V2) - 
@@ -1684,7 +1684,7 @@
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [chatch/stellar-contracts](https://github.com/chatch/stellar-contracts) - Stellar contract examples and components
 - [stellarterm/stellarterm](https://github.com/stellarterm/stellarterm) - Advanced web based trading client for the Stellar network. 📈📊💹💱
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
 ## react-native 
