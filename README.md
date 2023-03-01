@@ -462,7 +462,7 @@
 - [aentan/Parallax-Scroll](https://github.com/aentan/Parallax-Scroll) - 
 - [quartzmo/discussion](https://github.com/quartzmo/discussion) - Dynamic comments for static blogs. Use it "server-less" with Firebase, or provide your own RESTful API.
 - [michaelusner/Home-Device-Controller](https://github.com/michaelusner/Home-Device-Controller) - node.js interface to home devices (Pentair pool controller and Yamaha amp)
-- [netlify/netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
 - [nghuuphuoc/tocjs](https://github.com/nghuuphuoc/tocjs) - A jQuery plugin for generating table of contents
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
