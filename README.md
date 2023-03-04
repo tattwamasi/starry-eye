@@ -488,6 +488,7 @@
 
 ## Jsonnet 
 
+- [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 
 ## Jupyter Notebook 
@@ -814,6 +815,7 @@
 
 ## TypeScript 
 
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [rogerpadilla/nukak](https://github.com/rogerpadilla/nukak) - nukak is the smart ORM for TypeScript and modern JavaScript
 - [DrakeAxelrod/json-resume-service](https://github.com/DrakeAxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
