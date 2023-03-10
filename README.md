@@ -428,7 +428,6 @@
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 - [htck/bayeux](https://github.com/htck/bayeux) - Historic Tale Construction Kit - opensource and customizable version !
 - [eyecandyDev/stellar-instant-transfer](https://github.com/eyecandyDev/stellar-instant-transfer) - Add form to your website to transfer funds instantly to your lumen account
-- [brewaa/stellar-checkout](https://github.com/brewaa/stellar-checkout) - A javascript plugin for the stellar.org blockchain
 - [mitchelljustin/MirrorX](https://github.com/mitchelljustin/MirrorX) - Peer-to-peer crypto conversions via Stellar
 - [chatch/stellar-contracts](https://github.com/chatch/stellar-contracts) - Stellar contract examples and components
 - [lumenbox/signing-tool](https://github.com/lumenbox/signing-tool) - 
