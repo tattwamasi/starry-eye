@@ -167,6 +167,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [webapp](#webapp)
@@ -1942,6 +1943,11 @@
 - [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 - [matter-labs/zksync-docs](https://github.com/matter-labs/zksync-docs) - zkSync documentation
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## vuejs 
+
+- [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## web 
 
