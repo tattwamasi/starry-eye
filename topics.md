@@ -13,6 +13,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
 - [automation](#automation)
@@ -234,6 +235,10 @@
 - [sendwyre/wyre-postman-collection](https://github.com/sendwyre/wyre-postman-collection) - This repo is filled to the brim with sample Postman API requests that allow you to test our back-end endpoints.
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based content management system powered by Vapor 4.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+
+## arduino 
+
+- [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 
 ## artificial-intelligence 
 
@@ -1196,6 +1201,8 @@
 
 ## others 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication system for the passkey era.
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [jontelang/WakaLet](https://github.com/jontelang/WakaLet) - Wakatime.com OSX menulet (menubar application)
@@ -1622,6 +1629,7 @@
 
 ## python 
 
+- [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
@@ -1777,6 +1785,7 @@
 
 ## serverless 
 
+- [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
