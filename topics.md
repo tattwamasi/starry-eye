@@ -183,6 +183,7 @@
 
 ## ai 
 
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -397,6 +398,7 @@
 
 ## chatgpt 
 
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -525,6 +527,7 @@
 
 ## deep-learning 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -656,6 +659,7 @@
 
 ## git 
 
+- [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
@@ -1031,6 +1035,7 @@
 
 ## machine-learning 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
@@ -1105,6 +1110,7 @@
 
 ## neural-network 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -1174,6 +1180,7 @@
 
 ## numpy 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## objective-c 
@@ -1202,7 +1209,6 @@
 
 ## others 
 
-- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Empowering Your Programming Journey with AI-Powered Conversations
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 - [mortenjust/native-diffusion](https://github.com/mortenjust/native-diffusion) - Native Stable Diffusion inference on iOS / macOS using MPSGraph
@@ -1636,6 +1642,7 @@
 
 ## python 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
@@ -1675,6 +1682,7 @@
 
 ## pytorch 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -1881,6 +1889,7 @@
 
 ## tensorflow 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
