@@ -97,6 +97,7 @@
 
 ## C# # 
 
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
@@ -334,6 +335,8 @@
 
 ## JavaScript 
 
+- [polymorpher/one-wallet](https://github.com/polymorpher/one-wallet) - 1wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security.
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [jkga/me](https://github.com/jkga/me) - :neckbeard: A next-gen JAMSTACK for developers leveraging the use of JSON Resume Schema  in creating a web based vitae and portfolio. Stop worrying with a complex setup and deployment process. Docs: h
@@ -564,6 +567,7 @@
 
 ## Others 
 
+- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -658,7 +662,7 @@
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
@@ -825,6 +829,7 @@
 
 ## TypeScript 
 
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
