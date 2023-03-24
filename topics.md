@@ -362,7 +362,7 @@
 - [go-faast/faast-web](https://github.com/go-faast/faast-web) - A decentralized cryptocurrency portfolio manager and exchange
 - [o1-labs/zkapp-cli](https://github.com/o1-labs/zkapp-cli) - CLI to create a zkApp ("zero-knowledge app") for Mina Protocol
 - [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
-- [hyperledger/burrow](https://github.com/hyperledger/burrow) - https://wiki.hyperledger.org/display/burrow
+- [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [tyvdh/stellar-quest-bounties](https://github.com/tyvdh/stellar-quest-bounties) - Stellar Quest Bounties is an extension of the traditional, series based Stellar Quest challenges allowing seasoned and passionate Stellar Questers to continue their journey of education and earning du
 - [tyvdh/stellar-turrets](https://github.com/tyvdh/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
@@ -619,7 +619,7 @@
 
 - [polymorpher/one-wallet](https://github.com/polymorpher/one-wallet) - 1wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security.
 - [go-faast/faast-web](https://github.com/go-faast/faast-web) - A decentralized cryptocurrency portfolio manager and exchange
-- [hyperledger/burrow](https://github.com/hyperledger/burrow) - https://wiki.hyperledger.org/display/burrow
+- [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [matter-labs/zksync-docs](https://github.com/matter-labs/zksync-docs) - zkSync documentation
