@@ -232,7 +232,7 @@
 ## api 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [bpedro/postman-openapi-sync](https://github.com/bpedro/postman-openapi-sync) - Postman OpenAPI sync makes sure that your local OpenAPI spec is in sync with Postman.
 - [sendwyre/wyre-postman-collection](https://github.com/sendwyre/wyre-postman-collection) - This repo is filled to the brim with sample Postman API requests that allow you to test our back-end endpoints.
@@ -729,7 +729,7 @@
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
-- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
@@ -759,7 +759,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [utopiops/utopiops](https://github.com/utopiops/utopiops) - The simplest way to use AWS/GCP/Azure. From code to cloud in a few minutes.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -1217,6 +1217,7 @@
 
 ## others 
 
+- [emptycrown/llama-hub](https://github.com/emptycrown/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
@@ -1927,7 +1928,7 @@
 ## testing 
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-- [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 
