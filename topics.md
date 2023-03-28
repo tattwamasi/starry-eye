@@ -1217,6 +1217,7 @@
 
 ## others 
 
+- [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
 - [emptycrown/llama-hub](https://github.com/emptycrown/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
