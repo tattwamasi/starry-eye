@@ -165,6 +165,7 @@
 
 ## CMake 
 
+- [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
 - [Stability-AI/api-interfaces](https://github.com/Stability-AI/api-interfaces) - Interface definitions for API interactions between components
 
 ## CSS 
