@@ -737,6 +737,7 @@
 
 ## Rust 
 
+- [dojoengine/dojo](https://github.com/dojoengine/dojo) - An Onchain Game Engine implemented in Cairo 1.0
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
