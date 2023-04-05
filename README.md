@@ -338,6 +338,7 @@
 
 ## JavaScript 
 
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [polymorpher/one-wallet](https://github.com/polymorpher/one-wallet) - 1wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security.
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
@@ -751,7 +752,7 @@
 
 - [stellar/docs-wallet](https://github.com/stellar/docs-wallet) - 
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [netlify-templates/one-click-hugo-cms](https://github.com/netlify-templates/one-click-hugo-cms) - Hugo template with Netlify CMS
+- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Netlify CMS
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [antzucaro/az.com](https://github.com/antzucaro/az.com) - The next iteration of antzucaro.com - powered by Hugo
 
