@@ -417,6 +417,7 @@
 
 ## cli 
 
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -897,6 +898,7 @@
 
 ## javascript 
 
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
@@ -950,6 +952,7 @@
 
 ## json 
 
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [DrakeAxelrod/json-resume-service](https://github.com/DrakeAxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
@@ -1494,7 +1497,7 @@
 - [electerious/basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
 - [androidthings/sample-lowpan](https://github.com/androidthings/sample-lowpan) - Discover and connect to Thread mesh networks on Android Things
 - [netlify-templates/kaldi-hugo-cms-template](https://github.com/netlify-templates/kaldi-hugo-cms-template) - **Deprecated. Check out one-click-hugo-cms instead.**
-- [netlify-templates/one-click-hugo-cms](https://github.com/netlify-templates/one-click-hugo-cms) - Hugo template with Netlify CMS
+- [decaporg/one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - Hugo template with Netlify CMS
 - [hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Wayback Machine.
 - [linkingvision/rapidonvif](https://github.com/linkingvision/rapidonvif) - ONVIF C++ lib,  support ProfileS, mail to info@linkingvision.com for latest version
 - [Weebly/OrderedSet](https://github.com/Weebly/OrderedSet) - A Swift collection of unique, ordered objects
