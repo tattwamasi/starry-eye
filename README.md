@@ -473,7 +473,6 @@
 - [quartzmo/discussion](https://github.com/quartzmo/discussion) - Dynamic comments for static blogs. Use it "server-less" with Firebase, or provide your own RESTful API.
 - [michaelusner/Home-Device-Controller](https://github.com/michaelusner/Home-Device-Controller) - node.js interface to home devices (Pentair pool controller and Yamaha amp)
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
-- [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
 - [nghuuphuoc/tocjs](https://github.com/nghuuphuoc/tocjs) - A jQuery plugin for generating table of contents
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [FirebaseExtended/firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase
@@ -909,6 +908,7 @@
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [fracek/serverless-stellar-federation](https://github.com/fracek/serverless-stellar-federation) - Stellar Federation Server as a Google Cloud Platform Function. 🚀
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
+- [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 
 ## Vue 
