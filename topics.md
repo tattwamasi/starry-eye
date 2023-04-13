@@ -1244,6 +1244,7 @@
 
 ## others 
 
+- [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - An Onchain Game Engine implemented in Cairo 1.0
 - [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
 - [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
