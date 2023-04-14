@@ -250,6 +250,7 @@
 ## artificial-intelligence 
 
 - [GammaTauAI/reflexion-human-eval](https://github.com/GammaTauAI/reflexion-human-eval) - An implementation of a Reflexion agent for SOTA Human-Eval Python results.
+- [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [parlance-zz/g-diffuser-bot](https://github.com/parlance-zz/g-diffuser-bot) - Discord bot and Interface for Stable Diffusion
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -1247,7 +1248,6 @@
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - An Onchain Game Engine implemented in Cairo 1.0
 - [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
-- [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
 - [emptycrown/llama-hub](https://github.com/emptycrown/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
