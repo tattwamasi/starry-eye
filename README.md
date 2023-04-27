@@ -135,7 +135,6 @@
 - [awslabs/aws-lambda-cpp](https://github.com/awslabs/aws-lambda-cpp) - C++ implementation of the AWS Lambda runtime
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scena
 - [xdrpp/xdrpp](https://github.com/xdrpp/xdrpp) - 
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [ucbrise/confluo](https://github.com/ucbrise/confluo) - Real-time Monitoring and Analysis of Data Streams
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
@@ -721,6 +720,7 @@
 - [srama2512/sidekicks](https://github.com/srama2512/sidekicks) - Sidekick Policy Learning for Active Visual Exploration (ECCV 2018)
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [pytorch/extension-cpp](https://github.com/pytorch/extension-cpp) - C++ extensions in PyTorch
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [ilrico/constellation-fs](https://github.com/ilrico/constellation-fs) - Constellation-FS, bringing Stellar and IPFS closer
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [initialstate/pi-zero-w-motion-sensor](https://github.com/initialstate/pi-zero-w-motion-sensor) - 
