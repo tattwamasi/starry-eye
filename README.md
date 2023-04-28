@@ -291,6 +291,7 @@
 - [open-dynamic-robot-initiative/mw_gui_universal](https://github.com/open-dynamic-robot-initiative/mw_gui_universal) - 
 - [open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io) - 
 - [ColinEberhardt/wasmweekly](https://github.com/ColinEberhardt/wasmweekly) - Website for the WebAssembly weekly newsletter
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 - [tmaiaroto/hugo-redlounge](https://github.com/tmaiaroto/hugo-redlounge) - A Hugo theme
 - [Im5tu/hugo-bones](https://github.com/Im5tu/hugo-bones) - A minimal theme for Hugo
@@ -421,7 +422,6 @@
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
 - [DavidWells/netlify-functions-workshop](https://github.com/DavidWells/netlify-functions-workshop) - Netlify Serverless Functions Workshop
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [netlify/create-react-app-lambda](https://github.com/netlify/create-react-app-lambda) - 
 - [netlify/netlify-dev-plugin](https://github.com/netlify/netlify-dev-plugin) - Local dev server with functions, rules engine and add-on support
 - [netlify/netlify-lambda](https://github.com/netlify/netlify-lambda) - Helps building and serving lambda functions locally and in CI environments
