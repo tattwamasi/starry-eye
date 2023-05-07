@@ -107,6 +107,7 @@
 
 ## C++ 
 
+- [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
@@ -639,6 +640,7 @@
 
 ## Python 
 
+- [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [kernelmachine/cbtm](https://github.com/kernelmachine/cbtm) - Code repository for the c-BTM paper
