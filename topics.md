@@ -471,6 +471,7 @@
 
 ## cpp 
 
+- [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [NouamaneTazi/bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - C++ implementation for BLOOM
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
@@ -1135,6 +1136,7 @@
 
 ## music 
 
+- [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [remarcable/stellar-wind](https://github.com/remarcable/stellar-wind) - Unique music composed by a decentralized organism – the Stellar transaction network
 
 ## mysql 
@@ -1745,6 +1747,7 @@
 
 ## qt 
 
+- [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 
 ## r 
@@ -1757,6 +1760,7 @@
 
 ## raspberry-pi 
 
+- [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [brutella/hkcam](https://github.com/brutella/hkcam) - Open-Source HomeKit Surveillance Camera
 
