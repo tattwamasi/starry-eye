@@ -7,7 +7,6 @@
 
 - [ANTLR](#antlr)
 - [AsciiDoc](#asciidoc)
-- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -60,10 +59,6 @@
 - [tattwamasi/bitcoinbook](https://github.com/tattwamasi/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
 ## C 
 
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
@@ -107,6 +102,7 @@
 
 ## C++ 
 
+- [FashionFreedom/Seamly2D](https://github.com/FashionFreedom/Seamly2D) - Open source patternmaking software to democratize fashion.
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
@@ -165,7 +161,6 @@
 
 ## CMake 
 
-- [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
 - [Stability-AI/api-interfaces](https://github.com/Stability-AI/api-interfaces) - Interface definitions for API interactions between components
 
 ## CSS 
@@ -647,6 +642,7 @@
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
+- [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
 - [GammaTauAI/reflexion-human-eval](https://github.com/GammaTauAI/reflexion-human-eval) - An implementation of a Reflexion agent for SOTA Human-Eval Python results.
 - [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
@@ -847,7 +843,7 @@
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Drop-in auth and user management for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [rogerpadilla/nukak](https://github.com/rogerpadilla/nukak) - nukak is the smartest ORM for TypeScript
 - [DrakeAxelrod/json-resume-service](https://github.com/DrakeAxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
@@ -900,6 +896,7 @@
 - [satoshipay/amm-poc](https://github.com/satoshipay/amm-poc) - Proof of Concept Automated Market Maker on TSS
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [rabetofficial/rabet-extension](https://github.com/rabetofficial/rabet-extension) - :rabbit: :earth_americas: Rabet browser extension enables you to manage your assets and interact with Stellar apps.
 - [connext/spacefold](https://github.com/connext/spacefold) - 🌓 A demo of instant cross-chain communication using Connext!
 - [WalletConnect/web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
