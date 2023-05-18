@@ -286,7 +286,7 @@
 - [open-dynamic-robot-initiative/mw_gui_universal](https://github.com/open-dynamic-robot-initiative/mw_gui_universal) - 
 - [open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io](https://github.com/open-dynamic-robot-initiative/open-dynamic-robot-initiative.github.io) - 
 - [ColinEberhardt/wasmweekly](https://github.com/ColinEberhardt/wasmweekly) - Website for the WebAssembly weekly newsletter
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 - [tmaiaroto/hugo-redlounge](https://github.com/tmaiaroto/hugo-redlounge) - A Hugo theme
 - [Im5tu/hugo-bones](https://github.com/Im5tu/hugo-bones) - A minimal theme for Hugo
@@ -744,7 +744,7 @@
 
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - An Onchain Game Engine implemented in Cairo 1.0
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or J
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
