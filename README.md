@@ -495,7 +495,6 @@
 
 ## Jupyter Notebook 
 
-- [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - An implementation of a Reflexion agent for SOTA Human-Eval Python results.
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -648,6 +647,7 @@
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
+- [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning
 - [noahshinn024/reflexion-draft](https://github.com/noahshinn024/reflexion-draft) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
 - [emptycrown/llama-hub](https://github.com/emptycrown/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
