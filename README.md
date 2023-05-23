@@ -87,7 +87,7 @@
 - [orlp/ed25519](https://github.com/orlp/ed25519) - Portable C implementation of Ed25519, a high-speed high-security public-key signature system.
 - [jedisct1/swift-sodium](https://github.com/jedisct1/swift-sodium) - Safe and easy to use crypto for iOS and macOS
 - [stellar/stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
 - [Nuand/bladeRF](https://github.com/Nuand/bladeRF) - bladeRF USB 3.0 Superspeed Software Defined Radio Source Code
 
 ## C# # 
@@ -567,6 +567,7 @@
 - [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [github/developer-policy](https://github.com/github/developer-policy) - The GitHub Policy Team created and maintains this repository as a place for developers to contribute to our policy work.
 - [thephez/copay-hd-multisig-recovery](https://github.com/thephez/copay-hd-multisig-recovery) - Step-by-step guide for deriving Copay HD Multisig addresses and creating a transaction manually using only offline tools
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
@@ -662,6 +663,7 @@
 - [obss/BIOBSS](https://github.com/obss/BIOBSS) - A package for processing signals recorded using wearable sensors, such as Electrocardiogram (ECG), Photoplethysmogram (PPG), Electrodermal activity (EDA) and 3-axis acceleration (ACC).
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
@@ -745,7 +747,7 @@
 
 ## Rust 
 
-- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is an verifiable game engine and toolchain for building onchain games and autonomous worlds with Cairo 1.0.
+- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a provable game engine and toolchain for building onchain games and autonomous worlds with Cairo 1.0.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -871,7 +873,7 @@
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-Source Rules & Workflow Engine for User Identity and Risk Decisioning
+- [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-source infrastructure and data orchestration platform for risk decisioning
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [oreal-solutions/motionlink-cli](https://github.com/oreal-solutions/motionlink-cli) - Publish content to your blog, portfolio, and doc websites from Notion.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
