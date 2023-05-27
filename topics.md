@@ -66,6 +66,7 @@
 - [framework](#framework)
 - [frameworks](#frameworks)
 - [frontend](#frontend)
+- [game-development](#game-development)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -698,6 +699,10 @@
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
+## game-development 
+
+- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a verifiable game engine and toolchain for building onchain games and autonomous worlds with Cairo 1.0.
+
 ## gh-extension 
 
 - [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
@@ -1277,7 +1282,6 @@
 - [kernelmachine/cbtm](https://github.com/kernelmachine/cbtm) - Code repository for the c-BTM paper
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
-- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a provable game engine and toolchain for building onchain games and autonomous worlds with Cairo 1.0.
 - [G-Levine/rhea_description](https://github.com/G-Levine/rhea_description) - URDF model for the Rhea wheeled biped
 - [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
 - [emptycrown/llama-hub](https://github.com/emptycrown/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
@@ -1313,7 +1317,7 @@
 - [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) - VSCode extension that allows you to use ChatGPT or GPT4 inside the IDE
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
@@ -1838,6 +1842,7 @@
 
 ## rust 
 
+- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a verifiable game engine and toolchain for building onchain games and autonomous worlds with Cairo 1.0.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
