@@ -68,7 +68,7 @@
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [saagarjha/TSOEnabler](https://github.com/saagarjha/TSOEnabler) - Kernel extension that enables TSO for Apple silicon processes
 - [dlktdr/HeadTracker](https://github.com/dlktdr/HeadTracker) - This project is built to record the orientation a FPV headset to allow the camera on your RC to follow your head movements.
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 - [dalton-tulou/ql-iff](https://github.com/dalton-tulou/ql-iff) - Quick Look plugin for viewing iff pictures
 - [scottdraves/electricsheep](https://github.com/scottdraves/electricsheep) - infinite evolving crowdsourced artwork
