@@ -524,6 +524,7 @@
 
 ## Markdown 
 
+- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [satoshilabs/slips](https://github.com/satoshilabs/slips) - SatoshiLabs Improvement Proposals
 
@@ -580,7 +581,6 @@
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [pulumiverse/awesome-pulumi](https://github.com/pulumiverse/awesome-pulumi) - Curated list of resources on Pulumi
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
-- [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 - [awslabs/aws-sam-codepipeline-cd](https://github.com/awslabs/aws-sam-codepipeline-cd) - A serverless app that sets up an AWS CodePipeline pipeline for a given GitHub repo. This app allows people developing SAM applications to quickly get CodePipeline-based CD setup for their project.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
