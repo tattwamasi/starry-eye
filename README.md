@@ -926,7 +926,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [shapeshift/hdwallet](https://github.com/shapeshift/hdwallet) - A library for interacting with hardware wallets from JS/TS.
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [dojo/framework](https://github.com/dojo/framework) - Dojo Framework. A Progressive Framework for Modern Web Apps
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
