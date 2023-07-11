@@ -708,7 +708,7 @@
 
 ## game-development 
 
-- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a verifiable game engine and toolchain for building onchain games and autonomous worlds with Cairo 1.0.
+- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a provable game engine and toolchain for building onchain games and autonomous worlds with Cairo
 
 ## gh-extension 
 
@@ -1859,7 +1859,7 @@
 
 ## rust 
 
-- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a verifiable game engine and toolchain for building onchain games and autonomous worlds with Cairo 1.0.
+- [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a provable game engine and toolchain for building onchain games and autonomous worlds with Cairo
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
