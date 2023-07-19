@@ -689,7 +689,7 @@
 
 ## framework 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based content management system powered by Vapor 4.
@@ -699,7 +699,7 @@
 
 ## frameworks 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 
 ## frontend 
 
@@ -737,7 +737,7 @@
 ## github 
 
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
@@ -758,7 +758,7 @@
 
 ## github-api 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 
 ## go 
 
@@ -1069,7 +1069,7 @@
 ## linux 
 
 - [FashionFreedom/Seamly2D](https://github.com/FashionFreedom/Seamly2D) - Open source patternmaking software to democratize fashion.
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [parlance-zz/g-diffuser-bot](https://github.com/parlance-zz/g-diffuser-bot) - Discord bot and Interface for Stable Diffusion
@@ -1190,7 +1190,7 @@
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
@@ -1274,7 +1274,7 @@
 
 ## osint 
 
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 
 ## others 
 
@@ -1737,7 +1737,7 @@
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -2042,7 +2042,7 @@
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
