@@ -1278,6 +1278,7 @@
 
 ## others 
 
+- [vimalabs/VIMA](https://github.com/vimalabs/VIMA) - Official Algorithm Implementation of ICML'23 Paper "VIMA: General Robot Manipulation with Multimodal Prompts"
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [kiwix/overview](https://github.com/kiwix/overview) - :balloon: Start here for current projects, how to get involved with offline projects and joining community calls. A resource for new and veteran members
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
