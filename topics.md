@@ -189,7 +189,7 @@
 
 ## ai 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -242,7 +242,7 @@
 ## api 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [bpedro/postman-openapi-sync](https://github.com/bpedro/postman-openapi-sync) - Postman OpenAPI sync makes sure that your local OpenAPI spec is in sync with Postman.
 - [sendwyre/wyre-postman-collection](https://github.com/sendwyre/wyre-postman-collection) - This repo is filled to the brim with sample Postman API requests that allow you to test our back-end endpoints.
@@ -420,7 +420,7 @@
 ## chatgpt 
 
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [kaleido-lab/dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
@@ -433,7 +433,7 @@
 
 ## chatgpt-api 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome-extension 
@@ -643,7 +643,7 @@
 
 ## electron 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [future-tense/stargazer](https://github.com/future-tense/stargazer) - Stargazer is a mobile/desktop wallet for the Stellar payments network --
 
@@ -781,7 +781,7 @@
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
@@ -811,7 +811,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [utopiops/utopiops](https://github.com/utopiops/utopiops) - The simplest way to use AWS/GCP/Azure. From code to cloud in a few minutes.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -936,7 +936,7 @@
 
 ## java 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1169,7 +1169,7 @@
 
 ## mysql 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -1707,7 +1707,7 @@
 
 ## postgresql 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
@@ -1946,7 +1946,7 @@
 
 ## sql 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -2029,7 +2029,7 @@
 ## testing 
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
+- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 
