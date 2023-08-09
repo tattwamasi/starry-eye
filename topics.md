@@ -321,8 +321,8 @@
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
-- [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
@@ -518,7 +518,7 @@
 
 ## csharp 
 
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [Kirbyrawr/stellar-sample-unity](https://github.com/Kirbyrawr/stellar-sample-unity) - Stellar C# SDK Integration in Unity 3D
 
@@ -798,7 +798,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
@@ -951,7 +951,7 @@
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1190,8 +1190,8 @@
 
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
-- [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual page builder and web design tool for any website or web app tech stack
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -1280,6 +1280,7 @@
 
 ## others 
 
+- [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [vimalabs/VIMA](https://github.com/vimalabs/VIMA) - Official Algorithm Implementation of ICML'23 Paper "VIMA: General Robot Manipulation with Multimodal Prompts"
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
@@ -1741,7 +1742,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An all-in-one GitHub open-source intelligence framework.
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) - A Slack bot for GitHub organization management -- and other things too
@@ -1840,7 +1841,7 @@
 
 ## reactjs 
 
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 
@@ -1905,7 +1906,7 @@
 ## serverless 
 
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
@@ -2041,7 +2042,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
 - [DrakeAxelrod/json-resume-service](https://github.com/DrakeAxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
+- [sst/sst](https://github.com/sst/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
