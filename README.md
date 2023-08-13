@@ -667,7 +667,7 @@
 - [noahshinn024/reflexion-draft](https://github.com/noahshinn024/reflexion-draft) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [daveshap/raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
