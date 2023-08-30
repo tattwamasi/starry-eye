@@ -583,6 +583,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [contextmap/contextmap](https://github.com/contextmap/contextmap) - Contextmap is an interactive developer portal powered by automated documentation.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [pulumiverse/awesome-pulumi](https://github.com/pulumiverse/awesome-pulumi) - Curated list of resources on Pulumi
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
@@ -652,7 +653,7 @@
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [kaleido-lab/dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
-- [poe-platform/server-bot-tutorial](https://github.com/poe-platform/server-bot-tutorial) - Tutorial for Poe API bots
+- [poe-platform/server-bot-quick-start](https://github.com/poe-platform/server-bot-quick-start) - Tutorial for Poe API bots
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -786,7 +787,6 @@
 
 - [kiwix/overview](https://github.com/kiwix/overview) - :balloon: Start here for current projects, how to get involved with offline projects and joining community calls. A resource for new and veteran members
 - [schuhumi/alpine_kindle_kual](https://github.com/schuhumi/alpine_kindle_kual) - KUAL launcher to manage Alpine Linux for Kindle
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -887,7 +887,7 @@
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
