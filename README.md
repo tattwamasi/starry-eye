@@ -36,6 +36,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [RPC](#rpc)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -170,7 +171,6 @@
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [maticnetwork/whitepaper](https://github.com/maticnetwork/whitepaper) - Matic whitepaper
 - [switowski/deploystack](https://github.com/switowski/deploystack) - Curated list of tools to make launching websites easier
-- [stellar/stellar-protocol](https://github.com/stellar/stellar-protocol) - Developer discussion about possible changes to the protocol.
 - [netlify-templates/kaldi-hugo-cms-template](https://github.com/netlify-templates/kaldi-hugo-cms-template) - **Deprecated. Check out one-click-hugo-cms instead.**
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [chipsenkbeil/grid-side](https://github.com/chipsenkbeil/grid-side) - Personal portfolio and blog for use by the Hugo generator.
@@ -743,6 +743,10 @@
 - [initialstate/pi-zero-w-motion-sensor](https://github.com/initialstate/pi-zero-w-motion-sensor) - 
 - [miracle2k/onkyo-eiscp](https://github.com/miracle2k/onkyo-eiscp) - Control Onkyo A/V receivers over the network; usuable as a script, or as a Python library.
 - [GjjvdBurg/HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
+
+## RPC 
+
+- [stellar/stellar-protocol](https://github.com/stellar/stellar-protocol) - Developer discussion about possible changes to the protocol.
 
 ## Ruby 
 
