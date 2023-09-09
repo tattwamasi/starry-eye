@@ -421,7 +421,6 @@
 - [netlify/netlify-dev-plugin](https://github.com/netlify/netlify-dev-plugin) - Local dev server with functions, rules engine and add-on support
 - [netlify/netlify-lambda](https://github.com/netlify/netlify-lambda) - Helps building and serving lambda functions locally and in CI environments
 - [azukiapp/azk](https://github.com/azukiapp/azk) - azk is a lightweight open source development environment orchestration tool. Instantly & safely run any environment on your local machine.
-- [cosmic-plus/webapp-equilibre-io](https://github.com/cosmic-plus/webapp-equilibre-io) - A portfolio balancer for the Stellar DEX
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [zackster/CompassionPit--Node-](https://github.com/zackster/CompassionPit--Node-) - The node rewrite of CompassionPit.com
 - [codeforcash/keybase-bot-awslambda](https://github.com/codeforcash/keybase-bot-awslambda) - A keybase bot hosted on AWS Lambda
@@ -768,6 +767,7 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a provable game engine and toolchain for building onchain games and autonomous worlds with Cairo
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
