@@ -733,7 +733,7 @@
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -1306,6 +1306,7 @@
 
 ## others 
 
+- [ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour) - [CoRL 2023] Robot Parkour Learning
 - [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - 
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
