@@ -373,7 +373,7 @@
 - [go-faast/faast-web](https://github.com/go-faast/faast-web) - A decentralized cryptocurrency portfolio manager and exchange
 - [EYBlockchain/nightfall](https://github.com/EYBlockchain/nightfall) - Nightfall protocols for private transactions on the Ethereum blockchain using zk-snarks
 - [dopplertask/dopplertask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
-- [o1-labs/zkapp-cli](https://github.com/o1-labs/zkapp-cli) - CLI to create a zkApp ("zero-knowledge app") for Mina Protocol
+- [o1-labs/zkapp-cli](https://github.com/o1-labs/zkapp-cli) - CLI to create a zkApp (zero-knowledge app) for Mina Protocol
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [KlausSchaefers/vue-low-code](https://github.com/KlausSchaefers/vue-low-code) - Quant-UX standalone
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
@@ -646,6 +646,8 @@
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for gpt-3.5-turbo. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour) - [CoRL 2023] Robot Parkour Learning
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
