@@ -26,7 +26,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -235,6 +234,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [bosun-monitor/bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
@@ -519,10 +519,6 @@
 ## Lua 
 
 - [AIE-Guild/GreenWall](https://github.com/AIE-Guild/GreenWall) - Common communication channel as a replacement for guild chat in guild confederations.
-
-## MDX 
-
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
@@ -919,7 +915,7 @@
 - [oreal-solutions/motionlink-cli](https://github.com/oreal-solutions/motionlink-cli) - Publish content to your blog, portfolio, and doc websites from Notion.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
