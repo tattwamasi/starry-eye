@@ -868,11 +868,12 @@
 
 ## hacktoberfest 
 
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -1370,7 +1371,6 @@
 - [treyhuffine/portfolio-create-react-app](https://github.com/treyhuffine/portfolio-create-react-app) - How to build a developer portfolio using React
 - [rogerpadilla/nukak](https://github.com/rogerpadilla/nukak) - nukak is the smartest ORM for TypeScript
 - [obss/BIOBSS](https://github.com/obss/BIOBSS) - A package for processing signals recorded using wearable sensors, such as Electrocardiogram (ECG), Photoplethysmogram (PPG), Electrodermal activity (EDA) and 3-axis acceleration (ACC).
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [githubnext/blocks-dev](https://github.com/githubnext/blocks-dev) - 
@@ -1631,7 +1631,6 @@
 - [mattgallagher/AudioStreamer](https://github.com/mattgallagher/AudioStreamer) - A streaming audio player class (AudioStreamer) for Mac OS X and iPhone.
 - [tumtumtum/StreamingKit](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for OSX and iOS (iPhone, iPad)
 - [lheric/GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer) - Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
-- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 - [virinext/hevcesbrowser](https://github.com/virinext/hevcesbrowser) - HEVCESBrowser is a tool for analyzing hevc(h265) bitstreams
 - [jpsim/CardsAgainst](https://github.com/jpsim/CardsAgainst) - An iOS game for horrible people
 - [jpsim/PeerKit](https://github.com/jpsim/PeerKit) - An open-source Swift framework for building event-driven, zero-config Multipeer Connectivity apps
@@ -2042,6 +2041,7 @@
 - [Soneso/stellar-ios-mac-sdk](https://github.com/Soneso/stellar-ios-mac-sdk) - Stellar SDK for iOS & macOS - Swift, Stellar, Horizon, Soneso
 - [zac-garby/music-stats](https://github.com/zac-garby/music-stats) - An iOS app to visualise your Apple Music library.
 - [Antidote-for-Tox/Antidote](https://github.com/Antidote-for-Tox/Antidote) - No longer maintained
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 - [ole/whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 - [krzysztofzablocki/Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) - Better playgrounds that work both for Objective-C and Swift
 
