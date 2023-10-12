@@ -21,6 +21,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
@@ -355,6 +356,10 @@
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [utopiops/utopiops](https://github.com/utopiops/utopiops) - The simplest way to use AWS/GCP/Azure. From code to cloud in a few minutes.
+
+## backend 
+
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## bash 
 
@@ -1323,6 +1328,7 @@
 
 ## others 
 
+- [dust-tt/llama-ssp](https://github.com/dust-tt/llama-ssp) - Experiments on speculative sampling with Llama models
 - [yencarnacion/yt-sum](https://github.com/yencarnacion/yt-sum) - This is a Python script that summarizes a youtube video from a YouTube URL
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework
 - [ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour) - [CoRL 2023] Robot Parkour Learning
@@ -1382,7 +1388,7 @@
 - [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) - VSCode extension that allows you to use ChatGPT or GPT4 inside the IDE
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
