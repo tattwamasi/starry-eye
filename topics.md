@@ -2062,7 +2062,7 @@
 - [Soneso/stellar-ios-mac-sdk](https://github.com/Soneso/stellar-ios-mac-sdk) - Stellar SDK for iOS & macOS - Swift, Stellar, Horizon, Soneso
 - [zac-garby/music-stats](https://github.com/zac-garby/music-stats) - An iOS app to visualise your Apple Music library.
 - [Antidote-for-Tox/Antidote](https://github.com/Antidote-for-Tox/Antidote) - No longer maintained
-- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP for iOS, macOS and tvOS.
+- [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP and SRT for iOS, macOS, tvOS and visionOS.
 - [ole/whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 - [krzysztofzablocki/Playgrounds](https://github.com/krzysztofzablocki/Playgrounds) - Better playgrounds that work both for Objective-C and Swift
 
