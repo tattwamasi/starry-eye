@@ -93,6 +93,7 @@
 
 ## C# # 
 
+- [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
@@ -442,7 +443,7 @@
 - [Luuun/luuun-react-native](https://github.com/Luuun/luuun-react-native) - Luuun React Native Wallet
 - [ndreckshage/lumenette](https://github.com/ndreckshage/lumenette) - react native mobile wallet
 - [thor1887/stellar-extended-merge](https://github.com/thor1887/stellar-extended-merge) - Fully merges a stellar account, copying all custom assets and offers
-- [remarcable/stellar-wind](https://github.com/remarcable/stellar-wind) - Unique music composed by a decentralized organism – the Stellar transaction network
+- [remarcable/stellar-wind](https://github.com/remarcable/stellar-wind) - Listen to unique music composed by a decentralized organism – the Stellar Lumen transaction network
 - [iotaledger/legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead) - IOTA Wallet
 - [atom/teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [bitfinexcom/bitfinex-api-node](https://github.com/bitfinexcom/bitfinex-api-node) - BITFINEX NodeJS trading API - Bitcoin, Litecoin, and Ether exchange
@@ -782,6 +783,7 @@
 
 ## Rust 
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a provable game engine and toolchain for building onchain games and autonomous worlds with Cairo
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
