@@ -646,6 +646,10 @@
 
 ## Python 
 
+- [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
+- [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Andyinater/AutoGen_IterativeCoding](https://github.com/Andyinater/AutoGen_IterativeCoding) - This repository demonstrates how a simple iterative coding loop, with history and resume capability, can be can be implemented in the AutoGen Framework.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [JieyuZ2/EcoAssistant](https://github.com/JieyuZ2/EcoAssistant) - EcoAssistant: using LLM assistant more affordably and accurately
 - [amadad/agentcy](https://github.com/amadad/agentcy) - Multi-Agent Creative Collaboration with AutoGen
