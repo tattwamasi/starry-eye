@@ -443,7 +443,7 @@
 - [Luuun/luuun-react-native](https://github.com/Luuun/luuun-react-native) - Luuun React Native Wallet
 - [ndreckshage/lumenette](https://github.com/ndreckshage/lumenette) - react native mobile wallet
 - [thor1887/stellar-extended-merge](https://github.com/thor1887/stellar-extended-merge) - Fully merges a stellar account, copying all custom assets and offers
-- [remarcable/stellar-wind](https://github.com/remarcable/stellar-wind) - Listen to unique music composed by a decentralized organism – the Stellar Lumen transaction network
+- [remarcable/stellar-wind](https://github.com/remarcable/stellar-wind) - Listen to unique web3 music composed by the Stellar Lumen transaction network
 - [iotaledger/legacy-wallet-use-trinity-wallet-instead](https://github.com/iotaledger/legacy-wallet-use-trinity-wallet-instead) - IOTA Wallet
 - [atom/teletype](https://github.com/atom/teletype) - Share your workspace with team members and collaborate on code in real time in Atom
 - [bitfinexcom/bitfinex-api-node](https://github.com/bitfinexcom/bitfinex-api-node) - BITFINEX NodeJS trading API - Bitcoin, Litecoin, and Ether exchange
