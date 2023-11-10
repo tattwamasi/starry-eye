@@ -435,6 +435,7 @@
 
 ## chatgpt 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -1344,6 +1345,8 @@
 
 ## others 
 
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
@@ -1494,7 +1497,7 @@
 - [BlockchainCommons/Research](https://github.com/BlockchainCommons/Research) - Blockchain Commons Research papers
 - [postmanlabs/postman-collection-transformer](https://github.com/postmanlabs/postman-collection-transformer) - Perform rapid conversion and validation of JSON structure between Postman Collection Format v1 and v2.
 - [go-faast/tokenCuration](https://github.com/go-faast/tokenCuration) - A list of curated tokens which may bear low regulatory risk. Name subject to change.
-- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - Source repository for fiat tokens on the CENTRE network.
+- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains.
 - [scipr-lab/libsnark](https://github.com/scipr-lab/libsnark) - C++ library for zkSNARKs
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [maticnetwork/whitepaper](https://github.com/maticnetwork/whitepaper) - Matic whitepaper
