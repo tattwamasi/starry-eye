@@ -398,7 +398,7 @@
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [postmanlabs/postman-collection-transformer](https://github.com/postmanlabs/postman-collection-transformer) - Perform rapid conversion and validation of JSON structure between Postman Collection Format v1 and v2.
 - [bpedro/postman-openapi-sync](https://github.com/bpedro/postman-openapi-sync) - Postman OpenAPI sync makes sure that your local OpenAPI spec is in sync with Postman.
-- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains.
+- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - 
 - [rstormsf/multisender](https://github.com/rstormsf/multisender) - Token Multisender Dapp smart contract. Airdrop tokens. Batch sending ERC20, ETH, Ethereum tokens. Send thousands of transfers in a few transactions. It can help user to save more tx fee and time than 
 - [austintgriffith/burner-wallet](https://github.com/austintgriffith/burner-wallet) - 🔥👛Burner Wallet to move crypto quickly in a web browser. Sweep to cold storage when you get home.  🏠👨🏻‍🚒
 - [tyvdh/stellar-turrets](https://github.com/tyvdh/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
@@ -675,7 +675,7 @@
 - [UT-Austin-RPL/TRILL](https://github.com/UT-Austin-RPL/TRILL) - Official codebase for Teleoperation and Imitation Learning for Loco-manipulation (TRILL)
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [yencarnacion/yt-sum](https://github.com/yencarnacion/yt-sum) - This is a Python script that summarizes a youtube video from a YouTube URL
-- [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework
+- [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour) - [CoRL 2023] Robot Parkour Learning
