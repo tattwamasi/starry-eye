@@ -398,7 +398,7 @@
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [postmanlabs/postman-collection-transformer](https://github.com/postmanlabs/postman-collection-transformer) - Perform rapid conversion and validation of JSON structure between Postman Collection Format v1 and v2.
 - [bpedro/postman-openapi-sync](https://github.com/bpedro/postman-openapi-sync) - Postman OpenAPI sync makes sure that your local OpenAPI spec is in sync with Postman.
-- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - 
+- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains
 - [rstormsf/multisender](https://github.com/rstormsf/multisender) - Token Multisender Dapp smart contract. Airdrop tokens. Batch sending ERC20, ETH, Ethereum tokens. Send thousands of transfers in a few transactions. It can help user to save more tx fee and time than 
 - [austintgriffith/burner-wallet](https://github.com/austintgriffith/burner-wallet) - 🔥👛Burner Wallet to move crypto quickly in a web browser. Sweep to cold storage when you get home.  🏠👨🏻‍🚒
 - [tyvdh/stellar-turrets](https://github.com/tyvdh/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
@@ -1003,6 +1003,7 @@
 
 ## Vue 
 
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [aws-samples/amazon-api-gateway-url-shortener](https://github.com/aws-samples/amazon-api-gateway-url-shortener) - Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 
