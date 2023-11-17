@@ -345,6 +345,7 @@
 
 ## JavaScript 
 
+- [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [polymorpher/one-wallet](https://github.com/polymorpher/one-wallet) - 1wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security.
@@ -394,7 +395,7 @@
 - [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
 - [dougmoscrop/serverless-http](https://github.com/dougmoscrop/serverless-http) - Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda 🎉
 - [berbix/berbix-node](https://github.com/berbix/berbix-node) - Node SDK for interacting with the Berbix API
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [postmanlabs/postman-collection-transformer](https://github.com/postmanlabs/postman-collection-transformer) - Perform rapid conversion and validation of JSON structure between Postman Collection Format v1 and v2.
 - [bpedro/postman-openapi-sync](https://github.com/bpedro/postman-openapi-sync) - Postman OpenAPI sync makes sure that your local OpenAPI spec is in sync with Postman.
