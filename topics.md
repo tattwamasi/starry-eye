@@ -194,6 +194,7 @@
 
 ## ai 
 
+- [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
@@ -261,6 +262,7 @@
 
 ## api 
 
+- [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
@@ -757,6 +759,7 @@
 
 ## framework 
 
+- [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
@@ -1086,7 +1089,7 @@
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [tidwall/summitdb](https://github.com/tidwall/summitdb) - In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
 
@@ -1373,6 +1376,7 @@
 
 ## others 
 
+- [oobabooga/text-generation-webui-extensions](https://github.com/oobabooga/text-generation-webui-extensions) - 
 - [FlowiseAI/FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed) - 
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [AaronWard/generative-ai-workbook](https://github.com/AaronWard/generative-ai-workbook) - Central repository for all LLM development
@@ -1557,7 +1561,7 @@
 - [kadena-io/kuro](https://github.com/kadena-io/kuro) - Kuro permissioned blockchain, powered by ScalableBFT and Pact
 - [satoshilabs/slips](https://github.com/satoshilabs/slips) - SatoshiLabs Improvement Proposals
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
 - [kleetus/bitcoin-wallet-node](https://github.com/kleetus/bitcoin-wallet-node) - Node C++ bindings for Bitcoin Core/Berkeley DB 4.8 wallet.dat
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [bitcoin/bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
@@ -1849,6 +1853,8 @@
 
 ## python 
 
+- [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [rizerphe/openai-functions](https://github.com/rizerphe/openai-functions) - Generate ChatGPT function call schemas based on function docstrings.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
@@ -1885,7 +1891,7 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
@@ -1894,7 +1900,7 @@
 
 ## python3 
 
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 
 ## pytorch 
 
