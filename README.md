@@ -664,6 +664,7 @@
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 - [bonadio/autogenwebdemo](https://github.com/bonadio/autogenwebdemo) - Simple implementation of Autogen with FastApi backend and React frontend
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [amikos-tech/func-ai](https://github.com/amikos-tech/func-ai) - AI Functional Catalog - OpenAI functions on steriods
 - [aurelio-labs/funkagent](https://github.com/aurelio-labs/funkagent) - Experimental agent using OpenAI Functions
 - [rizerphe/openai-functions](https://github.com/rizerphe/openai-functions) - Generate ChatGPT function call schemas based on function docstrings.
@@ -845,7 +846,6 @@
 
 ## Shell 
 
-- [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [kiwix/overview](https://github.com/kiwix/overview) - :balloon: Start here for current projects, how to get involved with offline projects and joining community calls. A resource for new and veteran members
 - [schuhumi/alpine_kindle_kual](https://github.com/schuhumi/alpine_kindle_kual) - KUAL launcher to manage Alpine Linux for Kindle
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
