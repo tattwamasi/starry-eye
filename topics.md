@@ -134,6 +134,7 @@
 - [p2p](#p2p)
 - [php](#php)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -1362,7 +1363,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools. 极易扩展的无代码/低代码开发平台。
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [seratch/slack-bolt-extensions](https://github.com/seratch/slack-bolt-extensions) - Collection of bolt-js InstallationStore/Receiver implementations + Next.js support module
 - [olton/mina-node-monitor](https://github.com/olton/mina-node-monitor) - Mina Monitor is an extended graphical version of the mina client status command with additional indicators. This is a client-server application for visual monitoring of the validator node and alerts a
@@ -1665,7 +1666,6 @@
 - [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
 - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) - DEPRECATED - See README.md
 - [keybase/bot-sshca](https://github.com/keybase/bot-sshca) - A chat bot that can manage your team's SSH accounts
-- [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 - [probcomp/PoseCNN](https://github.com/probcomp/PoseCNN) - A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes
 - [probcomp/gen-quickstart](https://github.com/probcomp/gen-quickstart) - Gen learning material as Jupyter notebooks
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
@@ -1882,6 +1882,11 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
+
+## privacy 
+
+- [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
+- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
 ## programming 
 
