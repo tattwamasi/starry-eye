@@ -1923,7 +1923,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [rizerphe/openai-functions](https://github.com/rizerphe/openai-functions) - Generate ChatGPT function call schemas based on function docstrings.
-- [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agentcloud is a Python and Next.js-based project featuring an autogen-enabled agent backend and a webapp with a custom server. It streamlines team formation and task execution workflows using docker-c
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
