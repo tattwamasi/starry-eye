@@ -514,7 +514,7 @@
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
 - [Josh-XT/Local-LLM](https://github.com/Josh-XT/Local-LLM) - Local-LLM is a llama.cpp server in Docker with OpenAI Style Endpoints.
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
-- [jxnl/instructor](https://github.com/jxnl/instructor) - openai function calls for humans
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [sugarforever/LangChain-Advanced](https://github.com/sugarforever/LangChain-Advanced) - 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
