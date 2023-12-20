@@ -54,6 +54,7 @@
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
+- [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
@@ -63,6 +64,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
+- [express](#express)
 - [finance](#finance)
 - [firebase](#firebase)
 - [flutter](#flutter)
@@ -195,6 +197,9 @@
 
 ## ai 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [getzep/zep](https://github.com/getzep/zep) - Zep: Fast, scalable building blocks for production LLM apps
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
@@ -214,7 +219,7 @@
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion) - [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -462,6 +467,7 @@
 
 ## chatgpt 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
@@ -503,6 +509,7 @@
 
 ## cli 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
@@ -568,6 +575,7 @@
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
 
 ## cryptocurrency 
@@ -686,6 +694,10 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 
+## discord 
+
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+
 ## docker 
 
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
@@ -718,6 +730,7 @@
 
 ## education 
 
+- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -759,6 +772,10 @@
 - [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) - :iphone: Trust - Ethereum Wallet and Web3 DApp Browser for iOS
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
 
+## express 
+
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+
 ## finance 
 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -779,6 +796,7 @@
 
 ## framework 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
@@ -849,6 +867,7 @@
 
 ## go 
 
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Auth and user management for the passkey era
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -878,6 +897,7 @@
 
 ## golang 
 
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [palantir/bulldozer](https://github.com/palantir/bulldozer) - GitHub Pull Request Auto-Merge Bot
 - [palantir/policy-bot](https://github.com/palantir/policy-bot) - A GitHub App that enforces approval policies on pull requests
@@ -917,6 +937,7 @@
 
 ## graphql 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -1053,6 +1074,7 @@
 
 ## javascript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -1162,6 +1184,7 @@
 
 ## language 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
@@ -1214,6 +1237,7 @@
 
 ## machine-learning 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
@@ -1279,6 +1303,7 @@
 
 ## mongodb 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
@@ -1315,6 +1340,8 @@
 
 ## nextjs 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
 - [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agentcloud is a Python and Next.js-based project featuring an autogen-enabled agent backend and a webapp with a custom server. It streamlines team formation and task execution workflows using docker-c
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -1351,6 +1378,7 @@
 
 ## nodejs 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
@@ -1399,6 +1427,7 @@
 
 ## open-source 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -1411,11 +1440,23 @@
 
 ## opengl 
 
+- [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 
 ## others 
 
+- [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+- [coder/envbuilder](https://github.com/coder/envbuilder) - Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Allow developers to modify their environment in a tight feedback loop.
+- [coder/packages](https://github.com/coder/packages) - Deploy Coder to your preferred cloud with a pre-built package.
+- [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
+- [microsoft/vscode-github-issue-notebooks](https://github.com/microsoft/vscode-github-issue-notebooks) - GitHub Issues Notebooks for VS Code
+- [Authress-Engineering/openapi-explorer](https://github.com/Authress-Engineering/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
+- [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+- [ngrok/ngrok-api-python](https://github.com/ngrok/ngrok-api-python) - ngrok API client library for Python
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [pierskarsenbarg/pulumi-ngrok](https://github.com/pierskarsenbarg/pulumi-ngrok) - 
 - [DavidFrahm/wakatime-mobile](https://github.com/DavidFrahm/wakatime-mobile) - Mobile app for WakaTime
 - [thinkall/autogen-demos](https://github.com/thinkall/autogen-demos) - Demo code for use cases of AutoGen
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
@@ -1843,7 +1884,6 @@
 - [creationix/howtonode.org](https://github.com/creationix/howtonode.org) - This repo contains the actual articles for HowToNode.org
 - [livereload/LiveReload](https://github.com/livereload/LiveReload) - LiveReload.app for Mac and Windows. See “develop” branch for the latest Windows release and LiveReload 3 progress. (NOTE: renamed from LiveReload2.)
 - [rtrvrtg/gollum](https://github.com/rtrvrtg/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [bboyairwreck/PieMessage](https://github.com/bboyairwreck/PieMessage) - This is project allows Android clients to communicate using iMessage
 - [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) - Free Lossless Image Format
 - [googlearchive/android-Camera2Basic](https://github.com/googlearchive/android-Camera2Basic) - Migrated:
@@ -1918,6 +1958,9 @@
 
 ## python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
+- [ngrok/ngrok-python](https://github.com/ngrok/ngrok-python) - Embed ngrok secure ingress into your Python apps with a single line of code.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
@@ -1933,7 +1976,7 @@
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -1972,6 +2015,7 @@
 
 ## python3 
 
+- [ngrok/ngrok-python](https://github.com/ngrok/ngrok-python) - Embed ngrok secure ingress into your Python apps with a single line of code.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 
@@ -2010,6 +2054,7 @@
 
 ## react 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -2082,6 +2127,7 @@
 
 ## rust 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a provable game engine and toolchain for building onchain games and autonomous worlds with Cairo
@@ -2237,6 +2283,8 @@
 
 ## terminal 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -2246,6 +2294,7 @@
 
 ## terraform 
 
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -2271,6 +2320,7 @@
 
 ## typescript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
@@ -2330,6 +2380,7 @@
 
 ## web 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
