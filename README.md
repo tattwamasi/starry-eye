@@ -429,7 +429,6 @@
 - [OutCast3k/coinbin](https://github.com/OutCast3k/coinbin) - Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more!
 - [bitcoinjs/bip38](https://github.com/bitcoinjs/bip38) - BIP38 is a standard process to encrypt Bitcoin and crypto currency private keys that is less susceptible to brute force attacks thus protecting the user.
 - [coinables/segwitaddress](https://github.com/coinables/segwitaddress) - segwit paper wallet address generator P2WPKH
-- [Timbo925/walletprinter](https://github.com/Timbo925/walletprinter) - 
 - [bitpay/copay-recovery](https://github.com/bitpay/copay-recovery) - A simple client-side app to recover funds from all current and past Copay backups.
 - [mpcowan/trello-insights](https://github.com/mpcowan/trello-insights) - Trello Insights Power-Up
 - [rtcovidlive/covid-dash](https://github.com/rtcovidlive/covid-dash) - 
@@ -682,6 +681,8 @@
 
 ## Python 
 
+- [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - 100% Local AGI with LocalAI
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
