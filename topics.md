@@ -624,6 +624,7 @@
 
 ## data-science 
 
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -648,6 +649,7 @@
 
 ## deep-learning 
 
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [UT-Austin-RPL/TRILL](https://github.com/UT-Austin-RPL/TRILL) - Official codebase for Teleoperation and Imitation Learning for Loco-manipulation (TRILL)
@@ -1237,6 +1239,7 @@
 
 ## machine-learning 
 
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
@@ -1446,6 +1449,7 @@
 
 ## others 
 
+- [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - 100% Local AGI with LocalAI
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [coder/envbuilder](https://github.com/coder/envbuilder) - Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Allow developers to modify their environment in a tight feedback loop.
@@ -1672,7 +1676,6 @@
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [coinables/segwitaddress](https://github.com/coinables/segwitaddress) - segwit paper wallet address generator P2WPKH
 - [nomorecoin/python-bip38-testing](https://github.com/nomorecoin/python-bip38-testing) - Python BIP0038
-- [Timbo925/walletprinter](https://github.com/Timbo925/walletprinter) - 
 - [JazzCore/python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
 - [1200wd/bulkpaperwallets](https://github.com/1200wd/bulkpaperwallets) - Create Bulk Paper Wallets
 - [bitpay/copay-recovery](https://github.com/bitpay/copay-recovery) - A simple client-side app to recover funds from all current and past Copay backups.
