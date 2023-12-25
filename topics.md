@@ -856,7 +856,7 @@
 ## github 
 
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering OSINT on GitHub entities.
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
@@ -1462,6 +1462,8 @@
 
 ## others 
 
+- [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
+- [apple/axlearn](https://github.com/apple/axlearn) - 
 - [OpenBuddy/OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [spruceid/chatbot](https://github.com/spruceid/chatbot) - A chatbot interface that uses SpruceKit
@@ -2004,7 +2006,7 @@
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering Open-Source Intelligence on GitHub entities.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - An All-In-One framework for gathering OSINT on GitHub entities.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
