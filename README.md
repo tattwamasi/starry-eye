@@ -521,6 +521,7 @@
 
 ## Jupyter Notebook 
 
+- [brevdev/notebooks](https://github.com/brevdev/notebooks) - 
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
