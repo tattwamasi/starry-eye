@@ -198,6 +198,7 @@
 
 ## ai 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning
 - [10clouds/aiconsole](https://github.com/10clouds/aiconsole) - An Open-Source Desktop AI Editor to Personalize Your Workflow
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
@@ -771,7 +772,7 @@
 - [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
-- [matter-labs/zksync-docs](https://github.com/matter-labs/zksync-docs) - zkSync documentation
+- [matter-labs/zksync-lite-docs](https://github.com/matter-labs/zksync-lite-docs) - zkSync documentation
 - [rstormsf/multisender](https://github.com/rstormsf/multisender) - Token Multisender Dapp smart contract. Airdrop tokens. Batch sending ERC20, ETH, Ethereum tokens. Send thousands of transfers in a few transactions. It can help user to save more tx fee and time than 
 - [connext/spacefold](https://github.com/connext/spacefold) - 🌓 A demo of instant cross-chain communication using Connext!
 - [austintgriffith/burner-wallet](https://github.com/austintgriffith/burner-wallet) - 🔥👛Burner Wallet to move crypto quickly in a web browser. Sweep to cold storage when you get home.  🏠👨🏻‍🚒
@@ -1462,6 +1463,7 @@
 
 ## others 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
 - [brevdev/notebooks](https://github.com/brevdev/notebooks) - 
 - [google/centaur](https://github.com/google/centaur) - 
@@ -2408,7 +2410,7 @@
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
-- [matter-labs/zksync-docs](https://github.com/matter-labs/zksync-docs) - zkSync documentation
+- [matter-labs/zksync-lite-docs](https://github.com/matter-labs/zksync-lite-docs) - zkSync documentation
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 
 ## vuejs 
