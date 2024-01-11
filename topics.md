@@ -472,6 +472,7 @@
 
 ## chatgpt 
 
+- [Tonic-AI/Poly](https://github.com/Tonic-AI/Poly) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -660,6 +661,7 @@
 
 ## deep-learning 
 
+- [Tonic-AI/Poly](https://github.com/Tonic-AI/Poly) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
@@ -1253,6 +1255,7 @@
 
 ## machine-learning 
 
+- [Tonic-AI/Poly](https://github.com/Tonic-AI/Poly) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
@@ -1465,6 +1468,13 @@
 
 ## others 
 
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
+- [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py) - Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)
+- [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
+- [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
@@ -1481,7 +1491,7 @@
 - [epfLLM/Megatron-LLM](https://github.com/epfLLM/Megatron-LLM) - distributed trainer for LLMs
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - 100% Local AGI with LocalAI
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [coder/envbuilder](https://github.com/coder/envbuilder) - Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Allow developers to modify their environment in a tight feedback loop.
 - [coder/packages](https://github.com/coder/packages) - Deploy Coder to your preferred cloud with a pre-built package.
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
@@ -2408,6 +2418,7 @@
 
 ## visual-studio-code 
 
+- [semgrep/semgrep-vscode](https://github.com/semgrep/semgrep-vscode) - Semgrep extension for Visual Studio Code
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 
 ## vue 
@@ -2426,7 +2437,6 @@
 
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
