@@ -117,6 +117,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -1329,6 +1330,10 @@
 
 - [mateosss/matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design
 
+## microsoft 
+
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+
 ## mobile 
 
 - [Snapchat/djinni](https://github.com/Snapchat/djinni) - A tool for generating cross-language type declarations and interface bindings. Djinni's new home is in the Snapchat org.
@@ -1785,7 +1790,6 @@
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [azukiapp/azk](https://github.com/azukiapp/azk) - azk is a lightweight open source development environment orchestration tool. Instantly & safely run any environment on your local machine.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [AndrewBudd/axb](https://github.com/AndrewBudd/axb) - 
 - [ys/shortcuts](https://github.com/ys/shortcuts) - 
 - [zackster/CompassionPit--Node-](https://github.com/zackster/CompassionPit--Node-) - The node rewrite of CompassionPit.com
