@@ -529,7 +529,7 @@
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
-- [Josh-XT/Local-LLM](https://github.com/Josh-XT/Local-LLM) - Local-LLM is a llama.cpp server in Docker with OpenAI Style Endpoints.
+- [Josh-XT/Local-LLM](https://github.com/Josh-XT/Local-LLM) - Local-LLM is an easy to set up llama.cpp server in Docker with OpenAI Style Endpoints.
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [sugarforever/LangChain-Advanced](https://github.com/sugarforever/LangChain-Advanced) - 
@@ -688,6 +688,7 @@
 
 ## Python 
 
+- [zulip/python-zulip-api](https://github.com/zulip/python-zulip-api) - Python library for the Zulip API.
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 - [sidak/otfusion](https://github.com/sidak/otfusion) - Model Fusion via Optimal Transport, NeurIPS 2020
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
