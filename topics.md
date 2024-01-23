@@ -201,6 +201,7 @@
 
 ## ai 
 
+- [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning
 - [10clouds/aiconsole](https://github.com/10clouds/aiconsole) - An Open-Source Desktop AI Editor to Personalize Your Workflow
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
@@ -441,8 +442,8 @@
 - [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
 - [hyperledger-archives/burrow](https://github.com/hyperledger-archives/burrow) - https://wiki.hyperledger.org/display/burrow
 - [evmos/ethermint](https://github.com/evmos/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
-- [tyvdh/stellar-quest-bounties](https://github.com/tyvdh/stellar-quest-bounties) - Stellar Quest Bounties is an extension of the traditional, series based Stellar Quest challenges allowing seasoned and passionate Stellar Questers to continue their journey of education and earning du
-- [tyvdh/stellar-turrets](https://github.com/tyvdh/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
+- [kalepail/stellar-quest-bounties](https://github.com/kalepail/stellar-quest-bounties) - Stellar Quest Bounties is an extension of the traditional, series based Stellar Quest challenges allowing seasoned and passionate Stellar Questers to continue their journey of education and earning du
+- [kalepail/stellar-turrets](https://github.com/kalepail/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [Lobstrco/Vault-iOS](https://github.com/Lobstrco/Vault-iOS) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
 - [stellar/awesome-stellar](https://github.com/stellar/awesome-stellar) - 👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more.
@@ -483,7 +484,7 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [rizerphe/openai-functions](https://github.com/rizerphe/openai-functions) - Generate ChatGPT function call schemas based on function docstrings.
@@ -606,7 +607,7 @@
 - [polymorpher/one-wallet](https://github.com/polymorpher/one-wallet) - 1wallet | Modulo OTP Wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security.
 - [go-faast/faast-web](https://github.com/go-faast/faast-web) - A decentralized cryptocurrency portfolio manager and exchange
 - [o1-labs/zkapp-cli](https://github.com/o1-labs/zkapp-cli) - CLI to create a zkApp (zero-knowledge app) for Mina Protocol
-- [tyvdh/stellar-quest-bounties](https://github.com/tyvdh/stellar-quest-bounties) - Stellar Quest Bounties is an extension of the traditional, series based Stellar Quest challenges allowing seasoned and passionate Stellar Questers to continue their journey of education and earning du
+- [kalepail/stellar-quest-bounties](https://github.com/kalepail/stellar-quest-bounties) - Stellar Quest Bounties is an extension of the traditional, series based Stellar Quest challenges allowing seasoned and passionate Stellar Questers to continue their journey of education and earning du
 - [Lobstrco/stellar-identicon-js](https://github.com/Lobstrco/stellar-identicon-js) - Javascript tool to generate identicons for Stellar wallets - unique icons, generated based on the wallet public key
 - [Lobstrco/Vault-iOS](https://github.com/Lobstrco/Vault-iOS) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
 - [Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) - Crypto Trading Bots in Python - Triangular Arbitrage, Beginner & Advanced Cryptocurrency Trading Bots Written in Python
@@ -628,6 +629,7 @@
 
 ## css 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [olton/mina-node-monitor](https://github.com/olton/mina-node-monitor) - Mina Monitor is an extended graphical version of the mina client status command with additional indicators. This is a client-server application for visual monitoring of the validator node and alerts a
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -983,6 +985,7 @@
 
 ## hacktoberfest 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
@@ -1039,6 +1042,7 @@
 
 ## html 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [olton/mina-node-monitor](https://github.com/olton/mina-node-monitor) - Mina Monitor is an extended graphical version of the mina client status command with additional indicators. This is a client-server application for visual monitoring of the validator node and alerts a
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -1108,6 +1112,7 @@
 
 ## javascript 
 
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
@@ -1139,7 +1144,7 @@
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
-- [tyvdh/stellar-turrets](https://github.com/tyvdh/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
+- [kalepail/stellar-turrets](https://github.com/kalepail/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [OutCast3k/coinbin](https://github.com/OutCast3k/coinbin) - Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more!
@@ -1272,6 +1277,7 @@
 
 ## machine-learning 
 
+- [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [Poly186-AI-DAO/Poly186](https://github.com/Poly186-AI-DAO/Poly186) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -1492,6 +1498,7 @@
 
 ## others 
 
+- [crutchcorn/nextjs-shoelace-example](https://github.com/crutchcorn/nextjs-shoelace-example) - A simple NextJS app using Shoelace web components
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 - [sidak/otfusion](https://github.com/sidak/otfusion) - Model Fusion via Optimal Transport, NeurIPS 2020
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
@@ -1725,7 +1732,7 @@
 - [switowski/deploystack](https://github.com/switowski/deploystack) - Curated list of tools to make launching websites easier
 - [discreetlogcontracts/dlcspecs](https://github.com/discreetlogcontracts/dlcspecs) - Specification for Discreet Log Contracts
 - [stellar/docs-wallet](https://github.com/stellar/docs-wallet) - 
-- [tyvdh/turing-signing-server](https://github.com/tyvdh/turing-signing-server) - 
+- [kalepail/turing-signing-server](https://github.com/kalepail/turing-signing-server) - 
 - [trustwallet/TrustSDK-iOS](https://github.com/trustwallet/TrustSDK-iOS) - No longer maintained. https://community.trustwallet.com/t/trustsdk-is-discontinued/213116
 - [Midvel/medium_blockchain_notes](https://github.com/Midvel/medium_blockchain_notes) - Blockchain Everywhere (code notes for Medium)
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
@@ -2031,7 +2038,7 @@
 - [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
 - [ngrok/ngrok-python](https://github.com/ngrok/ngrok-python) - Embed ngrok secure ingress into your Python apps with a single line of code.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [commonism/aiopenapi3](https://github.com/commonism/aiopenapi3) - Python OpenAPI3 client/validator w\ {a,}syncio
