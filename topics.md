@@ -438,6 +438,7 @@
 - [go-faast/faast-web](https://github.com/go-faast/faast-web) - A decentralized cryptocurrency portfolio manager and exchange
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [OutCast3k/coinbin](https://github.com/OutCast3k/coinbin) - Javascript Bitcoin Wallet. Supports Multisig, Stealth, HD, SegWit, Bech32, Time Locked Addresses, RBF and more!
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [bitcoinjs/bip38](https://github.com/bitcoinjs/bip38) - BIP38 is a standard process to encrypt Bitcoin and crypto currency private keys that is less susceptible to brute force attacks thus protecting the user.
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [Kimbatt/btc-address-generator](https://github.com/Kimbatt/btc-address-generator) - Bitcoin address generator (bech32, segwit, paper wallets, BIP39 seed, etc.)
@@ -454,6 +455,7 @@
 - [kalepail/stellar-turrets](https://github.com/kalepail/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [Lobstrco/Vault-iOS](https://github.com/Lobstrco/Vault-iOS) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [stellar/awesome-stellar](https://github.com/stellar/awesome-stellar) - 👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more.
 - [poliha/stellar-tokens](https://github.com/poliha/stellar-tokens) - 
 - [Reidmcc/rockfish](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX)
@@ -1768,7 +1770,6 @@
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
 - [kleetus/bitcoin-wallet-node](https://github.com/kleetus/bitcoin-wallet-node) - Node C++ bindings for Bitcoin Core/Berkeley DB 4.8 wallet.dat
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [bitcoin/bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
 - [JohnathanWhite/cordova-apple-wallet](https://github.com/JohnathanWhite/cordova-apple-wallet) - A Cordova plugin that provides easy use for adding your credit/debit cards to Apple Wallet. It also can check if the credit/debit card exists in Wallet or any paired device e.g. Apple Watch
 - [temoto/vender](https://github.com/temoto/vender) - Open source vending machine controller firmware
