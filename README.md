@@ -336,6 +336,7 @@
 
 ## Java 
 
+- [NativeVision/viro](https://github.com/NativeVision/viro) - ViroReact: The AR and VR library for React Native 📳💙💛🤍💚
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -528,6 +529,7 @@
 
 ## Jupyter Notebook 
 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [hkproj/mistral-llm-notes](https://github.com/hkproj/mistral-llm-notes) - Notes on the Mistral AI model
@@ -695,6 +697,7 @@
 
 ## Python 
 
+- [oughtinc/ice](https://github.com/oughtinc/ice) - Interactive Composition Explorer: a debugger for compositional language model programs
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [robocorp/actions-cookbook](https://github.com/robocorp/actions-cookbook) - Showcasing the best AI Actions for Robocorp Action Server. Contributions welcome!
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -919,6 +922,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [tantaraio/voy](https://github.com/tantaraio/voy) - 🕸️🦀 A WASM vector similarity search written in Rust
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ngrok/ngrok-python](https://github.com/ngrok/ngrok-python) - Embed ngrok secure ingress into your Python apps with a single line of code.
@@ -990,6 +994,7 @@
 
 ## Swift 
 
+- [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime) - Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage activity.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -1034,6 +1039,7 @@
 
 ## TypeScript 
 
+- [pinecone-io/aws-reference-architecture-pulumi](https://github.com/pinecone-io/aws-reference-architecture-pulumi) - Pinecone AWS Reference Architecture
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
