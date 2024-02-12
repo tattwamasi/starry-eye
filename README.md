@@ -710,6 +710,7 @@
 
 ## Python 
 
+- [FusionAuth/fusionauth-python-client](https://github.com/FusionAuth/fusionauth-python-client) - FusionAuth Python Client
 - [riccardomusmeci/mlx-llm](https://github.com/riccardomusmeci/mlx-llm) - LLM applications running on Apple Silicon thanks to mlx from Apple
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [sacha-ichbiah/outlines-mlx](https://github.com/sacha-ichbiah/outlines-mlx) - A fast minimalistic implementation of guided generation on Apple Silicon using Outlines and MLX
