@@ -221,7 +221,7 @@
 - [metamind-ai/autogen-agi](https://github.com/metamind-ai/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning
 - [10clouds/aiconsole](https://github.com/10clouds/aiconsole) - An Open-Source Desktop AI Editor to Personalize Your Workflow
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -266,7 +266,7 @@
 
 ## analytics 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. 🕵️‍♂️ Langfuse: the LLM engineering platform. Debug, analyze and iterate togeth
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
 - [agentlabs-inc/agentlabs](https://github.com/agentlabs-inc/agentlabs) - Universal AI Agent Frontend. Build your backend we handle the rest.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
@@ -417,7 +417,6 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [nodesource/nsolid-aws](https://github.com/nodesource/nsolid-aws) - Run N|Solid in Amazon Web Services
 - [lazywithclass/winston-cloudwatch](https://github.com/lazywithclass/winston-cloudwatch) - Send logs to Amazon Cloudwatch using Winston.
-- [utopiops/belfy](https://github.com/utopiops/belfy) - Create a CRUD application from simple data definition yaml files and customise it using yaml.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [aws-samples/amazon-apigateway-accept-apikeys-as-querystring](https://github.com/aws-samples/amazon-apigateway-accept-apikeys-as-querystring) - This repository contains code associated with an AWS a blog which demonstrates how you can accept API keys as a query string parameter in Amazon API Gateway.
 - [envato/stack_master](https://github.com/envato/stack_master) - The missing CloudFormation tool
@@ -436,7 +435,6 @@
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-- [utopiops/belfy](https://github.com/utopiops/belfy) - Create a CRUD application from simple data definition yaml files and customise it using yaml.
 
 ## backend 
 
@@ -595,6 +593,7 @@
 
 ## code 
 
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 
@@ -776,7 +775,6 @@
 - [Legit-Labs/legitify](https://github.com/Legit-Labs/legitify) - Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [pulumiverse/awesome-pulumi](https://github.com/pulumiverse/awesome-pulumi) - Curated list of resources on Pulumi
-- [utopiops/belfy](https://github.com/utopiops/belfy) - Create a CRUD application from simple data definition yaml files and customise it using yaml.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -1007,7 +1005,6 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-- [utopiops/belfy](https://github.com/utopiops/belfy) - Create a CRUD application from simple data definition yaml files and customise it using yaml.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
@@ -1464,7 +1461,7 @@
 
 ## monitoring 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. 🕵️‍♂️ Langfuse: the LLM engineering platform. Debug, analyze and iterate togeth
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
 - [bosun-monitor/bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 
@@ -1496,12 +1493,12 @@
 
 ## nextjs 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. 🕵️‍♂️ Langfuse: the LLM engineering platform. Debug, analyze and iterate togeth
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [skovy/llm-markdown](https://github.com/skovy/llm-markdown) - Demo rendering rich responses from LLMs
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
 - [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agentcloud is a Python and Next.js-based project featuring an autogen-enabled agent backend and a webapp with a custom server. It streamlines team formation and task execution workflows using docker-c
@@ -1556,7 +1553,6 @@
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [nodesource/nsolid-aws](https://github.com/nodesource/nsolid-aws) - Run N|Solid in Amazon Web Services
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
-- [utopiops/belfy](https://github.com/utopiops/belfy) - Create a CRUD application from simple data definition yaml files and customise it using yaml.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
@@ -1595,8 +1591,8 @@
 
 ## open-source 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. 🕵️‍♂️ Langfuse: the LLM engineering platform. Debug, analyze and iterate togeth
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -2309,7 +2305,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
@@ -2324,6 +2320,7 @@
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [utopiops/belfy](https://github.com/utopiops/belfy) - Create a CRUD application from simple data definition yaml files and customise it using yaml.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -2353,7 +2350,7 @@
 
 ## reactjs 
 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
@@ -2411,6 +2408,7 @@
 
 ## security 
 
+- [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source enterprise digital identity platform that scales for CIAM: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
@@ -2428,9 +2426,9 @@
 ## self-hosted 
 
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. 🕵️‍♂️ Langfuse: the LLM engineering platform. Debug, analyze and iterate togeth
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -2586,7 +2584,6 @@
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
-- [utopiops/belfy](https://github.com/utopiops/belfy) - Create a CRUD application from simple data definition yaml files and customise it using yaml.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -2608,13 +2605,13 @@
 
 ## typescript 
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. 🕵️‍♂️ Langfuse: the LLM engineering platform. Debug, analyze and iterate togeth
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
