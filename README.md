@@ -103,10 +103,14 @@
 
 ## C++ 
 
+- [ipkn/crow](https://github.com/ipkn/crow) - Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+- [CrowCpp/Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
+- [lganzzzo/canchat](https://github.com/lganzzzo/canchat) - Feature-complete rooms-based chat for tens of thousands users. Client plus Server. Built with Oat++ Web Framework.
+- [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [Snapchat/djinni](https://github.com/Snapchat/djinni) - A tool for generating cross-language type declarations and interface bindings. Djinni's new home is in the Snapchat org.
 - [KellanM/OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal) - Integration for the OpenAI Api in Unreal Engine
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
@@ -553,6 +557,7 @@
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
 - [DevXT-LLC/ezlocalai](https://github.com/DevXT-LLC/ezlocalai) - ezlocalai is an easy to set up local artificial intelligence server with OpenAI Style Endpoints.
+- [yeyu2/Youtube_demos](https://github.com/yeyu2/Youtube_demos) - 
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
 - [sugarforever/LangChain-Advanced](https://github.com/sugarforever/LangChain-Advanced) - 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
@@ -715,6 +720,7 @@
 
 ## Python 
 
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [FusionAuth/fusionauth-python-client](https://github.com/FusionAuth/fusionauth-python-client) - FusionAuth Python Client
@@ -791,7 +797,6 @@
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
 - [disler/multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
 - [neulab/prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
-- [yeyu2/Youtube_demos](https://github.com/yeyu2/Youtube_demos) - 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [MeetKai/functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
 - [commonism/aiopenapi3](https://github.com/commonism/aiopenapi3) - Python OpenAPI3 client/validator w\ {a,}syncio
@@ -1125,8 +1130,8 @@
 - [spruceid/ssx](https://github.com/spruceid/ssx) - Self-Sovereign Anything
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [10clouds/aiconsole](https://github.com/10clouds/aiconsole) - An Open-Source Desktop AI Editor to Personalize Your Workflow
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 🪁🤖Copilot infrastructure for react apps. In-app AI chatbots (with context-awareness), AI-powered Textareas, and more
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
