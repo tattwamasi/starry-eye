@@ -120,7 +120,7 @@
 - [FashionFreedom/Seamly2D](https://github.com/FashionFreedom/Seamly2D) - Open source patternmaking software to democratize fashion.
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
