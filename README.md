@@ -386,6 +386,9 @@
 
 ## JavaScript 
 
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [TheAppleFreak/winston-slack-webhook-transport](https://github.com/TheAppleFreak/winston-slack-webhook-transport) - A Slack transport for Winston 3 that logs to a channel via webhooks
+- [timdp/winston-aws-cloudwatch](https://github.com/timdp/winston-aws-cloudwatch) - A Winston transport for Amazon CloudWatch.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [skitsanos/mindtree](https://github.com/skitsanos/mindtree) - Declarative mind mapping
@@ -649,6 +652,7 @@
 
 ## Others 
 
+- [Jack000/fontjoy](https://github.com/Jack000/fontjoy) - font vectors used for fontjoy.com
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -679,7 +683,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -731,6 +735,10 @@
 
 ## Python 
 
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
+- [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [duo-labs/py_webauthn](https://github.com/duo-labs/py_webauthn) - Pythonic WebAuthn
 - [duo-labs/webauthn.io](https://github.com/duo-labs/webauthn.io) - The source code for webauthn.io, a demonstration of WebAuthn.
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
@@ -1121,6 +1129,8 @@
 
 ## TypeScript 
 
+- [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
+- [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
 - [apoffa/serverless-gpt-assistant](https://github.com/apoffa/serverless-gpt-assistant) - This project contains a serverless implementation of the OpenaAI GPT assistant
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
@@ -1131,7 +1141,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [iohub/collama](https://github.com/iohub/collama) - VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plug
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
 - [semperai/amica](https://github.com/semperai/amica) - Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 - [steven-tey/novella](https://github.com/steven-tey/novella) - Example application using the Novel Editor.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -1263,6 +1273,7 @@
 
 ## Vue 
 
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
 - [netlify/million-devs](https://github.com/netlify/million-devs) - Microsite for the 1 Million Developers announcement.
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
