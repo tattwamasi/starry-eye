@@ -735,6 +735,8 @@
 
 ## Python 
 
+- [auth0-blog/auth0-python-fastapi-sample](https://github.com/auth0-blog/auth0-python-fastapi-sample) - Code sample for a protected API in FastAPI for Python
+- [auth0-developer-hub/api_fastapi_python_hello-world](https://github.com/auth0-developer-hub/api_fastapi_python_hello-world) - 
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - 
