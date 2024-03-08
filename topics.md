@@ -309,6 +309,7 @@
 
 ## api 
 
+- [embesozzi/keycloak-workshop-stepup-mfa-biometrics](https://github.com/embesozzi/keycloak-workshop-stepup-mfa-biometrics) - Keycloak Workshop for Step Up with MFA Biometrics Authentication (Passkeys) and Passwordless experience with Passkeys
 - [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
 - [JanssenProject/jans](https://github.com/JanssenProject/jans) - An open source enterprise digital identity platform that scales for CIAM: Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
@@ -1676,6 +1677,8 @@
 
 ## others 
 
+- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [auth0-blog/auth0-python-fastapi-sample](https://github.com/auth0-blog/auth0-python-fastapi-sample) - Code sample for a protected API in FastAPI for Python
 - [auth0-developer-hub/api_fastapi_python_hello-world](https://github.com/auth0-developer-hub/api_fastapi_python_hello-world) - 
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - 
@@ -1740,7 +1743,7 @@
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
-- [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
 - [brevdev/notebooks](https://github.com/brevdev/notebooks) - 
 - [google/centaur](https://github.com/google/centaur) - 
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
