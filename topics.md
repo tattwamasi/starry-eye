@@ -57,6 +57,7 @@
 - [design](#design)
 - [devops](#devops)
 - [discord](#discord)
+- [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
@@ -208,7 +209,7 @@
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [sourcegraph/cody](https://github.com/sourcegraph/cody) - AI that knows your entire codebase
 - [ptsochantaris/emeltal](https://github.com/ptsochantaris/emeltal) - Local ML voice chat using high-end models.
@@ -409,7 +410,7 @@
 ## aws 
 
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine that automates infrastructure provisioning on any cloud — for development, training, and deployment of AI models. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [pinecone-io/aws-reference-architecture-pulumi](https://github.com/pinecone-io/aws-reference-architecture-pulumi) - Pinecone AWS Reference Architecture
 - [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
@@ -439,7 +440,7 @@
 
 ## azure 
 
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine that automates infrastructure provisioning on any cloud — for development, training, and deployment of AI models. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
@@ -527,7 +528,7 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
@@ -809,8 +810,13 @@
 
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 
+## django 
+
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+
 ## docker 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -1421,7 +1427,7 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine that automates infrastructure provisioning on any cloud — for development, training, and deployment of AI models. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [bentoml/Yatai](https://github.com/bentoml/Yatai) - Model Deployment at Scale on Kubernetes 🦄️
@@ -1556,6 +1562,7 @@
 
 ## nextjs 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -1679,6 +1686,8 @@
 
 ## others 
 
+- [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
+- [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [auth0-blog/auth0-python-fastapi-sample](https://github.com/auth0-blog/auth0-python-fastapi-sample) - Code sample for a protected API in FastAPI for Python
@@ -2233,6 +2242,7 @@
 
 ## postgresql 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -2252,6 +2262,7 @@
 
 ## project-management 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
 ## publishing 
@@ -2266,6 +2277,7 @@
 
 ## python 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
@@ -2276,10 +2288,10 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine that automates infrastructure provisioning on any cloud — for development, training, and deployment of AI models. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [FusionAuth/fusionauth-python-client](https://github.com/FusionAuth/fusionauth-python-client) - FusionAuth Python Client
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [dermasmid/scrapetube](https://github.com/dermasmid/scrapetube) - A YouTube scraper for scraping channels, playlists, and searching 🔎
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
@@ -2397,6 +2409,7 @@
 
 ## react 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -2458,6 +2471,7 @@
 
 ## rest-api 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -2709,6 +2723,7 @@
 
 ## typescript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
