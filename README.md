@@ -1109,7 +1109,7 @@
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [kiwix/apple](https://github.com/kiwix/apple) - Kiwix for offline access on iOS and macOS
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
+- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [mortenjust/native-diffusion](https://github.com/mortenjust/native-diffusion) - Native Stable Diffusion inference on iOS / macOS using MPSGraph
 - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Swift app demonstrating Core ML Stable Diffusion
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
