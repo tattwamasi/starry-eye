@@ -1017,6 +1017,7 @@
 
 ## Rust 
 
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [jafioti/luminal](https://github.com/jafioti/luminal) - Deep learning at the speed of light.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
