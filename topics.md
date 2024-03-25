@@ -1498,7 +1498,6 @@
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
-- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
@@ -1952,6 +1951,7 @@
 - [theblockchaineth/public-smart-contracts](https://github.com/theblockchaineth/public-smart-contracts) - 
 - [Luthey-Schulten-Lab/Minimal_Cell](https://github.com/Luthey-Schulten-Lab/Minimal_Cell) - 
 - [KlausSchaefers/vue-low-code](https://github.com/KlausSchaefers/vue-low-code) - Quant-UX standalone
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [ChalkElec/write-edid](https://github.com/ChalkElec/write-edid) - Writes custom EDID data into HDMI adapter (Linux, I2C)
 - [tomka/write-edid](https://github.com/tomka/write-edid) - Write some predefined EDID data to a monitor by using i2c-tools.
 - [bulletmark/edid-rw](https://github.com/bulletmark/edid-rw) - A utility to read and write a display EDID value.
@@ -2662,7 +2662,6 @@
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [Lobstrco/Vault-iOS](https://github.com/Lobstrco/Vault-iOS) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
