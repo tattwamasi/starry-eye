@@ -581,7 +581,7 @@
 - [yeyu2/Youtube_demos](https://github.com/yeyu2/Youtube_demos) - 
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
 - [sugarforever/LangChain-Advanced](https://github.com/sugarforever/LangChain-Advanced) - 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [microsoft/i-Code](https://github.com/microsoft/i-Code) - 
