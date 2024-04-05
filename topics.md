@@ -1771,7 +1771,7 @@
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune and deploy over 20 LLMs. Uses state-of-the-art techniques like flash attention, 4-bit, LoRA, and more.
 - [brevdev/notebooks](https://github.com/brevdev/notebooks) - 
 - [google/centaur](https://github.com/google/centaur) - 
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
