@@ -821,7 +821,7 @@
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2-5X faster 70% less memory QLoRA & LoRA finetuning
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune and deploy over 20 LLMs. Uses state-of-the-art techniques like flash attention, 4-bit, LoRA, and more.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 - [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
 - [OpenBuddy/OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
