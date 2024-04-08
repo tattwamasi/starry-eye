@@ -71,7 +71,6 @@
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [saagarjha/TSOEnabler](https://github.com/saagarjha/TSOEnabler) - Kernel extension that enables TSO for Apple silicon processes
-- [dlktdr/HeadTracker](https://github.com/dlktdr/HeadTracker) - This project is built to record the orientation a FPV headset to allow the camera on your RC to follow your head movements.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 - [dalton-tulou/ql-iff](https://github.com/dalton-tulou/ql-iff) - Quick Look plugin for viewing iff pictures
@@ -127,6 +126,7 @@
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
+- [dlktdr/HeadTracker](https://github.com/dlktdr/HeadTracker) - This project is built to record the orientation a FPV headset to allow the camera on your RC to follow your head movements.
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
