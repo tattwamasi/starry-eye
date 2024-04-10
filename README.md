@@ -721,7 +721,7 @@
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [dojo/meta](https://github.com/dojo/meta) - :rocket: Dojo - meta information for the project.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [ys/shortcuts](https://github.com/ys/shortcuts) - 
 - [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -779,8 +779,8 @@
 - [ishan0102/iClone](https://github.com/ishan0102/iClone) - Clone your friends with iMessage and MLX
 - [mlx-graphs/mlx-graphs](https://github.com/mlx-graphs/mlx-graphs) - Graph Neural Network library made for Apple Silicon
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [dermasmid/scrapetube](https://github.com/dermasmid/scrapetube) - A YouTube scraper for scraping channels, playlists, and searching 🔎
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -1180,7 +1180,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
 - [semgrep/semgrep-vscode](https://github.com/semgrep/semgrep-vscode) - Semgrep extension for Visual Studio Code
 - [remotion-dev/github-unwrapped-2023](https://github.com/remotion-dev/github-unwrapped-2023) - Your coding year in review
 - [google/centaur](https://github.com/google/centaur) - 
