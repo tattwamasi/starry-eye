@@ -868,7 +868,7 @@
 - [rizerphe/openai-functions](https://github.com/rizerphe/openai-functions) - Generate ChatGPT function call schemas based on function docstrings.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [simonmesmith/agentflow](https://github.com/simonmesmith/agentflow) - Complex LLM Workflows from Simple JSON.
-- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - AI searching assistant for developer that helps code and workspace semantic search
+- [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Developer AI Persona Search Agent
 - [Andyinater/AutoGen_EnhancedAgents](https://github.com/Andyinater/AutoGen_EnhancedAgents) - This repository holds enhanced Agents, built for the Microsoft AutoGen Framework. Debuting with a MemoryEnabledAgent with improvements in context/token control, portability, and PnP functionality.
 - [denonrailz/obsidian-autogen](https://github.com/denonrailz/obsidian-autogen) - Obsidian-based AutoGen framework
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
@@ -1261,7 +1261,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [seratch/slack-bolt-extensions](https://github.com/seratch/slack-bolt-extensions) - Collection of bolt-js InstallationStore/Receiver implementations + Next.js support module
 - [slackapi/steno](https://github.com/slackapi/steno) - :vhs: Slack app testing companion - Record and Replay your HTTP requests, both incoming and outgoing
