@@ -1304,6 +1304,7 @@
 
 ## Vue 
 
+- [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
 - [netlify/million-devs](https://github.com/netlify/million-devs) - Microsite for the 1 Million Developers announcement.
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
