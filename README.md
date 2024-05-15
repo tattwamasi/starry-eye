@@ -237,7 +237,7 @@
 ## Go 
 
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
-- [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - WebAuthn and Passkey Server for any Auth Stack.
+- [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - Passkey server and SDKs for adding passkey support to any auth system. FIDO2 certified.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
