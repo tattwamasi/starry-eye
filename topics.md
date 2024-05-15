@@ -1027,7 +1027,7 @@
 
 ## go 
 
-- [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - WebAuthn and Passkey Server for any Auth Stack.
+- [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - Passkey server and SDKs for adding passkey support to any auth system. FIDO2 certified.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
