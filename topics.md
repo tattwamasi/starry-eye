@@ -213,6 +213,7 @@
 ## ai 
 
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -548,7 +549,7 @@
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [Poly186-AI-DAO/PolyGPT-alpha](https://github.com/Poly186-AI-DAO/PolyGPT-alpha) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
@@ -782,7 +783,7 @@
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [UT-Austin-RPL/TRILL](https://github.com/UT-Austin-RPL/TRILL) - Official codebase for Teleoperation and Imitation Learning for Loco-manipulation (TRILL)
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -1450,7 +1451,7 @@
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [skovy/llm-markdown](https://github.com/skovy/llm-markdown) - Demo rendering rich responses from LLMs
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
@@ -1544,7 +1545,7 @@
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
@@ -1658,7 +1659,7 @@
 ## neural-network 
 
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -1761,7 +1762,7 @@
 
 ## numpy 
 
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## objective-c 
@@ -1804,7 +1805,6 @@
 - [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [proto-at-block/bitkey](https://github.com/proto-at-block/bitkey) - Bitkey is a self-custody bitcoin wallet with an app, hardware, and recovery tools.
 - [BPI-SINOVOIP/THG6500-TAX2-OPENWRT-BSP](https://github.com/BPI-SINOVOIP/THG6500-TAX2-OPENWRT-BSP) - 
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
@@ -2339,6 +2339,7 @@
 
 ## p2p 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [Antidote-for-Tox/Antidote](https://github.com/Antidote-for-Tox/Antidote) - No longer maintained
 
@@ -2405,7 +2406,7 @@
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [dermasmid/scrapetube](https://github.com/dermasmid/scrapetube) - A YouTube scraper for scraping channels, playlists, and searching 🔎
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [oughtinc/ice](https://github.com/oughtinc/ice) - Interactive Composition Explorer: a debugger for compositional language model programs
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
 - [modal-labs/doppel-bot](https://github.com/modal-labs/doppel-bot) - Train a language model to answer Slack messages as you.
@@ -2433,7 +2434,7 @@
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
@@ -2481,7 +2482,7 @@
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [modal-labs/doppel-bot](https://github.com/modal-labs/doppel-bot) - Train a language model to answer Slack messages as you.
@@ -2491,7 +2492,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -2804,7 +2805,7 @@
 
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
+- [Transpile-AI/ivy](https://github.com/Transpile-AI/ivy) - The Unified AI Framework
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
