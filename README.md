@@ -6,6 +6,7 @@
 ## Contents
 
 - [ANTLR](#antlr)
+- [Arduino](#arduino)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -16,6 +17,7 @@
 - [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Eagle](#eagle)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HCL](#hcl)
@@ -36,6 +38,7 @@
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
+- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -60,6 +63,10 @@
 ## ANTLR 
 
 - [open-dynamic-robot-initiative/open-motor-driver-initiative](https://github.com/open-dynamic-robot-initiative/open-motor-driver-initiative) - Open-source drive for brushless motors, following the open dynamic robot initiative
+
+## Arduino 
+
+- [irealva/gadgets-and-sensors](https://github.com/irealva/gadgets-and-sensors) - Repo for course Applied Gadgets, Sensors and Activity Recognition in HCI
 
 ## C 
 
@@ -231,12 +238,18 @@
 - [nimbinatus/broken-k8s](https://github.com/nimbinatus/broken-k8s) - A repo full of deliberately broken k8s setups to pull down and practice on
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
+## Eagle 
+
+- [DiatomStudio/Piccolo](https://github.com/DiatomStudio/Piccolo) - Piccolo is a pocket-sized stand-alone CNC platform.
+
 ## Elixir 
 
 - [andruby/stellar-price](https://github.com/andruby/stellar-price) - Tells you where to buy and sell crypto coins for the best price
 
 ## Go 
 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey server and SDKs for adding passkey support to any auth system
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -393,6 +406,7 @@
 
 ## JavaScript 
 
+- [idan/spectacle-block](https://github.com/idan/spectacle-block) - A Markdown Presentation Block
 - [primer/primer.style](https://github.com/primer/primer.style) - The website for all things Primer
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
@@ -667,6 +681,10 @@
 - [Xcode-Snippets/Objective-C](https://github.com/Xcode-Snippets/Objective-C) - A few code snippets from my Xcode arsenal
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 - [sbooth/Max](https://github.com/sbooth/Max) - An audio converter and CD ripper
+
+## Objective-C++ 
+
+- [johnboiles/obs-mac-virtualcam](https://github.com/johnboiles/obs-mac-virtualcam) - ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming s
 
 ## Others 
 
@@ -1164,6 +1182,9 @@
 
 ## TypeScript 
 
+- [mattrothenberg/duckb-browser-block](https://github.com/mattrothenberg/duckb-browser-block) - A GitHub Next Folder Block for querying flat data in your repository
+- [jaked/mermaid-block](https://github.com/jaked/mermaid-block) - 
+- [jaked/programmable-matter](https://github.com/jaked/programmable-matter) - A dynamic data-driven document development environment (DDDDDE)
 - [githubnext/blocks-examples](https://github.com/githubnext/blocks-examples) - A set of example custom Blocks.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
