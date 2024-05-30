@@ -1825,6 +1825,7 @@
 
 ## others 
 
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [rstrouse/nodejs-poolController-dashPanel](https://github.com/rstrouse/nodejs-poolController-dashPanel) - A dashboard panel for tagyoureit/nodejs-poolController
 - [tagyoureit/nodejs-poolController](https://github.com/tagyoureit/nodejs-poolController) - An application to control pool equipment from various manufacturers.
 - [irealva/gadgets-and-sensors](https://github.com/irealva/gadgets-and-sensors) - Repo for course Applied Gadgets, Sensors and Activity Recognition in HCI
