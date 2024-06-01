@@ -581,7 +581,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [kaleido-lab/dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, LLM and vector store agnostic.
 - [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
@@ -2085,7 +2085,6 @@
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [anza-xyz/solana-pay](https://github.com/anza-xyz/solana-pay) - A new standard for decentralized payments.
 - [aws-samples/amazon-api-gateway-url-shortener](https://github.com/aws-samples/amazon-api-gateway-url-shortener) - Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
-- [Scandit/barcodescanner-sdk-for-web-samples](https://github.com/Scandit/barcodescanner-sdk-for-web-samples) - 
 - [dalton-tulou/ql-iff](https://github.com/dalton-tulou/ql-iff) - Quick Look plugin for viewing iff pictures
 - [aws-samples/aws-lambda-layer-awscli](https://github.com/aws-samples/aws-lambda-layer-awscli) - AWS Lambda Layer for AWS CLI
 - [brettstack/aws-serverless-website-canary](https://github.com/brettstack/aws-serverless-website-canary) - 
