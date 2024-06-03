@@ -2129,7 +2129,7 @@
 - [kadena-io/kuro](https://github.com/kadena-io/kuro) - Kuro permissioned blockchain, powered by ScalableBFT and Pact
 - [satoshilabs/slips](https://github.com/satoshilabs/slips) - SatoshiLabs Improvement Proposals
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
 - [kleetus/bitcoin-wallet-node](https://github.com/kleetus/bitcoin-wallet-node) - Node C++ bindings for Bitcoin Core/Berkeley DB 4.8 wallet.dat
 - [bitcoin/bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
 - [JohnathanWhite/cordova-apple-wallet](https://github.com/JohnathanWhite/cordova-apple-wallet) - A Cordova plugin that provides easy use for adding your credit/debit cards to Apple Wallet. It also can check if the credit/debit card exists in Wallet or any paired device e.g. Apple Watch
