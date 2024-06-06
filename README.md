@@ -234,6 +234,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [VirtusLab/codetale](https://github.com/VirtusLab/codetale) - CodeTale - documentation & issue tracking
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [nimbinatus/broken-k8s](https://github.com/nimbinatus/broken-k8s) - A repo full of deliberately broken k8s setups to pull down and practice on
@@ -408,7 +409,7 @@
 
 ## JavaScript 
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX/UI & i18n support. Free & open source. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX & i18n support. Open source & free. Made with Svelte.
 - [rstrouse/nodejs-poolController-dashPanel](https://github.com/rstrouse/nodejs-poolController-dashPanel) - A dashboard panel for tagyoureit/nodejs-poolController
 - [idan/spectacle-block](https://github.com/idan/spectacle-block) - A Markdown Presentation Block
 - [primer/primer.style](https://github.com/primer/primer.style) - The website for all things Primer
@@ -778,6 +779,7 @@
 
 ## Python 
 
+- [GreenBitAI/gbx-lm](https://github.com/GreenBitAI/gbx-lm) - Run GreenBitAI's Quantized LLMs on Apple Devices with MLX
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [modelscope/agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
