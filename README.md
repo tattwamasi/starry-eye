@@ -257,7 +257,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [coder/envbuilder](https://github.com/coder/envbuilder) - Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Enable developers to modify their development environment quickly.
@@ -409,7 +409,7 @@
 
 ## JavaScript 
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX & i18n support. Open source & free. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS. Modern UX. Great i18n support. Open source & free. Made with Svelte.
 - [rstrouse/nodejs-poolController-dashPanel](https://github.com/rstrouse/nodejs-poolController-dashPanel) - A dashboard panel for tagyoureit/nodejs-poolController
 - [idan/spectacle-block](https://github.com/idan/spectacle-block) - A Markdown Presentation Block
 - [primer/primer.style](https://github.com/primer/primer.style) - The website for all things Primer
@@ -1186,6 +1186,7 @@
 
 ## TypeScript 
 
+- [TimMikeladze/next-flag](https://github.com/TimMikeladze/next-flag) - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, custom conditions, 
 - [openai/sparse_autoencoder](https://github.com/openai/sparse_autoencoder) - 
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [tagyoureit/nodejs-poolController](https://github.com/tagyoureit/nodejs-poolController) - An application to control pool equipment from various manufacturers.
