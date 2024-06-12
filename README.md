@@ -786,7 +786,7 @@
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
+- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 - [auth0-blog/auth0-python-fastapi-sample](https://github.com/auth0-blog/auth0-python-fastapi-sample) - Code sample for a protected API in FastAPI for Python
 - [auth0-developer-hub/api_fastapi_python_hello-world](https://github.com/auth0-developer-hub/api_fastapi_python_hello-world) - 
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -1186,6 +1186,9 @@
 
 ## TypeScript 
 
+- [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 
+- [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 
+- [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [TimMikeladze/next-flag](https://github.com/TimMikeladze/next-flag) - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, custom conditions, 
 - [openai/sparse_autoencoder](https://github.com/openai/sparse_autoencoder) - 
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
