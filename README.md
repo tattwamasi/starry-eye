@@ -1190,7 +1190,6 @@
 - [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [TimMikeladze/next-flag](https://github.com/TimMikeladze/next-flag) - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, custom conditions, 
-- [openai/sparse_autoencoder](https://github.com/openai/sparse_autoencoder) - 
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [tagyoureit/nodejs-poolController](https://github.com/tagyoureit/nodejs-poolController) - An application to control pool equipment from various manufacturers.
 - [mattrothenberg/duckb-browser-block](https://github.com/mattrothenberg/duckb-browser-block) - A GitHub Next Folder Block for querying flat data in your repository
