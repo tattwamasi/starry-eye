@@ -1248,7 +1248,7 @@
 - [readmeio/api](https://github.com/readmeio/api) - 🚀 Automatic SDK generation from an OpenAPI definition
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
-- [fern-api/fern](https://github.com/fern-api/fern) - 🌿 Stripe-level SDKs and Docs for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - Input OpenAPI. Output SDKs and Docs.
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [FlowiseAI/FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed) - 
