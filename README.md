@@ -1186,8 +1186,8 @@
 
 ## TypeScript 
 
-- [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 
-- [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 
+- [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
+- [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 🧬 Generative UI web application built with LangChain.js, AI SDK & Next.js
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [TimMikeladze/next-flag](https://github.com/TimMikeladze/next-flag) - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, custom conditions, 
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
