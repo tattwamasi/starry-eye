@@ -1830,8 +1830,8 @@
 
 ## others 
 
-- [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 
-- [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 
+- [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
+- [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 🧬 Generative UI web application built with LangChain.js, AI SDK & Next.js
 - [TimMikeladze/next-flag](https://github.com/TimMikeladze/next-flag) - 🏁 Feature flags powered by GitHub issues and NextJS. Toggle the features of your app by ticking a checkbox in a GitHub issue. Supports server-side rendering, multiple environments, custom conditions, 
 - [GreenBitAI/gbx-lm](https://github.com/GreenBitAI/gbx-lm) - Run GreenBitAI's Quantized LLMs on Apple Devices with MLX
 - [privatemaker/headless-cms](https://github.com/privatemaker/headless-cms) - Hugo Module for headless Decap and Sveltia CMS
