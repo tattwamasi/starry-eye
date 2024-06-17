@@ -43,6 +43,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [data](#data)
@@ -713,6 +714,12 @@
 - [Kirbyrawr/stellar-sample-unity](https://github.com/Kirbyrawr/stellar-sample-unity) - Stellar C# SDK Integration in Unity 3D
 - [Soneso/stellar-ios-mac-sdk](https://github.com/Soneso/stellar-ios-mac-sdk) - Stellar SDK for iOS & macOS - Swift, Stellar, Horizon, Soneso
 - [future-tense/stargazer](https://github.com/future-tense/stargazer) - Stargazer is a mobile/desktop wallet for the Stellar payments network --
+
+## cryptography 
+
+- [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
+- [jedisct1/swift-sodium](https://github.com/jedisct1/swift-sodium) - Safe and easy to use crypto for iOS and macOS
+- [fhajji/sodium-wrapper](https://github.com/fhajji/sodium-wrapper) - C++17 wrappers for libsodium
 
 ## csharp 
 
@@ -2235,7 +2242,6 @@
 - [mitchelljustin/MirrorX](https://github.com/mitchelljustin/MirrorX) - Peer-to-peer crypto conversions via Stellar
 - [lumenbox/signing-tool](https://github.com/lumenbox/signing-tool) - 
 - [orlp/ed25519](https://github.com/orlp/ed25519) - Portable C implementation of Ed25519, a high-speed high-security public-key signature system.
-- [fhajji/sodium-wrapper](https://github.com/fhajji/sodium-wrapper) - C++17 wrappers for libsodium
 - [rubendv/sodiumpp](https://github.com/rubendv/sodiumpp) - C++ wrappers around the cryptography library libsodium and high level API
 - [termoose/stellarcpp](https://github.com/termoose/stellarcpp) - 
 - [zee2093/stellar-slack-bot](https://github.com/zee2093/stellar-slack-bot) - SlackBot for the Stellar Network
