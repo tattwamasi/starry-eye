@@ -263,7 +263,7 @@
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
+- [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [coder/envbuilder](https://github.com/coder/envbuilder) - Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Enable developers to modify their development environment quickly.
@@ -785,6 +785,7 @@
 
 ## Python 
 
+- [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
 - [GreenBitAI/gbx-lm](https://github.com/GreenBitAI/gbx-lm) - Run GreenBitAI's Quantized LLMs on Apple Devices with MLX
@@ -1194,6 +1195,7 @@
 
 ## TypeScript 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
 - [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 🧬 Generative UI web application built with LangChain.js, AI SDK & Next.js
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
