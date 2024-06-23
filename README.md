@@ -251,6 +251,7 @@
 
 ## Go 
 
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
@@ -276,7 +277,7 @@
 - [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management system with passkey superpowers
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 - [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
@@ -698,6 +699,7 @@
 
 ## Others 
 
+- [superfly/domain-reseller-guide](https://github.com/superfly/domain-reseller-guide) - 
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [githubnext/copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 - [Jack000/fontjoy](https://github.com/Jack000/fontjoy) - font vectors used for fontjoy.com
@@ -775,6 +777,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [sacarlson/OpenCart_stellar_plugin](https://github.com/sacarlson/OpenCart_stellar_plugin) - Stellar.org Net payment plugin addon for OpenCart online store management system
 - [tronprotocol/documentation](https://github.com/tronprotocol/documentation) - Documentations of project TRON
 - [zulucrypto/stellar-smart-contracts](https://github.com/zulucrypto/stellar-smart-contracts) - Example smart contracts for use with Stellar
@@ -785,6 +788,7 @@
 
 ## Python 
 
+- [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
 - [cloudevents/sdk-python](https://github.com/cloudevents/sdk-python) - Python SDK for CloudEvents
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
@@ -1195,6 +1199,7 @@
 
 ## TypeScript 
 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
 - [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 🧬 Generative UI web application built with LangChain.js, AI SDK & Next.js
@@ -1356,6 +1361,7 @@
 
 ## Vue 
 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
 - [netlify/million-devs](https://github.com/netlify/million-devs) - Microsite for the 1 Million Developers announcement.
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
