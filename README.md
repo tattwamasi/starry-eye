@@ -255,6 +255,10 @@
 
 ## Go 
 
+- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+- [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [openfaas/nats-connector](https://github.com/openfaas/nats-connector) - An OpenFaaS event-connector to trigger functions from NATS
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -356,6 +360,7 @@
 
 ## HCL 
 
+- [patheard/aws-ecs-zitadel](https://github.com/patheard/aws-ecs-zitadel) - Zitadel in an AWS ECS Fargate cluster
 - [Azure-Samples/container-apps-openai](https://github.com/Azure-Samples/container-apps-openai) - This sample shows how to create two Azure Container Apps that use OpenAI, LangChain, ChromaDB, and Chainlit using Terraform.
 - [coder/packages](https://github.com/coder/packages) - Deploy Coder to your preferred cloud with a pre-built package.
 
@@ -688,6 +693,7 @@
 
 ## Objective-C 
 
+- [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [jontelang/WakaLet](https://github.com/jontelang/WakaLet) - Wakatime.com OSX menulet (menubar application)
 - [inaturalist/INaturalistIOS](https://github.com/inaturalist/INaturalistIOS) - iNaturalist iOS app
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
@@ -717,6 +723,7 @@
 
 ## Others 
 
+- [zitadel/actions](https://github.com/zitadel/actions) - ZITADEL Actions - Easy extensibility with custom code. Think GitHub Actions in an Identity System.
 - [IceWhaleTech/zimaos-rauc](https://github.com/IceWhaleTech/zimaos-rauc) - 
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [superfly/domain-reseller-guide](https://github.com/superfly/domain-reseller-guide) - 
@@ -808,6 +815,11 @@
 
 ## Python 
 
+- [sagemath/sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
+- [ansible/ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
+- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+- [vatlab/sos](https://github.com/vatlab/sos) - SoS workflow system for daily data analysis
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 - [octodemo/webhook-demo](https://github.com/octodemo/webhook-demo) - Demo repository - contains custom Codespaces config, database schema management, code smells and old dependencies, and a ✨ nice project board ✨ 👇🏼
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -985,7 +997,7 @@
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion) - [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
 - [noahshinn/reflexion-draft](https://github.com/noahshinn/reflexion-draft) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [daveshap/REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified AI Framework
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
@@ -1127,6 +1139,7 @@
 
 ## Shell 
 
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
