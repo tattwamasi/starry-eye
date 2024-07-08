@@ -903,6 +903,7 @@
 
 ## documentation 
 
+- [cairo-book/cairo-book](https://github.com/cairo-book/cairo-book) - The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.
 - [contextmap/contextmap](https://github.com/contextmap/contextmap) - Contextmap is an interactive developer portal powered by automated documentation.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -976,6 +977,7 @@
 
 ## express 
 
+- [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 
 ## finance 
@@ -1189,6 +1191,7 @@
 
 ## hacktoberfest 
 
+- [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [DeveloperPaul123/eventbus](https://github.com/DeveloperPaul123/eventbus) - A simple, header only event bus library written in modern C++17.
 - [uptane/uptane.github.io](https://github.com/uptane/uptane.github.io) - UPTANE web site
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
@@ -1836,6 +1839,7 @@
 
 ## nodejs 
 
+- [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
