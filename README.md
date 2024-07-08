@@ -256,6 +256,7 @@
 
 ## Go 
 
+- [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [zitadel/terraform-provider-zitadel](https://github.com/zitadel/terraform-provider-zitadel) - Official Terraform provider for ZITADEL
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
@@ -441,6 +442,8 @@
 
 ## JavaScript 
 
+- [cairo-book/cairo-book](https://github.com/cairo-book/cairo-book) - The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.
+- [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [zitadel/typescript](https://github.com/zitadel/typescript) - Typescript packages and application to showcase the ZITADEL resource API
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, open source & free. Made with Svelte.
