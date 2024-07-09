@@ -732,7 +732,6 @@
 
 - [HungryHowies/How-To-Build-Zitadel-from-Source](https://github.com/HungryHowies/How-To-Build-Zitadel-from-Source) - How to get Zitadel’ s Source code and build it on Ubuntu 22.0.4 instance. These are basic steps to get it up and running.
 - [zitadel/actions](https://github.com/zitadel/actions) - ZITADEL Actions - Easy extensibility with custom code. Think GitHub Actions in an Identity System.
-- [IceWhaleTech/zimaos-rauc](https://github.com/IceWhaleTech/zimaos-rauc) - 
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [superfly/domain-reseller-guide](https://github.com/superfly/domain-reseller-guide) - 
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
@@ -823,6 +822,7 @@
 
 ## Python 
 
+- [stevenrobertson/cuburn](https://github.com/stevenrobertson/cuburn) - PyCUDA implementation of a GPU-accelerated fractal flame renderer.
 - [Doriandarko/maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
 - [sagemath/sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
 - [ansible/ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
@@ -914,7 +914,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-- [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
@@ -1148,6 +1148,7 @@
 ## Shell 
 
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+- [IceWhaleTech/zimaos-rauc](https://github.com/IceWhaleTech/zimaos-rauc) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
