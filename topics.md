@@ -98,6 +98,7 @@
 - [homebrew](#homebrew)
 - [homebridge](#homebridge)
 - [html](#html)
+- [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
 - [icon-font](#icon-font)
@@ -989,7 +990,7 @@
 ## express 
 
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 
 ## finance 
 
@@ -1194,7 +1195,7 @@
 - [getcronit/pylon](https://github.com/getcronit/pylon) - From Functions to APIs - Instantly
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
@@ -1285,6 +1286,10 @@
 - [devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Universal theme for Hugo, it stands out with its clean design and elegant typography.
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 
+## html-css-javascript 
+
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+
 ## html5 
 
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
@@ -1371,7 +1376,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -1750,7 +1755,7 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
@@ -1819,6 +1824,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Crea
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -1870,7 +1876,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
@@ -1924,7 +1930,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -1951,6 +1957,8 @@
 
 ## others 
 
+- [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
+- [matrix-org/matrix-hookshot](https://github.com/matrix-org/matrix-hookshot) - A bridge between Matrix and multiple project management services, such as GitHub, GitLab and JIRA.
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [lunamidori5/Midori-AI](https://github.com/lunamidori5/Midori-AI) - 
@@ -2753,7 +2761,7 @@
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -3127,7 +3135,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
