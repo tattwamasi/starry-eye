@@ -1288,6 +1288,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [RocketCommunicationsInc/astro](https://github.com/RocketCommunicationsInc/astro) - Astro UXDS is a collection of guidelines, patterns and components for designing space-based user interface applications.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
