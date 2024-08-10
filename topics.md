@@ -770,6 +770,7 @@
 
 ## css 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
@@ -1036,6 +1037,7 @@
 
 ## framework 
 
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [CrowCpp/Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
@@ -1398,6 +1400,7 @@
 
 ## javascript 
 
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [sasoria/astro-microfrontends-ssr](https://github.com/sasoria/astro-microfrontends-ssr) - Server-side composition of microfrontends using Astro
@@ -2020,6 +2023,8 @@
 
 ## others 
 
+- [jordienr/astro-design-system](https://github.com/jordienr/astro-design-system) - This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [StackExchange/pagedown](https://github.com/StackExchange/pagedown) - The Markdown editor and converter used on Stack Overflow and the other Stack Exchange sites
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
@@ -2835,6 +2840,7 @@
 
 ## react 
 
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [sasoria/astro-microfrontends](https://github.com/sasoria/astro-microfrontends) - Client-side composition of microfrontends using Astro
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -3103,6 +3109,7 @@
 
 ## svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, open source & free. Made with Svelte.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
