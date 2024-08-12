@@ -73,6 +73,7 @@
 
 ## Astro 
 
+- [zankhq/astros](https://github.com/zankhq/astros) - Template with astro, tailwind and alpinejs
 - [jordienr/astro-design-system](https://github.com/jordienr/astro-design-system) - This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.
 - [HiDeoo/starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Set of Starlight components to author showcase pages
 
@@ -506,7 +507,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [polymorpher/one-wallet](https://github.com/polymorpher/one-wallet) - 1wallet | Modulo OTP Wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security.
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [jkga/me](https://github.com/jkga/me) - :neckbeard: A next-gen JAMSTACK for developers leveraging the use of JSON Resume Schema  in creating a web based vitae and portfolio. Stop worrying with a complex setup and deployment process. Docs: h
@@ -1297,6 +1298,7 @@
 
 ## TypeScript 
 
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [astrolicious/studiocms](https://github.com/astrolicious/studiocms) - A dedicated CMS for Astro Studio.  Built from the ground up by the Astro community.
