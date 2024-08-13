@@ -69,6 +69,7 @@
 - [emacs](#emacs)
 - [embedded](#embedded)
 - [ember](#ember)
+- [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
@@ -223,6 +224,7 @@
 
 ## ai 
 
+- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
@@ -825,6 +827,7 @@
 
 ## database 
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
@@ -981,6 +984,10 @@
 ## ember 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## emoji 
+
+- [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 
 ## es6 
 
@@ -1225,6 +1232,7 @@
 
 ## graphql 
 
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [getcronit/pylon](https://github.com/getcronit/pylon) - A code-first approach to GraphQL API development
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1404,6 +1412,7 @@
 
 ## javascript 
 
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -1667,7 +1676,6 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion) - [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
@@ -1938,6 +1946,7 @@
 
 ## nodejs 
 
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -1979,6 +1988,7 @@
 
 ## nosql 
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [tidwall/summitdb](https://github.com/tidwall/summitdb) - In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
 
 ## npm 
@@ -2036,6 +2046,9 @@
 
 ## others 
 
+- [thargor6/JWildfire](https://github.com/thargor6/JWildfire) - JWildfire - powerful, flexible and user-friendly fractal flame editor
+- [fulldotdev/blocks](https://github.com/fulldotdev/blocks) - 
+- [a-atalla/vendure-astro-shop](https://github.com/a-atalla/vendure-astro-shop) - Vendure storefront that is built with astro
 - [zankhq/astros](https://github.com/zankhq/astros) - Template with astro, tailwind and alpinejs
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [astrolicious/studiocms](https://github.com/astrolicious/studiocms) - A dedicated CMS for Astro Studio.  Built from the ground up by the Astro community.
@@ -2644,6 +2657,7 @@
 
 ## p2p 
 
+- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [Antidote-for-Tox/Antidote](https://github.com/Antidote-for-Tox/Antidote) - No longer maintained
@@ -2860,6 +2874,7 @@
 
 ## react 
 
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -3039,6 +3054,7 @@
 
 ## serverless 
 
+- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
