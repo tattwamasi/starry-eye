@@ -2053,6 +2053,7 @@
 
 ## others 
 
+- [fly-apps/astro-streaming](https://github.com/fly-apps/astro-streaming) - 
 - [perfect13/watermill-mqtt](https://github.com/perfect13/watermill-mqtt) - watermil mqtt
 - [thargor6/JWildfire](https://github.com/thargor6/JWildfire) - JWildfire - powerful, flexible and user-friendly fractal flame editor
 - [fulldotdev/blocks](https://github.com/fulldotdev/blocks) - 
