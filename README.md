@@ -602,7 +602,6 @@
 - [netlify/netlify-dev-plugin](https://github.com/netlify/netlify-dev-plugin) - Local dev server with functions, rules engine and add-on support
 - [netlify/netlify-lambda](https://github.com/netlify/netlify-lambda) - Helps building and serving lambda functions locally and in CI environments
 - [azukiapp/azk](https://github.com/azukiapp/azk) - azk is a lightweight open source development environment orchestration tool. Instantly & safely run any environment on your local machine.
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [zackster/CompassionPit--Node-](https://github.com/zackster/CompassionPit--Node-) - The node rewrite of CompassionPit.com
 - [codeforcash/keybase-bot-awslambda](https://github.com/codeforcash/keybase-bot-awslambda) - A keybase bot hosted on AWS Lambda
 - [poliha/stellar-tokens](https://github.com/poliha/stellar-tokens) - 
@@ -1386,7 +1385,7 @@
 - [apoffa/serverless-gpt-assistant](https://github.com/apoffa/serverless-gpt-assistant) - This project contains a serverless implementation of the OpenaAI GPT assistant
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The CRDT Yjs WebSocket backend for conflict-free real-time collaboration in your app.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [bentoml/Yatai](https://github.com/bentoml/Yatai) - Model Deployment at Scale on Kubernetes 🦄️
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1511,6 +1510,7 @@
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [dojo/framework](https://github.com/dojo/framework) - Dojo Framework. A Progressive Framework for Modern Web Apps
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [future-tense/stellar-pathfinder-server](https://github.com/future-tense/stellar-pathfinder-server) - A standalone path finder for Stellar
 - [keybase/keybase-bot](https://github.com/keybase/keybase-bot) - exploration with the keybase chat API
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
