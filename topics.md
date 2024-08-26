@@ -2074,6 +2074,7 @@
 
 ## others 
 
+- [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) - `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping
 - [apHarmony/jsharmony-cms](https://github.com/apHarmony/jsharmony-cms) - jsHarmony CMS
