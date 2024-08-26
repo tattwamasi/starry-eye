@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) - `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
 - [memgraph/mage](https://github.com/memgraph/mage) - MAGE - Memgraph Advanced Graph Extensions :crystal_ball:
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [gelldur/EventBus](https://github.com/gelldur/EventBus) - A lightweight and very fast event bus / event framework for C++17
