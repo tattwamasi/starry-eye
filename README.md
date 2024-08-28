@@ -1314,6 +1314,7 @@
 
 ## TypeScript 
 
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new) - In-browser Postgres sandbox with AI assistance
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping
@@ -1340,7 +1341,7 @@
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - The web builder for advanced sites. An open-source visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) - TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
@@ -1436,7 +1437,7 @@
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [agentlabs-inc/agentlabs](https://github.com/agentlabs-inc/agentlabs) - Universal AI Agent Frontend. Build your backend we handle the rest.
-- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
+- [awslabs/harmonix](https://github.com/awslabs/harmonix) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
