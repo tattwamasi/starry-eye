@@ -718,7 +718,7 @@
 
 ## MDX 
 
-- [sst/ion](https://github.com/sst/ion) - ❍ — a new engine for SST
+- [sst/ion](https://github.com/sst/ion) - SST v3
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
@@ -1417,7 +1417,7 @@
 - [spruceid/ssx](https://github.com/spruceid/ssx) - Self-Sovereign Anything
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
@@ -1463,7 +1463,7 @@
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
+- [sst/sst](https://github.com/sst/sst) - SST v2
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
