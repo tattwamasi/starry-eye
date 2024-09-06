@@ -290,7 +290,7 @@
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion) - [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -1542,7 +1542,7 @@
 
 ## jekyll 
 
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
 - [lowerbarriers/resume](https://github.com/lowerbarriers/resume) - Easy-to-use résumé template with lots of features
 - [titpetric/pendulum](https://github.com/titpetric/pendulum) - A simple markdown editor for static files (Hugo, Nexo, Jekyll, MkDocs, ...)
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
@@ -1950,7 +1950,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [skovy/llm-markdown](https://github.com/skovy/llm-markdown) - Demo rendering rich responses from LLMs
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -2842,7 +2842,7 @@
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -3455,7 +3455,7 @@
 ## vue 
 
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -3468,7 +3468,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for static site generators.
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
 - [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
