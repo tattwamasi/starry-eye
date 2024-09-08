@@ -884,7 +884,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [exo-explore/mlx-bitnet](https://github.com/exo-explore/mlx-bitnet) - 1.58 Bit LLM on Apple Silicon using MLX
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [polarsource/polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers. From first donation to IPO.
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [open-webui/pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 - [stevenrobertson/cuburn](https://github.com/stevenrobertson/cuburn) - PyCUDA implementation of a GPU-accelerated fractal flame renderer.
