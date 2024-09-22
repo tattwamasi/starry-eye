@@ -2517,7 +2517,6 @@
 - [aws-samples/aws-lambda-layer-awscli](https://github.com/aws-samples/aws-lambda-layer-awscli) - AWS Lambda Layer for AWS CLI
 - [brettstack/aws-serverless-website-canary](https://github.com/brettstack/aws-serverless-website-canary) - 
 - [amazon-archives/serverless-app-examples](https://github.com/amazon-archives/serverless-app-examples) - 
-- [marekq/serverless-cognito](https://github.com/marekq/serverless-cognito) - Authenticate your users through Cognito, Lambda and API Gateway. The script will set a local cookie in the browser and prompt for reauthentication by the user if needed.
 - [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
 - [awsdocs/aws-blockchain-templates-developer-guide](https://github.com/awsdocs/aws-blockchain-templates-developer-guide) - The open source version of the AWS Blockchain Templates Developer guide.
 - [dougmoscrop/serverless-http](https://github.com/dougmoscrop/serverless-http) - Use your existing middleware framework (e.g. Express, Koa) in AWS Lambda 🎉
