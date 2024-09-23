@@ -1922,7 +1922,7 @@
 ## music 
 
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [remarcable/stellar-wind](https://github.com/remarcable/stellar-wind) - Listen to unique web3 music composed by the Stellar Lumen transaction network
+- [remarcable/stellar-wind](https://github.com/remarcable/stellar-wind) - Listen to transactions on the Stellar network as music in real-time
 
 ## mysql 
 
