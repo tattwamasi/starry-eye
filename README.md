@@ -73,6 +73,7 @@
 
 ## Astro 
 
+- [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) - A modern starter based on Astro.js, Tailwind, daisyUI, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).
 - [astrolicious/astro-theme-provider-template](https://github.com/astrolicious/astro-theme-provider-template) - A template repo for creating theme integrations for Astro with Astro Theme Provider
 - [FusionAuth/fusionauth-astro-components](https://github.com/FusionAuth/fusionauth-astro-components) - Astro component to pull in remote values or code at build time
 - [technomancy-dev/technonomicon](https://github.com/technomancy-dev/technonomicon) - The book of the devs.
@@ -977,7 +978,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets! Makes: QA, RP, Classifiers.
-- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
+- [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [modal-labs/doppel-bot](https://github.com/modal-labs/doppel-bot) - Train a language model to answer Slack messages as you.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [robocorp/robocorp](https://github.com/robocorp/robocorp) - Create 🐍 Python AI Actions and 🤖 Automations, and deploy & operate them anywhere
@@ -1337,6 +1338,10 @@
 
 ## TypeScript 
 
+- [mattbrailsford/github-discussions-blog-loader](https://github.com/mattbrailsford/github-discussions-blog-loader) - GitHub Discussions Blog Loader for Astro
+- [DallasHoff/sqlocal](https://github.com/DallasHoff/sqlocal) - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.
+- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [giuseppelt/astro-lottie](https://github.com/giuseppelt/astro-lottie) - Use Lottie animations within your Astro website
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
 - [delucis/astro-og-canvas](https://github.com/delucis/astro-og-canvas) - Generate OpenGraph images for your Astro site
@@ -1447,7 +1452,7 @@
 - [spruceid/chatbot](https://github.com/spruceid/chatbot) - A chatbot interface that uses SpruceKit
 - [spruceid/ssx](https://github.com/spruceid/ssx) - Self-Sovereign Anything
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
