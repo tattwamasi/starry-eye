@@ -2231,6 +2231,7 @@
 
 ## others 
 
+- [ocavue/astrobook](https://github.com/ocavue/astrobook) - Minimal Storybook alternative
 - [vikejs/bati](https://github.com/vikejs/bati) - Next-gen scaffolder. Get started with fully-functional apps, and choose any tool you want.
 - [jeffsee55/tina-astro](https://github.com/jeffsee55/tina-astro) - 
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
@@ -2276,7 +2277,7 @@
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [scottnath/profile-components](https://github.com/scottnath/profile-components) - Web components which display profile information from various websites
-- [pilcrowOnPaper/copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
+- [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [OpenBB-finance/openbb-agents](https://github.com/OpenBB-finance/openbb-agents) - R&D playground to play with agents and OpenBB
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
