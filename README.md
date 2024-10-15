@@ -73,6 +73,7 @@
 
 ## Astro 
 
+- [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) - Add a ripple-style theme toggle animation to your Astro project with ease
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
 - [netlify-templates/astro-platform-starter](https://github.com/netlify-templates/astro-platform-starter) - A modern starter based on Astro.js, Tailwind, daisyUI, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).
 - [astrolicious/astro-theme-provider-template](https://github.com/astrolicious/astro-theme-provider-template) - A template repo for creating theme integrations for Astro with Astro Theme Provider
@@ -905,6 +906,7 @@
 
 ## Python 
 
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
@@ -1038,7 +1040,7 @@
 - [dracos/weatherboard](https://github.com/dracos/weatherboard) - Source for my e-paper based weather display.
 - [kotamorishi/weather-impression](https://github.com/kotamorishi/weather-impression) - Weather station for PIMORONI Inky Impression(5.7")
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
@@ -1420,7 +1422,7 @@
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [sst/ion](https://github.com/sst/ion) - SST v3
 - [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
