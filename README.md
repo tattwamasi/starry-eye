@@ -98,7 +98,6 @@
 - [BPI-SINOVOIP/THG6500-TAX2-OPENWRT-BSP](https://github.com/BPI-SINOVOIP/THG6500-TAX2-OPENWRT-BSP) - 
 - [NouamaneTazi/bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - C++ implementation for BLOOM
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [saagarjha/TSOEnabler](https://github.com/saagarjha/TSOEnabler) - Kernel extension that enables TSO for Apple silicon processes
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
@@ -167,6 +166,7 @@
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [dlktdr/HeadTracker](https://github.com/dlktdr/HeadTracker) - This project is built to record the orientation a FPV headset to allow the camera on your RC to follow your head movements.
@@ -1351,6 +1351,7 @@
 
 ## TypeScript 
 
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [ocavue/astrobook](https://github.com/ocavue/astrobook) - Minimal Storybook alternative
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
