@@ -309,7 +309,7 @@
 - [kumahq/kuma](https://github.com/kumahq/kuma) - 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
 - [cirruslabs/vetu](https://github.com/cirruslabs/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Package + version AI/ML projects as OCI artifacts that can be stored in your container registry.
+- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [openfaas/faasd](https://github.com/openfaas/faasd) - A lightweight & portable faas engine
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
@@ -457,6 +457,7 @@
 
 ## Java 
 
+- [serenadeai/serenade](https://github.com/serenadeai/serenade) - 
 - [thargor6/JWildfire](https://github.com/thargor6/JWildfire) - JWildfire - powerful, flexible and user-friendly fractal flame editor
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [apache/eventmesh](https://github.com/apache/eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
@@ -907,6 +908,8 @@
 
 ## Python 
 
+- [phillco/talon-axkit](https://github.com/phillco/talon-axkit) - Talon macOS accessibility magic!
+- [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
@@ -1352,6 +1355,12 @@
 
 ## TypeScript 
 
+- [stormwarning/tailwindcss-opentype](https://github.com/stormwarning/tailwindcss-opentype) - 🔡 Tailwind CSS utility classes for advanced typographic features.
+- [TalonCommunity/Wiki](https://github.com/TalonCommunity/Wiki) - Community maintained wiki for Talon Voice
+- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
+- [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
+- [partykit/sketch-disco](https://github.com/partykit/sketch-disco) - Web components adding presence to static websites
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [partykit/sketch-waterhole](https://github.com/partykit/sketch-waterhole) - Shared YouTube player
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
@@ -1383,7 +1392,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new) - In-browser Postgres sandbox with AI assistance
-- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook for rapid prototyping
+- [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [fly-apps/astro-streaming](https://github.com/fly-apps/astro-streaming) - 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
