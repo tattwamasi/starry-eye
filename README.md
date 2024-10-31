@@ -82,6 +82,7 @@
 - [infinity-ooo/astro-theme-mia](https://github.com/infinity-ooo/astro-theme-mia) - A minimalist, powerful astro theme with integrated rough-notation for engaging, informative content.
 - [mattbrailsford/mattbrailsford.dev](https://github.com/mattbrailsford/mattbrailsford.dev) - A GitHub Discussions powered blog
 - [martrapp/astro-vtbot](https://github.com/martrapp/astro-vtbot) - The 👜 Bag of Tricks ✨ for Astro's View Transitions. ⭐️ Please star to support this work!
+- [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
 - [devaradise/devolio](https://github.com/devaradise/devolio) - A Simple Astro Portfolio & Blog Template for Developers
 - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source.
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
@@ -133,6 +134,7 @@
 
 ## C++ 
 
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [gbooker/perian](https://github.com/gbooker/perian) - Multi-codec and file format support for QuickTime on Mac
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) - `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
@@ -228,6 +230,7 @@
 ## CSS 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [maticnetwork/whitepaper](https://github.com/maticnetwork/whitepaper) - Matic whitepaper
@@ -409,6 +412,7 @@
 
 ## HTML 
 
+- [scottaohara/a11y_styled_form_controls](https://github.com/scottaohara/a11y_styled_form_controls) - Various styled accessible form controls
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -493,6 +497,7 @@
 
 ## JavaScript 
 
+- [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [No-Backspace-Crew/Speedrun](https://github.com/No-Backspace-Crew/Speedrun) - Markdown to build tools
 - [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
@@ -502,7 +507,6 @@
 - [futurethemes/astro-devtoolbar-tailwind](https://github.com/futurethemes/astro-devtoolbar-tailwind) - 
 - [Igloczek/astro-electron](https://github.com/Igloczek/astro-electron) - Build cross-platform desktop apps with Astro and Electron
 - [stateofca/opencred](https://github.com/stateofca/opencred) - OpenCred Verifiable Credentials Platform
-- [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [apHarmony/jsharmony-cms](https://github.com/apHarmony/jsharmony-cms) - jsHarmony CMS
@@ -1043,7 +1047,7 @@
 - [dracos/weatherboard](https://github.com/dracos/weatherboard) - Source for my e-paper based weather display.
 - [kotamorishi/weather-impression](https://github.com/kotamorishi/weather-impression) - Weather station for PIMORONI Inky Impression(5.7")
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
@@ -1150,7 +1154,7 @@
 - [mateosss/matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
@@ -1209,6 +1213,7 @@
 
 ## Rust 
 
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -1316,7 +1321,7 @@
 - [wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime) - Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [isl-org/OpenBot](https://github.com/isl-org/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS & macOS
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -1355,6 +1360,8 @@
 
 ## TypeScript 
 
+- [githubnext/vitale](https://github.com/githubnext/vitale) - TypeScript notebook for developers
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [stormwarning/tailwindcss-opentype](https://github.com/stormwarning/tailwindcss-opentype) - 🔡 Tailwind CSS utility classes for advanced typographic features.
 - [TalonCommunity/Wiki](https://github.com/TalonCommunity/Wiki) - Community maintained wiki for Talon Voice
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
@@ -1379,7 +1386,7 @@
 - [mattbrailsford/github-discussions-blog-loader](https://github.com/mattbrailsford/github-discussions-blog-loader) - GitHub Discussions Blog Loader for Astro
 - [DallasHoff/sqlocal](https://github.com/DallasHoff/sqlocal) - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
+- [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [giuseppelt/astro-lottie](https://github.com/giuseppelt/astro-lottie) - Use Lottie animations within your Astro website
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui) - 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨
 - [delucis/astro-og-canvas](https://github.com/delucis/astro-og-canvas) - Generate OpenGraph images for your Astro site
@@ -1606,7 +1613,6 @@
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
 - [netlify/million-devs](https://github.com/netlify/million-devs) - Microsite for the 1 Million Developers announcement.
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
-- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
 - [aws-samples/amazon-api-gateway-url-shortener](https://github.com/aws-samples/amazon-api-gateway-url-shortener) - Creates a serverless URL shortener on AWS without using AWS Lambda or any other compute.
 - [tevora-threat/Scout](https://github.com/tevora-threat/Scout) - Surveillance Detection Scout: Your Lookout on Autopilot
 
