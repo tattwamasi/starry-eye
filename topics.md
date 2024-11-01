@@ -2159,7 +2159,7 @@
 
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [chatch/stellar-hd-wallet](https://github.com/chatch/stellar-hd-wallet) - 🔐  Key derivation for Stellar (SEP-0005)  🚀
 
 ## numpy 
@@ -2963,7 +2963,7 @@
 
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based content management system powered by Vapor 4.
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 
 ## pwa 
@@ -3614,7 +3614,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [getcronit/pylon](https://github.com/getcronit/pylon) - The next generation of building GraphQL APIs
+- [getcronit/pylon](https://github.com/getcronit/pylon) - Enables TypeScript developers to easily build GraphQL APIs
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
