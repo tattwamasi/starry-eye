@@ -1415,7 +1415,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
-- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
+- [outerbase/starbasedb](https://github.com/outerbase/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [vikejs/bati](https://github.com/vikejs/bati) - Next-gen scaffolder. Get started with fully-functional apps, and choose any tool you want.
 - [jeffsee55/tina-astro](https://github.com/jeffsee55/tina-astro) - 
 - [scaffold-eth/scaffold-eth-2](https://github.com/scaffold-eth/scaffold-eth-2) - Open source forkable Ethereum dev stack
