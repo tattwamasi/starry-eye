@@ -218,6 +218,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -243,6 +244,7 @@
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
@@ -276,7 +278,7 @@
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [SageMindAI/autogen-agi](https://github.com/SageMindAI/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
@@ -639,7 +641,7 @@
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [JieyuZ2/EcoAssistant](https://github.com/JieyuZ2/EcoAssistant) - EcoAssistant: using LLM assistant more affordably and accurately
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
@@ -676,7 +678,7 @@
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Crea
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -902,7 +904,7 @@
 
 ## database 
 
-- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
+- [outerbase/starbasedb](https://github.com/outerbase/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
@@ -1648,7 +1650,7 @@
 
 ## jekyll 
 
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [lowerbarriers/resume](https://github.com/lowerbarriers/resume) - Easy-to-use résumé template with lots of features
 - [titpetric/pendulum](https://github.com/titpetric/pendulum) - A simple markdown editor for static files (Hugo, Nexo, Jekyll, MkDocs, ...)
 - [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman) - 💪  User-generated content for Git-powered websites
@@ -1813,7 +1815,7 @@
 - [hkproj/mistral-llm-notes](https://github.com/hkproj/mistral-llm-notes) - Notes on the Mistral AI model
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 - [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py) - Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2078,7 +2080,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [skovy/llm-markdown](https://github.com/skovy/llm-markdown) - Demo rendering rich responses from LLMs
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -2294,6 +2296,8 @@
 
 ## others 
 
+- [acuteimmersive/openimmersive](https://github.com/acuteimmersive/openimmersive) - A free and open immersive video player for the Apple Vision Pro.
+- [mikeswanson/SpatialPlayer](https://github.com/mikeswanson/SpatialPlayer) - An example spatial/immersive MV-HEVC video player for Apple Vision Pro
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [tailwindlabs/tailwindcss-container-queries](https://github.com/tailwindlabs/tailwindcss-container-queries) - A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.
 - [beeman/awesome-atproto](https://github.com/beeman/awesome-atproto) - A curated list of awesome ATProto resources
@@ -2304,6 +2308,7 @@
 - [andymatuschak/note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes
 - [stereobooster/astro-digital-garden](https://github.com/stereobooster/astro-digital-garden) - Astro digital garden
 - [landakram/remark-wiki-link](https://github.com/landakram/remark-wiki-link) - Parse and render wiki links.
+- [launchdarkly/terraform-provider-launchdarkly](https://github.com/launchdarkly/terraform-provider-launchdarkly) - LaunchDarkly Terraform provider
 - [githubnext/vitale](https://github.com/githubnext/vitale) - TypeScript notebook for developers
 - [scottaohara/a11y_styled_form_controls](https://github.com/scottaohara/a11y_styled_form_controls) - Various styled accessible form controls
 - [stormwarning/tailwindcss-opentype](https://github.com/stormwarning/tailwindcss-opentype) - 🔡 Tailwind CSS utility classes for advanced typographic features.
@@ -2584,7 +2589,7 @@
 - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Swift app demonstrating Core ML Stable Diffusion
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [jontelang/WakaLet](https://github.com/jontelang/WakaLet) - Wakatime.com OSX menulet (menubar application)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -3457,7 +3462,7 @@
 
 ## sqlite 
 
-- [Brayden/starbasedb](https://github.com/Brayden/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
+- [outerbase/starbasedb](https://github.com/outerbase/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [DallasHoff/sqlocal](https://github.com/DallasHoff/sqlocal) - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -3501,6 +3506,7 @@
 
 ## swift 
 
+- [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [tmandry/AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
@@ -3596,7 +3602,6 @@
 
 ## terraform 
 
-- [launchdarkly/terraform-provider-launchdarkly](https://github.com/launchdarkly/terraform-provider-launchdarkly) - Terraform LaunchDarkly provider
 - [zitadel/terraform-provider-zitadel](https://github.com/zitadel/terraform-provider-zitadel) - Official Terraform provider for ZITADEL
 - [patheard/aws-ecs-zitadel](https://github.com/patheard/aws-ecs-zitadel) - Zitadel in an AWS ECS Fargate cluster
 - [e2b-dev/infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
@@ -3732,11 +3737,16 @@
 - [semgrep/semgrep-vscode](https://github.com/semgrep/semgrep-vscode) - Semgrep extension for Visual Studio Code
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 
+## vpn 
+
+- [pomerium/pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
 ## vue 
 
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -3749,7 +3759,7 @@
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
