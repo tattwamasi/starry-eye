@@ -327,7 +327,7 @@
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) - TriggerMesh is the open-source AWS EventBridge alternative. It provides a unified eventing experience, a developer-friendly CLI, and runs on Docker or natively on Kubernetes.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale seamlessly. It’s the ideal solution for powering Generative AI applications. Proudly developed and maintained by Zilliz.
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey server and SDKs for adding passkey support to any auth system
