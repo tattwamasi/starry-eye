@@ -556,7 +556,7 @@
 - [cairo-book/cairo-book](https://github.com/cairo-book/cairo-book) - The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, open source & free. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support & hundreds of improvements. Open source & free. Made with Svelte.
 - [rstrouse/nodejs-poolController-dashPanel](https://github.com/rstrouse/nodejs-poolController-dashPanel) - A dashboard panel for tagyoureit/nodejs-poolController
 - [idan/spectacle-block](https://github.com/idan/spectacle-block) - A Markdown Presentation Block
 - [primer/primer.style](https://github.com/primer/primer.style) - The website for all things Primer
