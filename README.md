@@ -61,6 +61,7 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Wikitext](#wikitext)
+- [XQuery](#xquery)
 - [XSLT](#xslt)
 - [YAML](#yaml)
 - [ZIL](#zil)
@@ -480,7 +481,6 @@
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [apache/eventmesh](https://github.com/apache/eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
 - [JanssenProject/jans](https://github.com/JanssenProject/jans) - An enterprise identity and access management platform-- Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud. #OAuth #OpenID #
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The AR and VR library for React Native 📳💙💛🤍💚
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -944,6 +944,7 @@
 
 ## Python 
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [cbusillo/BD_to_AVP](https://github.com/cbusillo/BD_to_AVP) - 3D Blu-ray to Apple Vision Pro converter
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
@@ -956,7 +957,7 @@
 - [OpenBB-finance/openbb-agents](https://github.com/OpenBB-finance/openbb-agents) - R&D playground to play with agents and OpenBB
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
 - [exo-explore/mlx-bitnet](https://github.com/exo-explore/mlx-bitnet) - 1.58 Bit LLM on Apple Silicon using MLX
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
@@ -1000,7 +1001,7 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, TPU, and Intel acce
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
@@ -1099,7 +1100,7 @@
 - [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Developer AI Persona Search Agent
 - [Andyinater/AutoGen_EnhancedAgents](https://github.com/Andyinater/AutoGen_EnhancedAgents) - This repository holds enhanced Agents, built for the Microsoft AutoGen Framework. Debuting with a MemoryEnabledAgent with improvements in context/token control, portability, and PnP functionality.
 - [denonrailz/obsidian-autogen](https://github.com/denonrailz/obsidian-autogen) - Obsidian-based AutoGen framework
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
@@ -1681,6 +1682,10 @@
 ## Wikitext 
 
 - [bitcoin/bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
+
+## XQuery 
+
+- [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
 
 ## XSLT 
 
