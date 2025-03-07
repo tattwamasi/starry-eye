@@ -214,6 +214,7 @@
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -418,7 +419,7 @@
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [modal-labs/doppel-bot](https://github.com/modal-labs/doppel-bot) - Train a language model to answer Slack messages as you.
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [DevXT-LLC/ezlocalai](https://github.com/DevXT-LLC/ezlocalai) - ezlocalai is an easy to set up local artificial intelligence server with OpenAI Style Endpoints.
@@ -758,7 +759,7 @@
 
 - [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect and validate 400+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 
 ## code-review 
@@ -1631,7 +1632,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
@@ -1721,7 +1722,7 @@
 
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
@@ -1850,7 +1851,7 @@
 - [skovy/llm-markdown](https://github.com/skovy/llm-markdown) - Demo rendering rich responses from LLMs
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 - [hkproj/mistral-llm-notes](https://github.com/hkproj/mistral-llm-notes) - Notes on the Mistral AI model
@@ -2129,7 +2130,7 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [skovy/llm-markdown](https://github.com/skovy/llm-markdown) - Demo rendering rich responses from LLMs
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
@@ -2291,7 +2292,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 - [Poly186-AI-DAO/PolyGPT-alpha](https://github.com/Poly186-AI-DAO/PolyGPT-alpha) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
@@ -2345,6 +2346,7 @@
 
 ## others 
 
+- [fastly/pubsub](https://github.com/fastly/pubsub) - Pub/sub at the edge
 - [withastro/storefront](https://github.com/withastro/storefront) - Astro for ecommerce 💰
 - [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
@@ -2367,7 +2369,7 @@
 - [upspeak/upspeak](https://github.com/upspeak/upspeak) - Organise discussions, blogs, tweets, comments and articles into knowledge graphs.
 - [withstudiocms/ui](https://github.com/withstudiocms/ui) - The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.
 - [chenasraf/github-repos-astro-loader](https://github.com/chenasraf/github-repos-astro-loader) - An Astro loader to fetch GitHub repositories for use as content in Astro websites
-- [openauthjs/openauth](https://github.com/openauthjs/openauth) - ▦ Universal, standards-based auth provider.
+- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
 - [LayerAkira/kurosawa_akira](https://github.com/LayerAkira/kurosawa_akira) - Set of smart contracts on StarkNet for Akira Decentralised Exchange
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [argentlabs/argent-starknet-recover](https://github.com/argentlabs/argent-starknet-recover) - 
@@ -2431,7 +2433,7 @@
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [apHarmony/jsharmony-cms](https://github.com/apHarmony/jsharmony-cms) - jsHarmony CMS
 - [EisenbergEffect/server-first-web-components](https://github.com/EisenbergEffect/server-first-web-components) - A demo app showing server-first web components with DSD, HTMX, and Islands.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [fly-apps/nats-cluster](https://github.com/fly-apps/nats-cluster) - Global messaging for apps that need to talk to each other.
 - [fly-apps/astro-streaming](https://github.com/fly-apps/astro-streaming) - 
@@ -3184,7 +3186,7 @@
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [GAM-team/GAM](https://github.com/GAM-team/GAM) - command line management for Google Workspace
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
@@ -3300,7 +3302,7 @@
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -3438,7 +3440,7 @@
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [JanssenProject/jans](https://github.com/JanssenProject/jans) - An enterprise identity and access management platform-- Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud. #OAuth #OpenID #
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
+- [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect and validate 400+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
@@ -3603,7 +3605,7 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Made with Svelte.
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-source infrastructure and data orchestration platform for risk decisioning
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
@@ -3737,6 +3739,11 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 
+## trading 
+
+- [Reidmcc/rockfish](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX)
+- [stellar-deprecated/kelp](https://github.com/stellar-deprecated/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
+
 ## twitter 
 
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
@@ -3763,7 +3770,7 @@
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [openai/openai-realtime-api-beta](https://github.com/openai/openai-realtime-api-beta) - Node.js + JavaScript reference client for the Realtime API (beta)
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
-- [infinity-ooo/astro-theme-mia](https://github.com/infinity-ooo/astro-theme-mia) - A minimalist, powerful astro theme with integrated rough-notation for engaging, informative content.
+- [thinkininfinity/astro-theme-mia](https://github.com/thinkininfinity/astro-theme-mia) - A minimalist, powerful astro theme with integrated rough-notation for engaging, informative content.
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
@@ -3792,7 +3799,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -3862,7 +3869,7 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
