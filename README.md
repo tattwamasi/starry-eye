@@ -267,7 +267,6 @@
 ## Cairo 
 
 - [LayerAkira/kurosawa_akira](https://github.com/LayerAkira/kurosawa_akira) - Set of smart contracts on StarkNet for Akira Decentralised Exchange
-- [NethermindEth/StarknetByExample](https://github.com/NethermindEth/StarknetByExample) - A collection of examples of Cairo smart contracts for Starknet.
 
 ## Clojure 
 
@@ -342,7 +341,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a secure, scalable runtime for AI-generated code execution.
 - [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey server and SDKs
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -1099,7 +1098,6 @@
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 - [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
@@ -1154,7 +1152,7 @@
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [vimalabs/VIMA](https://github.com/vimalabs/VIMA) - Official Algorithm Implementation of ICML'23 Paper "VIMA: General Robot Manipulation with Multimodal Prompts"
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
@@ -1278,6 +1276,7 @@
 
 ## Rust 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [fastly/pubsub](https://github.com/fastly/pubsub) - Pub/sub at the edge
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -1357,6 +1356,7 @@
 
 ## Solidity 
 
+- [NethermindEth/StarknetByExample](https://github.com/NethermindEth/StarknetByExample) - A collection of examples of Cairo smart contracts for Starknet.
 - [theblockchaineth/public-smart-contracts](https://github.com/theblockchaineth/public-smart-contracts) - 
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [Midvel/medium_blockchain_notes](https://github.com/Midvel/medium_blockchain_notes) - Blockchain Everywhere (code notes for Medium)
@@ -1612,6 +1612,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [readmeio/api](https://github.com/readmeio/api) - 🚀 Automatic SDK generation from an OpenAPI definition
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
