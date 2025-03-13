@@ -341,7 +341,7 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a secure, scalable runtime for AI-generated code execution.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running Your AI-Generated Code.
 - [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey server and SDKs
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -525,6 +525,7 @@
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [sdennett55/cards-of-personality-frontend](https://github.com/sdennett55/cards-of-personality-frontend) - A mobile-first multiplayer web game inspired by the popular Cards Against Humanity card game.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
 - [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - remark plugin to support frontmatter (YAML, TOML, and more)
@@ -787,7 +788,6 @@
 ## MDX 
 
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
-- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
 - [stereobooster/astro-digital-garden](https://github.com/stereobooster/astro-digital-garden) - Astro digital garden
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1071,7 +1071,7 @@
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [sidak/otfusion](https://github.com/sidak/otfusion) - Model Fusion via Optimal Transport, NeurIPS 2020
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
 - [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py) - Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)
 - [Poly186-AI-DAO/PolyGPT-alpha](https://github.com/Poly186-AI-DAO/PolyGPT-alpha) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
@@ -1086,7 +1086,7 @@
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
 - [epfLLM/Megatron-LLM](https://github.com/epfLLM/Megatron-LLM) - distributed trainer for LLMs
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - 100% Local AGI with LocalAI
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 15+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
@@ -1368,7 +1368,6 @@
 
 ## Svelte 
 
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -1403,7 +1402,7 @@
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [mortenjust/native-diffusion](https://github.com/mortenjust/native-diffusion) - Native Stable Diffusion inference on iOS / macOS using MPSGraph
 - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Swift app demonstrating Core ML Stable Diffusion
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [BlockchainCommons/QRCodeGenerator](https://github.com/BlockchainCommons/QRCodeGenerator) - A QR code generator written in pure Swift. Unlike Apple's built-in APIs for QR code generation, this package allows more sophisticated and tunable encoding techniques.
@@ -1452,6 +1451,7 @@
 - [Fryuni/inox-tools](https://github.com/Fryuni/inox-tools) - Oxygen-free tools for Astronauts.
 - [withstudiocms/ui](https://github.com/withstudiocms/ui) - The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.
 - [chenasraf/github-repos-astro-loader](https://github.com/chenasraf/github-repos-astro-loader) - An Astro loader to fetch GitHub repositories for use as content in Astro websites
+- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x) - ArgentX browser extension for StarkNet - made with ❤️ by Argent
 - [argentlabs/argent-starknet-recover](https://github.com/argentlabs/argent-starknet-recover) - 
