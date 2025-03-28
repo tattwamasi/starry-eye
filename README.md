@@ -143,6 +143,8 @@
 
 ## C++ 
 
+- [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
+- [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++
 - [hku-mars/SUPER](https://github.com/hku-mars/SUPER) - 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [gbooker/perian](https://github.com/gbooker/perian) - Multi-codec and file format support for QuickTime on Mac
@@ -1444,6 +1446,7 @@
 
 ## TypeScript 
 
+- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
 - [withastro/storefront](https://github.com/withastro/storefront) - Astro for ecommerce 💰
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
