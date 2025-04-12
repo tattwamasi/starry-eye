@@ -309,6 +309,7 @@
 
 ## Go 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
 - [loopholelabs/drafter](https://github.com/loopholelabs/drafter) - A Compute Primitive Designed for Live Migration
 - [upspeak/upspeak](https://github.com/upspeak/upspeak) - Organise discussions, blogs, tweets, comments and articles into knowledge graphs.
@@ -349,12 +350,14 @@
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey server and SDKs
+- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No 
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [coder/envbuilder](https://github.com/coder/envbuilder) - Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Enable developers to modify their development environment quickly.
 - [getzep/zep](https://github.com/getzep/zep) - Zep | The Memory Foundation For Your AI Stack
@@ -418,7 +421,7 @@
 - [interstellar/starlight](https://github.com/interstellar/starlight) - Payment channels on Stellar
 - [stellar-deprecated/kelp](https://github.com/stellar-deprecated/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
 - [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
-- [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
+- [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [ezdapps/backend](https://github.com/ezdapps/backend) - A blockchain platform with a simplified programming language. 85% of all tokens will be distributed for free among GitHub users.
 - [gitchain/gitchain](https://github.com/gitchain/gitchain) - Decentralized, peer-to-peer Git repositories aka "Git meets Bitcoin"
@@ -574,7 +577,7 @@
 - [cairo-book/cairo-book](https://github.com/cairo-book/cairo-book) - The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Framework-agnostic.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Open source & free.
 - [rstrouse/nodejs-poolController-dashPanel](https://github.com/rstrouse/nodejs-poolController-dashPanel) - A dashboard panel for tagyoureit/nodejs-poolController
 - [idan/spectacle-block](https://github.com/idan/spectacle-block) - A Markdown Presentation Block
 - [primer/primer.style](https://github.com/primer/primer.style) - The website for all things Primer
@@ -750,7 +753,6 @@
 ## Jupyter Notebook 
 
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
-- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa) - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads
@@ -966,6 +968,8 @@
 
 ## Python 
 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [AllYarnsAreBeautiful/ayab-desktop](https://github.com/AllYarnsAreBeautiful/ayab-desktop) - The AYAB Software
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
@@ -1036,7 +1040,7 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, TPU, and Intel acce
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify GPU allocation and AI workload orchestration for ML teams across top clouds, on-prem clusters, and accelerators.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [EvolvingLMMs-Lab/Otter](https://github.com/EvolvingLMMs-Lab/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
@@ -1095,7 +1099,6 @@
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
 - [epfLLM/Megatron-LLM](https://github.com/epfLLM/Megatron-LLM) - distributed trainer for LLMs
-- [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - 100% Local AGI with LocalAI
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1562,7 +1565,7 @@
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Workflow automation with 280+ MCP servers (MCP tools) • AI automation & workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
 - [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
