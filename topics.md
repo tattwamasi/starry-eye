@@ -354,7 +354,7 @@
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native. Made with ❤️ by Morrow.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -521,7 +521,7 @@
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
+- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -739,7 +739,7 @@
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
+- [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
@@ -818,7 +818,7 @@
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [NouamaneTazi/bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - C++ implementation for BLOOM
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
@@ -1097,6 +1097,7 @@
 
 ## electron 
 
+- [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) - A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [BruceMacD/chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -1454,7 +1455,7 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
+- [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -1565,7 +1566,7 @@
 - [cesarferreira/SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe EventBus optimized for iOS
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native. Made with ❤️ by Morrow.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
@@ -1676,7 +1677,7 @@
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [lazywithclass/winston-cloudwatch](https://github.com/lazywithclass/winston-cloudwatch) - Send logs to Amazon Cloudwatch using Winston.
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -1727,7 +1728,7 @@
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
+- [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [drakeaxelrod/json-resume-service](https://github.com/drakeaxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
@@ -1789,7 +1790,7 @@
 
 - [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
 
 ## laravel 
@@ -1996,6 +1997,7 @@
 
 ## macos 
 
+- [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [phillco/talon-axkit](https://github.com/phillco/talon-axkit) - Talon macOS accessibility magic!
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [beringresearch/macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
@@ -2233,7 +2235,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ferdikoomen/openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
+- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -2275,6 +2277,7 @@
 
 ## objective-c 
 
+- [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
@@ -2377,6 +2380,9 @@
 
 ## others 
 
+- [superfly/flymcp](https://github.com/superfly/flymcp) - MCP server for Fly.io CLI integration with Claude Desktop
+- [oatpp/oatpp-mcp](https://github.com/oatpp/oatpp-mcp) - Anthropic’s Model Context Protocol implementation for Oat++
+- [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [AllYarnsAreBeautiful/ayab-desktop](https://github.com/AllYarnsAreBeautiful/ayab-desktop) - The AYAB Software
 - [Seifert69/DikuMUD3](https://github.com/Seifert69/DikuMUD3) - DikuMUD III using HTML and websockets.
@@ -2748,7 +2754,7 @@
 - [saagarjha/TSOEnabler](https://github.com/saagarjha/TSOEnabler) - Kernel extension that enables TSO for Apple silicon processes
 - [johnnyopao/awsp](https://github.com/johnnyopao/awsp) - Switch AWS Profiles Easily
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
-- [dlktdr/HeadTracker](https://github.com/dlktdr/HeadTracker) - This project is built to record the orientation a FPV headset to allow the camera on your RC to follow your head movements.
+- [headtracker/HeadTracker](https://github.com/headtracker/HeadTracker) - This project is built to record the orientation a FPV headset to allow the camera on your RC to follow your head movements.
 - [awslabs/aws-sam-codepipeline-cd](https://github.com/awslabs/aws-sam-codepipeline-cd) - A serverless app that sets up an AWS CodePipeline pipeline for a given GitHub repo. This app allows people developing SAM applications to quickly get CodePipeline-based CD setup for their project.
 - [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -3137,6 +3143,7 @@
 
 ## python 
 
+- [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [wakatime/wakaq](https://github.com/wakatime/wakaq) - Background task queue for Python backed by Redis, a super minimal Celery
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
@@ -3376,7 +3383,7 @@
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native. Made with ❤️ by Morrow.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -3452,7 +3459,7 @@
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a toolchain for building provable games and applications
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -3548,7 +3555,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
+- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -3863,7 +3870,7 @@
 - [drakeaxelrod/json-resume-service](https://github.com/drakeaxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools is a developer toolkit to implement Serverless best practices and increase developer velocity.
+- [aws-powertools/powertools-lambda-typescript](https://github.com/aws-powertools/powertools-lambda-typescript) - Powertools for AWS is a developer toolkit to implement Serverless best practices and increase developer velocity.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -3898,6 +3905,7 @@
 
 ## virtual-reality 
 
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
 - [UT-Austin-RPL/TRILL](https://github.com/UT-Austin-RPL/TRILL) - Official codebase for TRILL (Teleoperation and Imitation Learning for Loco-manipulation)
 
 ## visual-studio-code 
