@@ -1456,6 +1456,7 @@
 
 ## TypeScript 
 
+- [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
