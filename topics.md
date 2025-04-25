@@ -414,6 +414,7 @@
 
 ## artificial-intelligence 
 
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
@@ -441,6 +442,7 @@
 
 ## automation 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
@@ -1008,6 +1010,7 @@
 
 ## devops 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -1270,6 +1273,7 @@
 
 ## github 
 
+- [lin-stephanie/astro-loaders](https://github.com/lin-stephanie/astro-loaders) - A monorepo hosting Astro loaders that I need and might be useful for you.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [remarkjs/remark-gfm](https://github.com/remarkjs/remark-gfm) - remark plugin to support GFM (autolink literals, footnotes, strikethrough, tables, tasklists)
 - [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
@@ -1602,6 +1606,7 @@
 
 ## java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -1929,6 +1934,7 @@
 
 ## low-code 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -2038,6 +2044,7 @@
 
 ## markdown 
 
+- [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [meow-d/markless](https://github.com/meow-d/markless) - Typora-style WYSIWYG markdown preview for VScode. personal fork.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalistic wiki powered by python, markdown and git.
@@ -2286,6 +2293,7 @@
 
 ## open-source 
 
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -2380,6 +2388,14 @@
 
 ## others 
 
+- [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) - Loaders for Astro's Content Layer
+- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A customizable, feature-rich Astro theme for blog and portfolio creation.
+- [morinokami/mcp-server-bluesky](https://github.com/morinokami/mcp-server-bluesky) - MCP server for interacting with Bluesky
+- [morinokami/astro-mcp](https://github.com/morinokami/astro-mcp) - MCP server to support Astro project development
+- [The-Pocket/PocketFlow-CPP](https://github.com/The-Pocket/PocketFlow-CPP) - 
+- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
+- [allenheltondev/mcp-tool-telemetry](https://github.com/allenheltondev/mcp-tool-telemetry) - POC for tracking MCP server tool usage with Kestra
+- [momentohq/mcp-momento](https://github.com/momentohq/mcp-momento) - A model context protocol server for Momento
 - [superfly/flymcp](https://github.com/superfly/flymcp) - MCP server for Fly.io CLI integration with Claude Desktop
 - [oatpp/oatpp-mcp](https://github.com/oatpp/oatpp-mcp) - Anthropic’s Model Context Protocol implementation for Oat++
 - [magnetai/mcp-free-usdc-transfer](https://github.com/magnetai/mcp-free-usdc-transfer) - MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP
@@ -2783,7 +2799,7 @@
 - [iden3/docs](https://github.com/iden3/docs) - iden3 documentation
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [leadwallet/leadwallet-multisender-docs](https://github.com/leadwallet/leadwallet-multisender-docs) - 
-- [theblockchaineth/public-smart-contracts](https://github.com/theblockchaineth/public-smart-contracts) - 
+- [tbceth/public-smart-contracts](https://github.com/tbceth/public-smart-contracts) - 
 - [Luthey-Schulten-Lab/Minimal_Cell](https://github.com/Luthey-Schulten-Lab/Minimal_Cell) - 
 - [KlausSchaefers/vue-low-code](https://github.com/KlausSchaefers/vue-low-code) - Quant-UX standalone
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
@@ -3313,6 +3329,7 @@
 
 ## react 
 
+- [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard) - Modern dashboard for managing E2B sandboxes and API keys. Built with Next.js 15, React 19, and Supabase.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [inokawa/remark-slate-transformer](https://github.com/inokawa/remark-slate-transformer) - remark plugin to transform remark syntax tree (mdast) to Slate document tree, and vice versa. Made for WYSIWYG markdown editor.
@@ -3397,6 +3414,7 @@
 
 ## reactjs 
 
+- [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
