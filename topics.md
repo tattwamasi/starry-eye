@@ -224,6 +224,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -247,7 +248,11 @@
 
 ## ai 
 
+- [antirez/gguf-tools](https://github.com/antirez/gguf-tools) - GGUF implementation in C as a library and a tools CLI program
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [AI-QL/tuui](https://github.com/AI-QL/tuui) - A Tool-Unified User Interface accelerating AI tool integration via MCP (Model Context Protocol) and orchestrating cross-vendor LLM APIs
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
+- [SolaceLabs/solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) - An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
@@ -300,7 +305,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [getzep/zep](https://github.com/getzep/zep) - Zep | The Memory Foundation For Your AI Stack
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -356,6 +361,7 @@
 
 ## android 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
@@ -640,6 +646,7 @@
 
 ## c-plus-plus 
 
+- [zeromq/cppzmq](https://github.com/zeromq/cppzmq) - Header-only C++ binding for libzmq
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [ReactiveX/RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
@@ -782,7 +789,7 @@
 
 ## coding 
 
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [Andyinater/AutoGen_IterativeCoding](https://github.com/Andyinater/AutoGen_IterativeCoding) - This repository demonstrates how a simple iterative coding loop, with history and resume capability, can be can be implemented in the AutoGen Framework.
 
 ## compiler 
@@ -948,7 +955,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
@@ -1106,6 +1113,7 @@
 
 ## education 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
@@ -1203,6 +1211,7 @@
 
 ## framework 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -1223,6 +1232,7 @@
 
 ## frontend 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [sasoria/astro-microfrontends-ssr](https://github.com/sasoria/astro-microfrontends-ssr) - Server-side composition of microfrontends using Astro
@@ -1264,6 +1274,7 @@
 
 ## git 
 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [redimp/otterwiki](https://github.com/redimp/otterwiki) - A minimalistic wiki powered by python, markdown and git.
 - [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators
@@ -1583,6 +1594,8 @@
 
 ## ios 
 
+- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [CriticalMoments/CriticalMoments](https://github.com/CriticalMoments/CriticalMoments) - Mobile Growth SDK: Notifications, Revenue Growth, Increase App Ratings, Feature Flags, In-App Messaging and User Targeting
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
@@ -1640,6 +1653,8 @@
 
 ## javascript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
@@ -1813,7 +1828,7 @@
 
 ## language 
 
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
@@ -1829,12 +1844,14 @@
 
 ## learning 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources
 - [srama2512/sidekicks](https://github.com/srama2512/sidekicks) - Sidekick Policy Learning for Active Visual Exploration (ECCV 2018)
 
 ## library 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [DeveloperPaul123/eventbus](https://github.com/DeveloperPaul123/eventbus) - A simple, header only event bus library written in modern C++17.
@@ -1867,8 +1884,13 @@
 
 ## llm 
 
+- [antirez/gguf-tools](https://github.com/antirez/gguf-tools) - GGUF implementation in C as a library and a tools CLI program
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [AI-QL/tuui](https://github.com/AI-QL/tuui) - A Tool-Unified User Interface accelerating AI tool integration via MCP (Model Context Protocol) and orchestrating cross-vendor LLM APIs
+- [Omar-V2/mcp-ical](https://github.com/Omar-V2/mcp-ical) - A Model Context Protocol Server that allows you to interact with your MacOS Calendar through natural language.
+- [SolaceLabs/solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) - An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
@@ -1938,7 +1960,7 @@
 - [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) - RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
@@ -1975,6 +1997,7 @@
 
 ## mac 
 
+- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number vali
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
@@ -2004,7 +2027,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [Poly186-AI-DAO/PolyGPT-alpha](https://github.com/Poly186-AI-DAO/PolyGPT-alpha) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
-- [modular/modular](https://github.com/modular/modular) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
@@ -2028,6 +2051,8 @@
 
 ## macos 
 
+- [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number vali
+- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands.
 - [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [phillco/talon-axkit](https://github.com/phillco/talon-axkit) - Talon macOS accessibility magic!
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
@@ -2057,7 +2082,7 @@
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
-- [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
+- [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
@@ -2069,6 +2094,7 @@
 
 ## markdown 
 
+- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A customizable, feature-rich Astro theme for blog and portfolio creation.
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [meow-d/markless](https://github.com/meow-d/markless) - Typora-style WYSIWYG markdown preview for VScode. personal fork.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2105,6 +2131,7 @@
 
 ## mobile 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [Snapchat/djinni](https://github.com/Snapchat/djinni) - A tool for generating cross-language type declarations and interface bindings. Djinni's new home is in the Snapchat org.
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
@@ -2245,6 +2272,7 @@
 
 ## nodejs 
 
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2293,7 +2321,7 @@
 ## nosql 
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [tidwall/summitdb](https://github.com/tidwall/summitdb) - In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
 
 ## npm 
@@ -2375,7 +2403,7 @@
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [rizerphe/openai-functions](https://github.com/rizerphe/openai-functions) - Generate ChatGPT function call schemas based on function docstrings.
-- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+- [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [Andyinater/AutoGen_EnhancedAgents](https://github.com/Andyinater/AutoGen_EnhancedAgents) - This repository holds enhanced Agents, built for the Microsoft AutoGen Framework. Debuting with a MemoryEnabledAgent with improvements in context/token control, portability, and PnP functionality.
 - [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
@@ -2415,6 +2443,38 @@
 
 ## others 
 
+- [minrk/allthekernels](https://github.com/minrk/allthekernels) - A multiplexer kernel for Jupyter
+- [Calysto/metakernel](https://github.com/Calysto/metakernel) - Jupyter/IPython Kernel Tools
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+- [darwin-containers/rund](https://github.com/darwin-containers/rund) - OCI Container Runtime for Darwin
+- [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
+- [daveyplate/better-auth-instantdb](https://github.com/daveyplate/better-auth-instantdb) - 
+- [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
+- [hookdeck/event-destinations](https://github.com/hookdeck/event-destinations) - An initiative to support a new model for event interoperability between event producers and their consumers to favor better developer experience, robust integration, and infrastructural efficiency.
+- [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
+- [supercorp-ai/superinterface](https://github.com/supercorp-ai/superinterface) - Superinterface is an AI assistants library for building AI capabilities into your app or website. You use React components and hooks to build AI-first assistants-based interfaces like chats and wizard
+- [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
+- [HybridRobotics/Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) - Codebase for Berkeley Humanoid Lite
+- [zeromq/zmqpp](https://github.com/zeromq/zmqpp) - 0mq 'highlevel' C++ bindings
+- [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
+- [zeromq/zyre](https://github.com/zeromq/zyre) - Zyre - an open-source framework for proximity-based peer-to-peer applications
+- [zeromq/malamute](https://github.com/zeromq/malamute) - The ZeroMQ Enterprise Messaging Broker
+- [hannesj/mcp-graphql-schema](https://github.com/hannesj/mcp-graphql-schema) - GraphQL Schema Model Context Protocol Server
+- [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code whil
+- [co-browser/agent-browser](https://github.com/co-browser/agent-browser) - One connection for all your MCP servers.
+- [co-browser/attestable-mcp-server](https://github.com/co-browser/attestable-mcp-server) - Verify that any MCP server is running the intended and untampered code via hardware attestation.
+- [TobyLobster/Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
+- [ganelson/inform](https://github.com/ganelson/inform) - The core software distribution for the Inform 7 programming language.
+- [erkyrath/tworld](https://github.com/erkyrath/tworld) - A choice-based shared online text environment sandbox
+- [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
+- [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
+- [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
+- [xpack-dev-tools/clang-xpack](https://github.com/xpack-dev-tools/clang-xpack) - A binary distribution of the LLVM clang compiler infrastructure
+- [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) - Examples for using the Limitless Developer API
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- [Orphis/boost-cmake](https://github.com/Orphis/boost-cmake) - Easy Boost integration in CMake projects
 - [alexreinking/sdcppmu-diffuse](https://github.com/alexreinking/sdcppmu-diffuse) - Demo application for the San Diego C++ Meetup
 - [modern-cmake/cppfront](https://github.com/modern-cmake/cppfront) - CMake wrapper around the cppfront repository
 - [formoon/realworld-oatpp](https://github.com/formoon/realworld-oatpp) - 
@@ -2425,10 +2485,8 @@
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [Qihoo360/TinyMCP](https://github.com/Qihoo360/TinyMCP) - A lightweight C++ SDK for implementing the MCP Server.
-- [SolaceLabs/solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) - Event-driven multi agent AI framework
 - [PostHog/posthog-mcp](https://github.com/PostHog/posthog-mcp) - A minimal posthog mcp to retrive insights and add annotations
 - [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) - Loaders for Astro's Content Layer
-- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A customizable, feature-rich Astro theme for blog and portfolio creation.
 - [morinokami/mcp-server-bluesky](https://github.com/morinokami/mcp-server-bluesky) - MCP server for interacting with Bluesky
 - [morinokami/astro-mcp](https://github.com/morinokami/astro-mcp) - MCP server to support Astro project development
 - [The-Pocket/PocketFlow-CPP](https://github.com/The-Pocket/PocketFlow-CPP) - Pocket Flow: A minimalist LLM framework. Let Agents build Agents!
@@ -2675,7 +2733,7 @@
 - [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [brevdev/notebooks](https://github.com/brevdev/notebooks) - Collection of notebook guides created by the Brev.dev team!
+- [brevdev/launchables](https://github.com/brevdev/launchables) - Collection of notebook guides created by the Brev.dev team!
 - [google/centaur](https://github.com/google/centaur) - 
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [OpenBuddy/OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
@@ -3165,6 +3223,7 @@
 
 ## privacy 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -3262,7 +3321,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [Div99/agent-protocol](https://github.com/Div99/agent-protocol) - Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.
 - [rizerphe/openai-functions](https://github.com/rizerphe/openai-functions) - Generate ChatGPT function call schemas based on function docstrings.
-- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+- [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Crea
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
@@ -3360,6 +3419,7 @@
 
 ## raspberry-pi 
 
+- [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -3370,6 +3430,7 @@
 
 ## react 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [mdx-editor/editor](https://github.com/mdx-editor/editor) - A rich text editor React component for markdown
 - [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard) - Modern dashboard for managing E2B sandboxes and API keys. Built with Next.js 15, React 19, and Supabase.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -3438,6 +3499,7 @@
 
 ## react-native 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
@@ -3536,7 +3598,7 @@
 
 ## security 
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [uptane/uptane.github.io](https://github.com/uptane/uptane.github.io) - UPTANE web site
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -3768,7 +3830,7 @@
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
-- [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
+- [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
 
 ## tailwindcss 
@@ -3873,6 +3935,8 @@
 
 ## typescript 
 
+- [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands.
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard) - Modern dashboard for managing E2B sandboxes and API keys. Built with Next.js 15, React 19, and Supabase.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
@@ -3963,6 +4027,10 @@
 
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 
+## ui-design 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
 ## vim 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -4007,6 +4075,7 @@
 
 ## web 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -4042,6 +4111,7 @@
 
 ## windows 
 
+- [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [FashionFreedom/Seamly2D](https://github.com/FashionFreedom/Seamly2D) - Open source patternmaking software to democratize fashion.
 - [parlance-zz/g-diffuser-bot](https://github.com/parlance-zz/g-diffuser-bot) - Discord bot and Interface for Stable Diffusion
@@ -4058,7 +4128,7 @@
 
 - [wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime) - Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage.
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [Itaybre/CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
+- [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [ole/whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 
 ## xml 
