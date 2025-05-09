@@ -18,6 +18,7 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Cython](#cython)
+- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
@@ -103,6 +104,7 @@
 
 ## C 
 
+- [zyedidia/lfi](https://github.com/zyedidia/lfi) - LFI: Practical, Efficient, and Secure Software-based Sandboxing
 - [antirez/gguf-tools](https://github.com/antirez/gguf-tools) - GGUF implementation in C as a library and a tools CLI program
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
 - [zeromq/zyre](https://github.com/zeromq/zyre) - Zyre - an open-source framework for proximity-based peer-to-peer applications
@@ -315,6 +317,10 @@
 
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
+## D 
+
+- [zyedidia/Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language
+
 ## Dart 
 
 - [rebaz94/qstash_dart](https://github.com/rebaz94/qstash_dart) - QStash is an HTTP based messaging and scheduling solution for serverless and edge runtimes.
@@ -338,6 +344,7 @@
 
 ## Go 
 
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [darwin-containers/rund](https://github.com/darwin-containers/rund) - OCI Container Runtime for Darwin
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code whil
@@ -1016,6 +1023,9 @@
 
 ## Python 
 
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
+- [joakimmj/md-tangle](https://github.com/joakimmj/md-tangle) - Generates ("tangles") source code from Markdown documents
+- [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [minrk/allthekernels](https://github.com/minrk/allthekernels) - A multiplexer kernel for Jupyter
 - [Calysto/metakernel](https://github.com/Calysto/metakernel) - Jupyter/IPython Kernel Tools
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
@@ -1517,6 +1527,10 @@
 
 ## TypeScript 
 
+- [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
+- [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
+- [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [daveyplate/better-auth-ui](https://github.com/daveyplate/better-auth-ui) - Beautiful shadcn/ui components built for better-auth.
 - [daveyplate/better-auth-instantdb](https://github.com/daveyplate/better-auth-instantdb) - 
 - [supercorp-ai/superinterface](https://github.com/supercorp-ai/superinterface) - Superinterface is an AI assistants library for building AI capabilities into your app or website. You use React components and hooks to build AI-first assistants-based interfaces like chats and wizard
