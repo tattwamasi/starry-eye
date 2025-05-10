@@ -248,6 +248,8 @@
 
 ## ai 
 
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [antirez/gguf-tools](https://github.com/antirez/gguf-tools) - GGUF implementation in C as a library and a tools CLI program
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A Tool-Unified User Interface accelerating AI tool integration via MCP (Model Context Protocol) and orchestrating cross-vendor LLM APIs
@@ -478,6 +480,7 @@
 
 ## awesome 
 
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -896,7 +899,7 @@
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
-- [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [olton/mina-node-monitor](https://github.com/olton/mina-node-monitor) - Mina Monitor is an extended graphical version of the mina client status command with additional indicators. This is a client-server application for visual monitoring of the validator node and alerts a
@@ -1892,6 +1895,8 @@
 
 ## llm 
 
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [antirez/gguf-tools](https://github.com/antirez/gguf-tools) - GGUF implementation in C as a library and a tools CLI program
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -2457,6 +2462,9 @@
 
 ## others 
 
+- [playbit/public](https://github.com/playbit/public) - Open-source software components of Playbit
+- [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
 - [zyedidia/Literate](https://github.com/zyedidia/Literate) - A literate programming tool for any language
@@ -3473,7 +3481,7 @@
 - [sasoria/astro-microfrontends](https://github.com/sasoria/astro-microfrontends) - Client-side composition of microfrontends using Astro
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
-- [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
@@ -3523,7 +3531,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
-- [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
@@ -3872,7 +3880,7 @@
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
-- [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - The utility-first workflow you love from Tailwind CSS in your React Native applications.
 - [jakobhoeg/nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
