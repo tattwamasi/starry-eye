@@ -105,6 +105,11 @@
 
 ## C 
 
+- [libffi/libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
+- [h2non/semver.c](https://github.com/h2non/semver.c) - Semantic version in ANSI C
+- [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging
+- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
+- [ClickHouse/clickhouse-cpp](https://github.com/ClickHouse/clickhouse-cpp) - C++ client library for ClickHouse
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [playbit/public](https://github.com/playbit/public) - Open-source software components of Playbit
 - [zyedidia/lfi](https://github.com/zyedidia/lfi) - LFI: Practical, Efficient, and Secure Software-based Sandboxing
@@ -162,6 +167,47 @@
 
 ## C++ 
 
+- [BrianAnakPintar/step-writer](https://github.com/BrianAnakPintar/step-writer) - A simple & Lightweight C++ TUI Text Editor
+- [NikolaDucak/caps-log](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool. 📖
+- [catalincd/resource-monitor](https://github.com/catalincd/resource-monitor) - TUI Resource Monitor implemented in C++ with FTXUI
+- [LeeKyuHyuk/rw-tui](https://github.com/LeeKyuHyuk/rw-tui) - Read & Write Everything
+- [DanArmor/turing_cmd](https://github.com/DanArmor/turing_cmd) - Turing machine with TUI
+- [Time0o/fire-llvm](https://github.com/Time0o/fire-llvm) - A Clang plugin for generating CLIs from unmodified C++ functions/classes.
+- [kongaskristjan/fire-hpp](https://github.com/kongaskristjan/fire-hpp) - A C++ library that uses clever tricks to create super low-code, yet fully functional CLIs
+- [JohelEGP/cppfront](https://github.com/JohelEGP/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
+- [skypjack/uvw](https://github.com/skypjack/uvw) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
+- [Organic-Code/Breep](https://github.com/Organic-Code/Breep) - C++ peer to peer library, built on the top of boost
+- [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
+- [charto/nbind](https://github.com/charto/nbind) - :sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:
+- [PragmaTwice/protopuf](https://github.com/PragmaTwice/protopuf) - Protocol Puffers: A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20
+- [h4tr3d/avcpp](https://github.com/h4tr3d/avcpp) - C++ wrapper for FFmpeg
+- [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
+- [iboB/dynamix](https://github.com/iboB/dynamix) - :fish_cake: A new take on polymorphism
+- [pantor/inja](https://github.com/pantor/inja) - A Template Engine for Modern C++
+- [cursey/safetyhook](https://github.com/cursey/safetyhook) - C++23 procedure hooking library.
+- [lumia431/reaction](https://github.com/lumia431/reaction) - A lightweight, header-only reactive programming framework leveraging modern C++20 features for building efficient dataflow applications.
+- [libsigcplusplus/libsigcplusplus](https://github.com/libsigcplusplus/libsigcplusplus) - libsigc++ implements a typesafe callback system for standard C++. It allows you to define signals and to connect those signals to any callback function, either global or a member function, regardless 
+- [Privatehive/libONVIF](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library
+- [ph3at/libenvpp](https://github.com/ph3at/libenvpp) - A modern C++ library for type-safe environment variable parsing
+- [jinja2cpp/Jinja2Cpp](https://github.com/jinja2cpp/Jinja2Cpp) - Jinja2 C++ (and for C++) almost full-conformance template engine implementation
+- [gracicot/kangaru](https://github.com/gracicot/kangaru) - 🦘 A dependency injection container for C++11, C++14 and later
+- [joboccara/pipes](https://github.com/joboccara/pipes) - Pipelines for expressive code on collections in C++
+- [vimpunk/mio](https://github.com/vimpunk/mio) - Cross-platform C++11 header-only library for memory mapped file IO
+- [3Hren/blackhole](https://github.com/3Hren/blackhole) - Yet another logging library.
+- [bobluppes/graaf](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++ graph library
+- [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
+- [amzeratul/halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
+- [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
+- [lawmurray/doxide](https://github.com/lawmurray/doxide) - Modern documentation for modern C++. Configure with YAML, output Markdown, post-process with Material for MkDocs.
+- [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs) - MrDocs: A Clang/LLVM tool for building reference documentation from C++ code and javadoc comments.
+- [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text
+- [paulftw/hiberlite](https://github.com/paulftw/hiberlite) - C++ ORM for SQLite
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+- [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
+- [a-n-t-h-o-n-y/TermOx](https://github.com/a-n-t-h-o-n-y/TermOx) - C++20 Terminal User Interface (TUI) Library.
+- [p-ranav/tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++
+- [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
+- [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 - [inspector-repl/inspector](https://github.com/inspector-repl/inspector) - A drop-anywhere C++ REPL
 - [hexerei/entt-confetti](https://github.com/hexerei/entt-confetti) - C++ sample application as a starting point using the ECS implementation EnTT and SDL2
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
@@ -277,6 +323,7 @@
 
 ## CMake 
 
+- [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
 - [Orphis/boost-cmake](https://github.com/Orphis/boost-cmake) - Easy Boost integration in CMake projects
 - [alexreinking/sdcppmu-diffuse](https://github.com/alexreinking/sdcppmu-diffuse) - Demo application for the San Diego C++ Meetup
 - [modern-cmake/cppfront](https://github.com/modern-cmake/cppfront) - CMake wrapper around the cppfront repository
@@ -495,6 +542,7 @@
 
 ## HTML 
 
+- [ArthurSonzogni/ftxui-starter](https://github.com/ArthurSonzogni/ftxui-starter) - A starter project using the FTXUI library
 - [TobyLobster/Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
 - [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) - A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -934,6 +982,7 @@
 
 ## Others 
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [dakboard/Hardware-OS](https://github.com/dakboard/Hardware-OS) - DAKboard Wall Display, CPU, and Raspberry Pi
@@ -1440,6 +1489,7 @@
 
 ## Shell 
 
+- [holzschu/wasi-sdk](https://github.com/holzschu/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - 
@@ -1554,6 +1604,7 @@
 
 ## TypeScript 
 
+- [elazarcoh/cpp2-syntax](https://github.com/elazarcoh/cpp2-syntax) - cpp2 (cppfront) Syntax Highlighting for VSCode
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
