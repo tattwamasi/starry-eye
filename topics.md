@@ -83,6 +83,7 @@
 - [flutter-apps](#flutter-apps)
 - [font](#font)
 - [framework](#framework)
+- [frameworks](#frameworks)
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
@@ -228,6 +229,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -252,6 +254,8 @@
 
 ## ai 
 
+- [adeelahmad/mlx-grpo](https://github.com/adeelahmad/mlx-grpo) - 🧠 Train your own DeepSeek-R1 style reasoning model on Mac! First MLX implementation of GRPO - the breakthrough technique behind R1's o1-matching performance. Build mathematical reasoning AI without ex
+- [Sub-Soft/Siliv](https://github.com/Sub-Soft/Siliv) - MacOS menu‑bar utility to adjust Apple Silicon GPU VRAM allocation
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -409,6 +413,7 @@
 
 ## api 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
@@ -439,6 +444,7 @@
 
 ## artificial-intelligence 
 
+- [adeelahmad/mlx-grpo](https://github.com/adeelahmad/mlx-grpo) - 🧠 Train your own DeepSeek-R1 style reasoning model on Mac! First MLX implementation of GRPO - the breakthrough technique behind R1's o1-matching performance. Build mathematical reasoning AI without ex
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -540,6 +546,7 @@
 
 ## aws 
 
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [No-Backspace-Crew/Speedrun](https://github.com/No-Backspace-Crew/Speedrun) - Markdown to build tools
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices.
@@ -583,6 +590,7 @@
 
 ## backend 
 
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -662,6 +670,7 @@
 
 ## c 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [oleshkooo/npm-cpace](https://github.com/oleshkooo/npm-cpace) - cpace - nodemon for C/C++ files. Monitor for any changes in your [.c] and [.cpp] application and automatically restart it - perfect for development
 - [h2non/semver.c](https://github.com/h2non/semver.c) - Semantic version in ANSI C
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -836,6 +845,7 @@
 
 ## compiler 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
 - [dylibso/hermit](https://github.com/dylibso/hermit) - Actually Portable WebAssembly compiler toolchain for self-contained cross-platform binaries
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -867,6 +877,12 @@
 
 ## cpp 
 
+- [pmbittner/Polypropylene](https://github.com/pmbittner/Polypropylene) - EDSL for Polymorphism-Aware Entity Component Systems
+- [Stiffstream/sobjectizer](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. With performance, quality, and stability proved by years in the production.
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
+- [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+- [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 - [trailofbits/sqlite_wrapper](https://github.com/trailofbits/sqlite_wrapper) - An easy-to-use, extensible and lightweight C++17 wrapper for SQLite
 - [oleshkooo/npm-cpace](https://github.com/oleshkooo/npm-cpace) - cpace - nodemon for C/C++ files. Monitor for any changes in your [.c] and [.cpp] application and automatically restart it - perfect for development
 - [BrianAnakPintar/step-writer](https://github.com/BrianAnakPintar/step-writer) - A simple & Lightweight C++ TUI Text Editor
@@ -945,6 +961,7 @@
 
 ## csharp 
 
+- [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 - [dotnet/try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1293,6 +1310,9 @@
 
 ## framework 
 
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
+- [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
@@ -1312,8 +1332,13 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 
+## frameworks 
+
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
+
 ## frontend 
 
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1334,6 +1359,11 @@
 
 ## game-development 
 
+- [xissburg/edyn](https://github.com/xissburg/edyn) - Edyn is a real-time physics engine organized as an ECS.
+- [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
+- [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
 - [antkeeper/antkeeper-source](https://github.com/antkeeper/antkeeper-source) - 🐜 Ant colony simulation game source code
@@ -1346,6 +1376,9 @@
 
 ## game-engine 
 
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
+- [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [antkeeper/antkeeper-source](https://github.com/antkeeper/antkeeper-source) - 🐜 Ant colony simulation game source code
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
@@ -1353,6 +1386,10 @@
 
 ## gamedev 
 
+- [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
+- [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
 - [antkeeper/antkeeper-source](https://github.com/antkeeper/antkeeper-source) - 🐜 Ant colony simulation game source code
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
@@ -1559,6 +1596,7 @@
 
 ## hacktoberfest 
 
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.61265, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
@@ -1673,6 +1711,9 @@
 
 ## http 
 
+- [varnishcache/varnish-cache](https://github.com/varnishcache/varnish-cache) - Varnish Cache source code repository
+- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [acl-dev/acl](https://github.com/acl-dev/acl) - C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, etc..
 - [openfaas/faasd](https://github.com/openfaas/faasd) - Lightweight and portable version of OpenFaaS
@@ -1682,6 +1723,7 @@
 
 ## https 
 
+- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [acl-dev/acl](https://github.com/acl-dev/acl) - C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, etc..
 
 ## icon-font 
@@ -1698,6 +1740,7 @@
 
 ## ios 
 
+- [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
@@ -1759,6 +1802,8 @@
 
 ## javascript 
 
+- [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
@@ -1897,6 +1942,7 @@
 
 ## jupyter-notebook 
 
+- [PolusAI/sos-xeus-cling](https://github.com/PolusAI/sos-xeus-cling) - SoS extension for C++
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
@@ -1965,6 +2011,8 @@
 
 ## library 
 
+- [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [kongaskristjan/fire-hpp](https://github.com/kongaskristjan/fire-hpp) - A C++ library that uses clever tricks to create super low-code, yet fully functional CLIs
 - [Organic-Code/Breep](https://github.com/Organic-Code/Breep) - C++ peer to peer library, built on the top of boost
 - [PragmaTwice/protopuf](https://github.com/PragmaTwice/protopuf) - Protocol Puffers: A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20
@@ -1984,6 +2032,7 @@
 
 ## linux 
 
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.61265, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -2008,6 +2057,8 @@
 
 ## llm 
 
+- [adeelahmad/mlx-grpo](https://github.com/adeelahmad/mlx-grpo) - 🧠 Train your own DeepSeek-R1 style reasoning model on Mac! First MLX implementation of GRPO - the breakthrough technique behind R1's o1-matching performance. Build mathematical reasoning AI without ex
+- [Sub-Soft/Siliv](https://github.com/Sub-Soft/Siliv) - MacOS menu‑bar utility to adjust Apple Silicon GPU VRAM allocation
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -2186,6 +2237,11 @@
 
 ## macos 
 
+- [kazazes/YOLOverlay](https://github.com/kazazes/YOLOverlay) - Real-time object detection overlay for macOS using YOLO models with smooth tracking, performance monitoring, and configurable settings.
+- [n3d1117/ios2m1](https://github.com/n3d1117/ios2m1) - macOS command line tool to convert iOS apps into Apple M1 apps
+- [nick-botticelli/super-tart](https://github.com/nick-botticelli/super-tart) - tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), and panic halting. See help menus for `tart create` and `tart run` for more info. Requires SIP/AMFI to be disabled
+- [Sub-Soft/Siliv](https://github.com/Sub-Soft/Siliv) - MacOS menu‑bar utility to adjust Apple Silicon GPU VRAM allocation
+- [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number vali
 - [InditexTech/mcp-server-simulator-ios-idb](https://github.com/InditexTech/mcp-server-simulator-ios-idb) - A Model Context Protocol (MCP) server that enables LLMs to interact with iOS simulators through natural language commands.
 - [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
@@ -2229,6 +2285,8 @@
 
 ## markdown 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+- [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [joakimmj/md-tangle](https://github.com/joakimmj/md-tangle) - Generates ("tangles") source code from Markdown documents
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
@@ -2586,6 +2644,24 @@
 
 ## others 
 
+- [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [enarx/enarx](https://github.com/enarx/enarx) - Enarx: Confidential Computing with WebAssembly
+- [threeifbyair/advent2024](https://github.com/threeifbyair/advent2024) - Advent of Code 2024
+- [cisco/mlspp](https://github.com/cisco/mlspp) - Implementation of Messaging Layer Security
+- [isidorostsa/RayTrayCpp2](https://github.com/isidorostsa/RayTrayCpp2) - Cpp2 RayTracing Implementation
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [BlackyDrum/chromadb-cpp](https://github.com/BlackyDrum/chromadb-cpp) - Easily interact with ChromaDB Vector Database in C++
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+- [kfsone/imguiwrap](https://github.com/kfsone/imguiwrap) - CMakeLists wrapper around imgui
+- [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
+- [sourcey/libsourcey](https://github.com/sourcey/libsourcey) - C++14 evented IO libraries for high performance networking and media based applications
+- [pyember/ember](https://github.com/pyember/ember) - 
+- [oughtinc/mosaic](https://github.com/oughtinc/mosaic) - A web app for recursive question-answering with pointers
+- [oughtinc/patchwork](https://github.com/oughtinc/patchwork) - Command-line recursive question-answering with immutable contexts and explicit data store
+- [McGill-NLP/llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 - [cubist38/mlx-openai-server](https://github.com/cubist38/mlx-openai-server) - A high-performance API server that provides OpenAI-compatible endpoints for MLX models. Developed using Python and powered by the FastAPI framework, it provides an efficient, scalable, and user-friend
 - [alexhraber/tensors-to-consciousness](https://github.com/alexhraber/tensors-to-consciousness) - Mathematical foundations of AI/ML: From tensors to consciousness using Apple's MLX framework
@@ -3406,6 +3482,7 @@
 
 ## package-manager 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
 ## php 
@@ -3471,6 +3548,7 @@
 
 ## python 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [joakimmj/md-tangle](https://github.com/joakimmj/md-tangle) - Generates ("tangles") source code from Markdown documents
@@ -3480,7 +3558,6 @@
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [wakatime/wakaq](https://github.com/wakatime/wakaq) - Background task queue for Python backed by Redis, a super minimal Celery
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [duriantaco/ostrich](https://github.com/duriantaco/ostrich) - The most sophisticated algorithm to make all your problems go away
 - [duriantaco/pykomodo](https://github.com/duriantaco/pykomodo) - A Python-based parallel file chunking system designed for processing large codebases into LLM-friendly chunks.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -3579,7 +3656,6 @@
 
 ## python3 
 
-- [duriantaco/ostrich](https://github.com/duriantaco/ostrich) - The most sophisticated algorithm to make all your problems go away
 - [duriantaco/pykomodo](https://github.com/duriantaco/pykomodo) - A Python-based parallel file chunking system designed for processing large codebases into LLM-friendly chunks.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
@@ -3828,6 +3904,7 @@
 
 ## security 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [zyedidia/lfi](https://github.com/zyedidia/lfi) - LFI: Practical, Efficient, and Secure Software-based Sandboxing
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -3885,6 +3962,7 @@
 
 ## server 
 
+- [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
@@ -4026,6 +4104,7 @@
 
 ## swift 
 
+- [n3d1117/ios2m1](https://github.com/n3d1117/ios2m1) - macOS command line tool to convert iOS apps into Apple M1 apps
 - [SVProgressHUD/SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) - Async Algorithms for Swift
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
@@ -4174,6 +4253,7 @@
 
 ## text-to-speech 
 
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
@@ -4294,6 +4374,9 @@
 
 ## ui 
 
+- [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
+- [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [serverlessworkflow/synapse](https://github.com/serverlessworkflow/synapse) - Serverless Workflow Management System (WFMS)
 - [withstudiocms/ui](https://github.com/withstudiocms/ui) - The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
@@ -4312,6 +4395,10 @@
 ## ui-design 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+## unity 
+
+- [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 
 ## unreal-engine 
 
@@ -4362,6 +4449,7 @@
 
 ## web 
 
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -4400,6 +4488,7 @@
 
 ## windows 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
@@ -4417,6 +4506,7 @@
 
 ## xcode 
 
+- [n3d1117/ios2m1](https://github.com/n3d1117/ios2m1) - macOS command line tool to convert iOS apps into Apple M1 apps
 - [wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime) - Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage.
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [itaybre/CameraController](https://github.com/itaybre/CameraController) - 📷 Control USB Cameras from an app
