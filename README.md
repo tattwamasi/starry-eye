@@ -178,6 +178,8 @@
 
 ## C++ 
 
+- [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
+- [cisco/mlspp](https://github.com/cisco/mlspp) - Implementation of Messaging Layer Security
 - [BlackyDrum/chromadb-cpp](https://github.com/BlackyDrum/chromadb-cpp) - Easily interact with ChromaDB Vector Database in C++
 - [pmbittner/Polypropylene](https://github.com/pmbittner/Polypropylene) - EDSL for Polymorphism-Aware Entity Component Systems
 - [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
@@ -363,6 +365,7 @@
 
 ## CMake 
 
+- [threeifbyair/advent2024](https://github.com/threeifbyair/advent2024) - Advent of Code 2024
 - [isidorostsa/RayTrayCpp2](https://github.com/isidorostsa/RayTrayCpp2) - Cpp2 RayTracing Implementation
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
@@ -679,6 +682,7 @@
 
 ## JavaScript 
 
+- [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [openfaas/function-editor-demo](https://github.com/openfaas/function-editor-demo) - Demo of a Function Editor to take customer code and deploy it as a sanboxed function
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
@@ -914,6 +918,8 @@
 
 ## Jupyter Notebook 
 
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
+- [YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - [ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (RPG)
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) - Examples for using the Limitless Developer API
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
@@ -950,6 +956,7 @@
 
 ## Kotlin 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
 - [wewewe718/QrAndBarcodeScanner](https://github.com/wewewe718/QrAndBarcodeScanner) - An Android app for scanning QR codes and barcodes
 
 ## LLVM 
@@ -1153,6 +1160,12 @@
 
 ## Python 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [logtd/ComfyUI-Fluxtapoz](https://github.com/logtd/ComfyUI-Fluxtapoz) - Nodes for image juxtaposition for Flux in ComfyUI
+- [YangLing0818/IterComp](https://github.com/YangLing0818/IterComp) - [ICLR 2025] IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation
+- [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
+- [cubiq/PuLID_ComfyUI](https://github.com/cubiq/PuLID_ComfyUI) - PuLID native implementation for ComfyUI
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [adeelahmad/mlx-grpo](https://github.com/adeelahmad/mlx-grpo) - 🧠 Train your own DeepSeek-R1 style reasoning model on Mac! First MLX implementation of GRPO - the breakthrough technique behind R1's o1-matching performance. Build mathematical reasoning AI without ex
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [Sub-Soft/Siliv](https://github.com/Sub-Soft/Siliv) - MacOS menu‑bar utility to adjust Apple Silicon GPU VRAM allocation
@@ -1518,6 +1531,7 @@
 
 ## Rust 
 
+- [enarx/enarx](https://github.com/enarx/enarx) - Enarx: Confidential Computing with WebAssembly
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
@@ -1575,6 +1589,7 @@
 
 ## Shell 
 
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [hackmdio/docker-hackmd](https://github.com/hackmdio/docker-hackmd) - DEPRECATION: Please read our online documentation instead
 - [Autohook/Autohook](https://github.com/Autohook/Autohook) - A very, very small Git hook manager with focus on automation
 - [holzschu/wasi-sdk](https://github.com/holzschu/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
@@ -1628,6 +1643,7 @@
 
 ## Swift 
 
+- [swiftlang/swift-embedded-examples](https://github.com/swiftlang/swift-embedded-examples) - A collection of example projects using Embedded Swift
 - [kazazes/YOLOverlay](https://github.com/kazazes/YOLOverlay) - Real-time object detection overlay for macOS using YOLO models with smooth tracking, performance monitoring, and configurable settings.
 - [n3d1117/ios2m1](https://github.com/n3d1117/ios2m1) - macOS command line tool to convert iOS apps into Apple M1 apps
 - [nick-botticelli/super-tart](https://github.com/nick-botticelli/super-tart) - tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), and panic halting. See help menus for `tart create` and `tart run` for more info. Requires SIP/AMFI to be disabled
