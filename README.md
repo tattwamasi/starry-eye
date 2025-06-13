@@ -1171,6 +1171,7 @@
 
 ## Python 
 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [adeelahmad/MacPilot](https://github.com/adeelahmad/MacPilot) - 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. No code needed, just English instructions!
 - [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
@@ -1260,7 +1261,7 @@
 - [OpenBB-finance/experimental-openbb-platform-agent](https://github.com/OpenBB-finance/experimental-openbb-platform-agent) - R&D playground to play with agents and OpenBB
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [exo-explore/mlx-bitnet](https://github.com/exo-explore/mlx-bitnet) - 1.58 Bit LLM on Apple Silicon using MLX
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
@@ -1337,7 +1338,7 @@
 - [robocorp/actions-cookbook](https://github.com/robocorp/actions-cookbook) - Showcasing the best AI Actions for Robocorp Action Server. Contributions welcome!
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
-- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets! Makes: QA, RP, Classifiers.
+- [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [modal-labs/doppel-bot](https://github.com/modal-labs/doppel-bot) - Train a language model to answer Slack messages as you.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -1356,7 +1357,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -1556,6 +1557,7 @@
 
 ## Rust 
 
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [enarx/enarx](https://github.com/enarx/enarx) - Enarx: Confidential Computing with WebAssembly
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -1907,14 +1909,14 @@
 - [jaked/mermaid-block](https://github.com/jaked/mermaid-block) - 
 - [jaked/programmable-matter](https://github.com/jaked/programmable-matter) - A dynamic data-driven document development environment (DDDDDE)
 - [githubnext/blocks-examples](https://github.com/githubnext/blocks-examples) - A set of example custom Blocks.
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 - [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
-- [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
+- [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
