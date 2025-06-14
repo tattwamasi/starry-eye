@@ -97,7 +97,6 @@
 - [astrolicious/astro-theme-provider-template](https://github.com/astrolicious/astro-theme-provider-template) - A template repo for creating theme integrations for Astro with Astro Theme Provider
 - [FusionAuth/fusionauth-astro-components](https://github.com/FusionAuth/fusionauth-astro-components) - Astro component to pull in remote values or code at build time
 - [technomancy-dev/technonomicon](https://github.com/technomancy-dev/technonomicon) - The book of the devs.
-- [thinkininfinity/astro-theme-mia](https://github.com/thinkininfinity/astro-theme-mia) - A minimalist, powerful astro theme with integrated rough-notation for engaging, informative content.
 - [mattbrailsford/mattbrailsford.dev](https://github.com/mattbrailsford/mattbrailsford.dev) - A GitHub Discussions powered blog
 - [martrapp/astro-vtbot](https://github.com/martrapp/astro-vtbot) - The 👜 Bag of Tricks ✨ for Astro's View Transitions. ⭐️ Please star to support this work!
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
@@ -661,7 +660,7 @@
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [apache/eventmesh](https://github.com/apache/eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [JanssenProject/jans](https://github.com/JanssenProject/jans) - The Janssen Project maintains open source IAM components, featuring Agama for identity orchestration, and the Cedarling, a WASM or embedded policy evaluation engine.
+- [JanssenProject/jans](https://github.com/JanssenProject/jans) - The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server"
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
@@ -1404,7 +1403,7 @@
 - [Andyinater/AutoGen_EnhancedAgents](https://github.com/Andyinater/AutoGen_EnhancedAgents) - This repository holds enhanced Agents, built for the Microsoft AutoGen Framework. Debuting with a MemoryEnabledAgent with improvements in context/token control, portability, and PnP functionality.
 - [denonrailz/obsidian-autogen](https://github.com/denonrailz/obsidian-autogen) - Obsidian-based AutoGen framework
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) - 
@@ -1673,6 +1672,7 @@
 
 ## Swift 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) - A fresh take on a low-level build system API.
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
