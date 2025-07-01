@@ -187,6 +187,11 @@
 
 ## C++ 
 
+- [getml/sqlgen](https://github.com/getml/sqlgen) - sqlgen is an ORM and SQL query generator for C++-20, similar to Python's SQLAlchemy/SQLModel or Rust's Diesel.
+- [eclipse-cyclonedds/cyclonedds-cxx](https://github.com/eclipse-cyclonedds/cyclonedds-cxx) - 
+- [kiwix/libkiwix](https://github.com/kiwix/libkiwix) - Common code base for all Kiwix ports
+- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
+- [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 - [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps & analytics.
 - [duckdb/duckdb-vss](https://github.com/duckdb/duckdb-vss) - 
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
@@ -490,6 +495,7 @@
 
 ## Go 
 
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -1220,6 +1226,10 @@
 
 ## Python 
 
+- [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social networks
+- [jhpyle/docassemble](https://github.com/jhpyle/docassemble) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
+- [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API end
 - [Dan-in-CA/SIP](https://github.com/Dan-in-CA/SIP) - A highly customizable DIY irrigation/sprinkler controller based on Raspberry Pi
@@ -1816,16 +1826,18 @@
 
 ## TeX 
 
+- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [blockchainsllc/DAO](https://github.com/blockchainsllc/DAO) - The Standard DAO Framework, including Whitepaper
 
 ## TypeScript 
 
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [vanceism7/ls-cpp2](https://github.com/vanceism7/ls-cpp2) - A proof-of-concept LSP server for cpp2
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [vfeskov/war-of-bob](https://github.com/vfeskov/war-of-bob) - Evade bullets, pick up broccoli -&gt; bob.vfeskov.com
 - [oughtinc/mosaic](https://github.com/oughtinc/mosaic) - A web app for recursive question-answering with pointers
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
