@@ -188,6 +188,9 @@
 
 ## C++ 
 
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
+- [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+- [build-cpp/cmkr](https://github.com/build-cpp/cmkr) - Modern build system based on CMake and TOML.
 - [Bleuje/interactive-physarum](https://github.com/Bleuje/interactive-physarum) - Physarum/organic simulations inspired by "36 Points". Interaction with gamepad for artistic installation.  (using openFrameworks)
 - [angohr/angohr](https://github.com/angohr/angohr) - Experiments with C++20, modules, packaging
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
@@ -426,6 +429,8 @@
 
 ## CMake 
 
+- [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
 - [threeifbyair/advent2024](https://github.com/threeifbyair/advent2024) - Advent of Code 2024
 - [isidorostsa/RayTrayCpp2](https://github.com/isidorostsa/RayTrayCpp2) - Cpp2 RayTracing Implementation
@@ -1476,7 +1481,6 @@
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 - [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
@@ -1860,11 +1864,13 @@
 
 ## TeX 
 
+- [snowleopard/build](https://github.com/snowleopard/build) - Build Systems à la Carte
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [blockchainsllc/DAO](https://github.com/blockchainsllc/DAO) - The Standard DAO Framework, including Whitepaper
 
 ## TypeScript 
 
+- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
@@ -2099,6 +2105,7 @@
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [readmeio/api](https://github.com/readmeio/api) - 🚀 Automatic SDK generation from an OpenAPI definition
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
