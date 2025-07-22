@@ -188,6 +188,7 @@
 
 ## C++ 
 
+- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [build-cpp/cmkr](https://github.com/build-cpp/cmkr) - Modern build system based on CMake and TOML.
@@ -429,6 +430,9 @@
 
 ## CMake 
 
+- [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template) - CMake for C++ Best Practices
+- [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
+- [TheLartians/GroupSourcesByFolder.cmake](https://github.com/TheLartians/GroupSourcesByFolder.cmake) - Automatically group sources by folder structure for Visual Studio/Xcode generators
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
 - [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake Examples
@@ -605,7 +609,7 @@
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system with flexible APIs and UI web components. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -679,6 +683,7 @@
 
 ## HTML 
 
+- [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
 - [latent-to/developer-docs](https://github.com/latent-to/developer-docs) - Developer documentation for Bittensor.
 - [ArthurSonzogni/ftxui-starter](https://github.com/ArthurSonzogni/ftxui-starter) - A starter project using the FTXUI library
 - [TobyLobster/Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
@@ -1259,6 +1264,8 @@
 
 ## Python 
 
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [duckdb/extension-template](https://github.com/duckdb/extension-template) - Template for DuckDB extensions to help you develop, test and deploy a custom extension
 - [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [derekburgess/dungen](https://github.com/derekburgess/dungen) - 
@@ -1871,6 +1878,7 @@
 
 ## TypeScript 
 
+- [aminya/setup-cpp](https://github.com/aminya/setup-cpp) - Install all the tools required for building and testing C++ and C projects.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
