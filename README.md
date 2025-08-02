@@ -188,6 +188,15 @@
 
 ## C++ 
 
+- [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
+- [cesar-douady/open-lmake](https://github.com/cesar-douady/open-lmake) - Open-lmake is a generic, fearless build system. It is like make, except that it is user-friendly, versatile, scalable and reliable.
+- [vsg-dev/vsgPoints](https://github.com/vsg-dev/vsgPoints) - VulkanSceneGraph library and example suite for rendering point clouds
+- [ChristianPanov/lwlog](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library
+- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
+- [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
+- [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
 - [daniele77/cli](https://github.com/daniele77/cli) - A library for interactive command line interfaces in modern C++
 - [gammasoft71/tunit](https://github.com/gammasoft71/tunit) - Modern c++17 unit testing framework on Microsoft Windows, Apple macOS, Linux, iOS and android.
 - [martinmoene/lest](https://github.com/martinmoene/lest) - A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD (includes C++98 variant)
@@ -539,6 +548,7 @@
 
 ## Go 
 
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Dagu is a simple, flexible, and powerful workflow engine built for enterprise and small teams. Local-first and no database is required.  It aims to be an ideal choice for teams that find large-scale, 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -624,7 +634,7 @@
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Authentication and User Management system. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first Customer Identity and Access Management (CIAM) for modern apps. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -787,6 +797,7 @@
 
 ## JavaScript 
 
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
 - [raindropio/app](https://github.com/raindropio/app) - 
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -994,7 +1005,7 @@
 - [silklabs/silk](https://github.com/silklabs/silk) - Build IoT using JavaScript. Silk Open Source
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
-- [matthieua/WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
+- [mattdelacdev/WOW](https://github.com/mattdelacdev/WOW) - Reveal CSS animation as you scroll down a page
 - [garand/sticky](https://github.com/garand/sticky) - jQuery Plugin for Sticky Objects
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [aentan/Parallax-Scroll](https://github.com/aentan/Parallax-Scroll) - 
@@ -1029,6 +1040,8 @@
 
 ## Jupyter Notebook 
 
+- [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
+- [binder-examples/multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - [ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (RPG)
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -1088,7 +1101,7 @@
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [stereobooster/astro-digital-garden](https://github.com/stereobooster/astro-digital-garden) - Astro digital garden
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
@@ -1279,6 +1292,7 @@
 
 ## Python 
 
+- [kfrlib/cxxdox](https://github.com/kfrlib/cxxdox) - Generates mkdocs files from C++ source code with minimal configuration. Python + libclang, does not use doxygen. Works in docker
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
@@ -1343,7 +1357,7 @@
 - [SolaceLabs/solace-ai-connector](https://github.com/SolaceLabs/solace-ai-connector) - 
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Natural Language Web
+- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -1506,7 +1520,6 @@
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 - [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [abhishek-ch/streamlit-healthcare-ML-App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App) - Streamlit example showing Scikit Learn & Pyspark ML over Healthcare data ! Its simple !!
 - [abhishek-ch/VectorVerse](https://github.com/abhishek-ch/VectorVerse) - Explore Multiple Vector Databases and chat with documents on Multiple LLM models, private LLM models
@@ -1538,7 +1551,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) - 
-- [THUDM/CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
+- [zai-org/CogVLM](https://github.com/zai-org/CogVLM) - a state-of-the-art-level open visual language model | 多模态预训练模型
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Andyinater/AutoGen_IterativeCoding](https://github.com/Andyinater/AutoGen_IterativeCoding) - This repository demonstrates how a simple iterative coding loop, with history and resume capability, can be can be implemented in the AutoGen Framework.
@@ -1698,7 +1711,7 @@
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [enarx/enarx](https://github.com/enarx/enarx) - Enarx: Confidential Computing with WebAssembly
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
@@ -1763,7 +1776,7 @@
 - [hackmdio/docker-hackmd](https://github.com/hackmdio/docker-hackmd) - DEPRECATION: Please read our online documentation instead
 - [Autohook/Autohook](https://github.com/Autohook/Autohook) - A very, very small Git hook manager with focus on automation
 - [holzschu/wasi-sdk](https://github.com/holzschu/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
-- [zyedidia/lfi](https://github.com/zyedidia/lfi) - LFI: Practical, Efficient, and Secure Software-based Sandboxing
+- [lfi-project/lfi](https://github.com/lfi-project/lfi) - Top-level repository for LFI: Practical, Efficient, and Secure Software-based Sandboxing
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - 
@@ -1818,6 +1831,7 @@
 
 ## Swift 
 
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [Trans-N-ai/swama](https://github.com/Trans-N-ai/swama) - High-performance MLX-based LLM inference engine for macOS with native Swift implementation
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
@@ -1897,6 +1911,10 @@
 
 ## TypeScript 
 
+- [MonetizedMCP/typescript-sdk](https://github.com/MonetizedMCP/typescript-sdk) - 
+- [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
+- [ducklake-hq/ducklab](https://github.com/ducklake-hq/ducklab) - In-browser data analysis using SQL | Powered by duckdb-wasm
+- [sahilng/ducknb](https://github.com/sahilng/ducknb) - VSCode Extension for Apple Silicon Macs that enables DuckDB SQL Notebooks
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
 - [sashi0034/angel-lsp](https://github.com/sashi0034/angel-lsp) - AngelScript Language Server for VSCode and other clients
@@ -1972,7 +1990,7 @@
 - [Fryuni/inox-tools](https://github.com/Fryuni/inox-tools) - Oxygen-free tools for Astronauts.
 - [withstudiocms/ui](https://github.com/withstudiocms/ui) - The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.
 - [chenasraf/github-repos-astro-loader](https://github.com/chenasraf/github-repos-astro-loader) - An Astro loader to fetch GitHub repositories for use as content in Astro websites
-- [toolbeam/openauth](https://github.com/toolbeam/openauth) - ▦ Universal, standards-based auth provider.
+- [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x) - ArgentX browser extension for StarkNet - made with ❤️ by Argent
 - [argentlabs/argent-starknet-recover](https://github.com/argentlabs/argent-starknet-recover) - 
@@ -2106,7 +2124,7 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [iohub/collama](https://github.com/iohub/collama) - VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
-- [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
+- [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
 - [semperai/amica](https://github.com/semperai/amica) - Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 - [steven-tey/novella](https://github.com/steven-tey/novella) - Example application using the Novel Editor.
@@ -2135,6 +2153,7 @@
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) - 
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [readmeio/api](https://github.com/readmeio/api) - 🚀 Automatic SDK generation from an OpenAPI definition
 - [jacoblee93/fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
@@ -2166,7 +2185,7 @@
 - [Wattenberger/footsteps-vscode](https://github.com/Wattenberger/footsteps-vscode) - Keep your place when jumping between a different parts of your code. This is a vscode extension that will highlight lines as you edit them, fading as you move away.
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) - VSCode extension that allows you to use ChatGPT or GPT4 inside the IDE
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
