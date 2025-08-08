@@ -188,6 +188,12 @@
 
 ## C++ 
 
+- [EQMG/Acid](https://github.com/EQMG/Acid) - A high speed C++17 Vulkan game engine
+- [eranpeer/FakeIt](https://github.com/eranpeer/FakeIt) - C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
+- [Tencent/Tendis](https://github.com/Tencent/Tendis) - Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.
+- [apache/kvrocks](https://github.com/apache/kvrocks) - Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+- [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
 - [cesar-douady/open-lmake](https://github.com/cesar-douady/open-lmake) - Open-lmake is a generic, fearless build system. It is like make, except that it is user-friendly, versatile, scalable and reliable.
 - [vsg-dev/vsgPoints](https://github.com/vsg-dev/vsgPoints) - VulkanSceneGraph library and example suite for rendering point clouds
@@ -1033,7 +1039,6 @@
 ## Jinja 
 
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Jsonnet 
 
@@ -1041,6 +1046,7 @@
 
 ## Jupyter Notebook 
 
+- [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
 - [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
 - [binder-examples/multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
@@ -1070,6 +1076,7 @@
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
@@ -1103,7 +1110,6 @@
 - [stereobooster/astro-digital-garden](https://github.com/stereobooster/astro-digital-garden) - Astro digital garden
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
 
@@ -1174,6 +1180,7 @@
 
 ## Others 
 
+- [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1293,6 +1300,8 @@
 
 ## Python 
 
+- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
+- [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [jasonppy/VoiceStar](https://github.com/jasonppy/VoiceStar) - VoiceStar: Robust, Duration-controllable TTS that can Extrapolate
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
@@ -1453,7 +1462,7 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for AI/ML
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem. Designed to avoid vendor lock-in and reduce GPU costs.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [EvolvingLMMs-Lab/Otter](https://github.com/EvolvingLMMs-Lab/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
@@ -1504,7 +1513,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -1670,6 +1679,7 @@
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [pytorch/extension-cpp](https://github.com/pytorch/extension-cpp) - C++ extensions in PyTorch
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [ilrico/constellation-fs](https://github.com/ilrico/constellation-fs) - Constellation-FS, bringing Stellar and IPFS closer
 - [initialstate/pi-zero-w-motion-sensor](https://github.com/initialstate/pi-zero-w-motion-sensor) - 
 - [miracle2k/onkyo-eiscp](https://github.com/miracle2k/onkyo-eiscp) - Control Onkyo A/V receivers over the network; usuable as a script, or as a Python library.
@@ -1775,6 +1785,7 @@
 
 ## Shell 
 
+- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [kspviswa/PyOMlx](https://github.com/kspviswa/PyOMlx) - A wannabe Ollama equivalent for Apple MlX models
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [timsong-cpp/cppwp](https://github.com/timsong-cpp/cppwp) - HTML version of the current C++ working paper
@@ -1916,6 +1927,8 @@
 
 ## TypeScript 
 
+- [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) - MCP server for querying Apple Health data with natural language and SQL
+- [kevinliu399/litcode](https://github.com/kevinliu399/litcode) - 
 - [condots/dots](https://github.com/condots/dots) - Visual SBOM editor for SPDX
 - [MonetizedMCP/typescript-sdk](https://github.com/MonetizedMCP/typescript-sdk) - 
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
@@ -1947,7 +1960,7 @@
 - [vfeskov/war-of-bob](https://github.com/vfeskov/war-of-bob) - Evade bullets, pick up broccoli -&gt; bob.vfeskov.com
 - [oughtinc/mosaic](https://github.com/oughtinc/mosaic) - A web app for recursive question-answering with pointers
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-- [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps on sync
+- [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [r2d4/dacc](https://github.com/r2d4/dacc) - docker-as-code compiler
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -2131,7 +2144,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [iohub/collama](https://github.com/iohub/collama) - VSCode AI coding assistant powered by self-hosted llama.cpp endpoint.
 - [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
 - [semperai/amica](https://github.com/semperai/amica) - Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
 - [steven-tey/novella](https://github.com/steven-tey/novella) - Example application using the Novel Editor.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
