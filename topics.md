@@ -312,6 +312,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [lunamidori5/Midori-AI](https://github.com/lunamidori5/Midori-AI) - Midori AI's Mono Repo! Check out our site below!
@@ -527,7 +528,7 @@
 ## automation 
 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight and powerful workflow engine with a Web UI that makes workflow execution and management simple.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful Cron alternative with a Web UI. Define dependencies between commands as a in a declarative YAML format. Dagu simplifies the management and execution of complex workflows. It natively suppor
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [adeelahmad/MacPilot](https://github.com/adeelahmad/MacPilot) - 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. No code needed, just English instructions!
