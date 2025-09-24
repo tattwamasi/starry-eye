@@ -187,6 +187,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
@@ -263,6 +264,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -270,6 +272,9 @@
 
 ## ai 
 
+- [OoriData/Toolio](https://github.com/OoriData/Toolio) - GenAI & agent toolkit for Apple Silicon Mac, implementing JSON schema-steered structured output (3SO) and tool-calling in Python. For more on 3SO: https://huggingface.co/blog/ucheog/llm-power-steering
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
@@ -277,7 +282,7 @@
 - [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - MCP server for DuckDB and MotherDuck
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - A library for building stateful workloads anywhere
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
@@ -351,7 +356,7 @@
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [SageMindAI/autogen-agi](https://github.com/SageMindAI/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -407,7 +412,7 @@
 
 ## analytics 
 
-- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Minimal Data Platform for Embedded Analytics
+- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL, powered by DuckDB
 - [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -425,7 +430,7 @@
 
 ## android 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -534,7 +539,7 @@
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [adeelahmad/MacPilot](https://github.com/adeelahmad/MacPilot) - 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. No code needed, just English instructions!
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
@@ -970,6 +975,7 @@
 
 ## computer-vision 
 
+- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [wasmvision/wasmvision](https://github.com/wasmvision/wasmvision) - wasmVision gets you going with computer vision using WebAssembly.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -1135,7 +1141,7 @@
 
 ## data 
 
-- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Minimal Data Platform for Embedded Analytics
+- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL, powered by DuckDB
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
@@ -1324,7 +1330,7 @@
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight Workflow Engine Alternative to Airflow & Cron. It natively supports running containers and executing commands over SSH.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API end
 - [czhu12/canine](https://github.com/czhu12/canine) - Power of Kubernetes, Simplicity of Heroku
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -1533,7 +1539,7 @@
 
 - [gammasoft71/tunit](https://github.com/gammasoft71/tunit) - Modern c++17 unit testing framework on Microsoft Windows, Apple macOS, Linux, iOS and android.
 - [DISTORTEC/distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
@@ -1855,11 +1861,11 @@
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63163, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63305, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [Fryuni/inox-tools](https://github.com/Fryuni/inox-tools) - Oxygen-free tools for Astronauts.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
@@ -1876,7 +1882,6 @@
 - [uptane/uptane.github.io](https://github.com/uptane/uptane.github.io) - UPTANE web site
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
-- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
@@ -1907,7 +1912,6 @@
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2004,7 +2008,7 @@
 ## ios 
 
 - [gammasoft71/tunit](https://github.com/gammasoft71/tunit) - Modern c++17 unit testing framework on Microsoft Windows, Apple macOS, Linux, iOS and android.
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple) - Articles and tools related to research in the Apple environment (mainly macOS).
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
@@ -2062,7 +2066,7 @@
 
 ## java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
@@ -2329,7 +2333,7 @@
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63163, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63305, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -2354,12 +2358,15 @@
 
 ## llm 
 
+- [OoriData/Toolio](https://github.com/OoriData/Toolio) - GenAI & agent toolkit for Apple Silicon Mac, implementing JSON schema-steered structured output (3SO) and tool-calling in Python. For more on 3SO: https://huggingface.co/blog/ucheog/llm-power-steering
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [icppWorld/icpp_llm](https://github.com/icppWorld/icpp_llm) - on-chain LLMs
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
 - [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
 - [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [TwillAI/summon-app](https://github.com/TwillAI/summon-app) - Postman for MCP servers
 - [dvcrn/mcp-server-siri-shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts) - MCP for calling Siri Shorcuts from LLMs
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -2425,7 +2432,7 @@
 - [hkproj/mistral-llm-notes](https://github.com/hkproj/mistral-llm-notes) - Notes on the Mistral AI model
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 - [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py) - Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -2475,7 +2482,7 @@
 ## low-code 
 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2494,6 +2501,7 @@
 
 ## mac 
 
+- [OoriData/Toolio](https://github.com/OoriData/Toolio) - GenAI & agent toolkit for Apple Silicon Mac, implementing JSON schema-steered structured output (3SO) and tool-calling in Python. For more on 3SO: https://huggingface.co/blog/ucheog/llm-power-steering
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number vali
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -2505,6 +2513,7 @@
 
 ## machine-learning 
 
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
@@ -2658,7 +2667,7 @@
 
 ## mobile 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [Snapchat/djinni](https://github.com/Snapchat/djinni) - A tool for generating cross-language type declarations and interface bindings. Djinni's new home is in the Snapchat org.
@@ -2958,7 +2967,7 @@
 - [polterguy/magic](https://github.com/polterguy/magic) - An AI-based Low-Code and No-Code software development automation framework
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
 - [Poly186-AI-DAO/PolyGPT-alpha](https://github.com/Poly186-AI-DAO/PolyGPT-alpha) - 🌟PolyGPT: An Overview of Agent-Based System Architecture for Autonomous Business Operations
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
@@ -3010,6 +3019,12 @@
 
 ## others 
 
+- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+- [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) - Understanding Training Dynamics of Deep ReLU Networks
+- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
+- [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [proxy-wasm/proxy-wasm-cpp-sdk](https://github.com/proxy-wasm/proxy-wasm-cpp-sdk) - WebAssembly for Proxies (C++ SDK)
 - [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server) - Language server for content, using @unifiedjs
 - [alexanderop/awesome-local-first](https://github.com/alexanderop/awesome-local-first) - Useful Links for Everything related to LocalFirst
@@ -3257,7 +3272,6 @@
 - [co-browser/agent-browser](https://github.com/co-browser/agent-browser) - One connection for all your MCP servers.
 - [co-browser/attestable-mcp-server](https://github.com/co-browser/attestable-mcp-server) - Verify that any MCP server is running the intended and untampered code via hardware attestation.
 - [TobyLobster/Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
-- [ganelson/inform](https://github.com/ganelson/inform) - The core software distribution for the Inform 7 programming language.
 - [erkyrath/tworld](https://github.com/erkyrath/tworld) - A choice-based shared online text environment sandbox
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
@@ -3472,7 +3486,6 @@
 - [TheAppleFreak/winston-slack-webhook-transport](https://github.com/TheAppleFreak/winston-slack-webhook-transport) - A Slack transport for Winston 3 that logs to a channel via webhooks
 - [timdp/winston-aws-cloudwatch](https://github.com/timdp/winston-aws-cloudwatch) - A Winston transport for Amazon CloudWatch.
 - [GuntherRademacher/rr](https://github.com/GuntherRademacher/rr) - RR - Railroad Diagram Generator
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
 - [quarto-dev/quarto](https://github.com/quarto-dev/quarto) - Quarto open-source scientific and technical publishing system
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -3487,7 +3500,6 @@
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [skitsanos/mindtree](https://github.com/skitsanos/mindtree) - Declarative mind mapping
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
-- [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 - [ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
@@ -4064,6 +4076,12 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
+## programming-language 
+
+- [ganelson/inform](https://github.com/ganelson/inform) - The core software distribution for the Inform 7 programming language.
+- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+
 ## project-management 
 
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -4087,6 +4105,8 @@
 
 ## python 
 
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - LM Studio Apple MLX engine
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [scikit-build/scikit-build-core](https://github.com/scikit-build/scikit-build-core) - A next generation Python CMake adaptor and Python API for plugins
 - [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
@@ -4228,6 +4248,7 @@
 
 ## pytorch 
 
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 - [opentensor/bittensor](https://github.com/opentensor/bittensor) - Internet-scale Neural Networks
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
@@ -4397,7 +4418,7 @@
 
 ## reinforcement-learning 
 
-- [Gen-Verse/ReasonFlux](https://github.com/Gen-Verse/ReasonFlux) - ReasonFlux Series - ReasonFlux, ReasonFlux-PRM and ReasonFlux-Coder
+- [Gen-Verse/ReasonFlux](https://github.com/Gen-Verse/ReasonFlux) - [NeurIPS 2025 Spotlight] ReasonFlux Series - ReasonFlux, ReasonFlux-PRM and ReasonFlux-Coder
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 
@@ -4419,6 +4440,7 @@
 
 ## robotics 
 
+- [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
@@ -4884,10 +4906,11 @@
 
 ## text-to-speech 
 
+- [lucasnewman/f5-tts-mlx](https://github.com/lucasnewman/f5-tts-mlx) - Implementation of F5-TTS in MLX
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 
 ## trading 
@@ -5167,6 +5190,16 @@
 ## zig 
 
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
