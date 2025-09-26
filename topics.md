@@ -35,6 +35,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [clojure](#clojure)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
@@ -246,7 +247,6 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
-- [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -787,6 +787,7 @@
 - [xdrpp/xdrpp](https://github.com/xdrpp/xdrpp) - 
 - [fhajji/sodium-wrapper](https://github.com/fhajji/sodium-wrapper) - C++17 wrappers for libsodium
 - [lheric/GitlHEVCAnalyzer](https://github.com/lheric/GitlHEVCAnalyzer) - Gitl HEVC/H.265 Analyzer based on Qt. Custom filters supported.
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
 
 ## chatbot 
@@ -916,6 +917,24 @@
 ## clojure 
 
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+
+## cloud 
+
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem.
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 
 ## cms 
 
@@ -1264,7 +1283,6 @@
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
@@ -1604,7 +1622,6 @@
 - [openblack/openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
 - [antkeeper/antkeeper-source](https://github.com/antkeeper/antkeeper-source) - 🐜 Ant colony simulation game source code
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1763,7 +1780,6 @@
 
 ## godot 
 
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
@@ -3011,6 +3027,7 @@
 ## operating-system 
 
 - [DISTORTEC/distortos](https://github.com/DISTORTEC/distortos) - object-oriented C++ RTOS for microcontrollers
+- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 ## osint 
@@ -3019,6 +3036,7 @@
 
 ## others 
 
+- [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) - Understanding Training Dynamics of Deep ReLU Networks
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
@@ -3438,7 +3456,6 @@
 - [zitadel/actions](https://github.com/zitadel/actions) - ZITADEL Actions - Easy extensibility with custom code. Think GitHub Actions in an Identity System.
 - [openfaas/nats-connector](https://github.com/openfaas/nats-connector) - An OpenFaaS event-connector to trigger functions from NATS
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
-- [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - 
 - [zhouzhenghui/signal-bus](https://github.com/zhouzhenghui/signal-bus) - universal event-driven, concurrent infrastructure for ANSI-C/C++, also known as asychronous signal-slot and source level continuation mechanism for C language.
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
 - [cirruslabs/vetu](https://github.com/cirruslabs/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
@@ -5059,10 +5076,6 @@
 
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 - [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
-
-## unreal-engine 
-
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 
 ## vim 
 
