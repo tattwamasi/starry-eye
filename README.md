@@ -237,7 +237,7 @@
 - [angohr/angohr](https://github.com/angohr/angohr) - Experiments with C++20, modules, packaging
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
-- [dais-polymtl/flock](https://github.com/dais-polymtl/flock) - FlockMTL: DuckDB extension for multimodal querying using language models (LMs) and retrieval augmented generation (RAG)
+- [dais-polymtl/flock](https://github.com/dais-polymtl/flock) - Flock: multimodal querying for DuckDB
 - [cdacamar/ball_pit](https://github.com/cdacamar/ball_pit) - A simple physics-based ball pit!
 - [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension) - DuckDB extension that adds support for SQL/PGQ and graph algorithms
 - [Dtenwolde/duckpgq-extension](https://github.com/Dtenwolde/duckpgq-extension) - DuckDB extension that adds support for SQL/PGQ and graph algorithms
@@ -818,12 +818,13 @@
 
 ## JavaScript 
 
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server) - Language server for content, using @unifiedjs
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
-- [raindropio/app](https://github.com/raindropio/app) - 
+- [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [jhpyle/docassemble](https://github.com/jhpyle/docassemble) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
@@ -1199,6 +1200,7 @@
 
 ## Others 
 
+- [Wang-ML-Lab/llm-continual-learning-survey](https://github.com/Wang-ML-Lab/llm-continual-learning-survey) - [CSUR 2025] Continual Learning of Large Language Models: A Comprehensive Survey
 - [alexanderop/awesome-local-first](https://github.com/alexanderop/awesome-local-first) - Useful Links for Everything related to LocalFirst
 - [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
@@ -1346,7 +1348,7 @@
 - [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big & Small LLMs working together
 - [scikit-build/scikit-build-core](https://github.com/scikit-build/scikit-build-core) - A next generation Python CMake adaptor and Python API for plugins
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - MCP server for DuckDB and MotherDuck
-- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [erwincoumans/motion_imitation](https://github.com/erwincoumans/motion_imitation) - Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [jasonppy/VoiceStar](https://github.com/jasonppy/VoiceStar) - VoiceStar: Robust, Duration-controllable TTS that can Extrapolate
@@ -1977,7 +1979,6 @@
 
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [lorenseanstewart/progressive-complexity](https://github.com/lorenseanstewart/progressive-complexity) - Demo code for my blog post "A Progressive Complexity Manifesto"
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
