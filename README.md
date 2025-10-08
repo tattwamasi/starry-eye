@@ -190,6 +190,8 @@
 
 ## C++ 
 
+- [WHU-MYTH-Lab/humanus.cpp](https://github.com/WHU-MYTH-Lab/humanus.cpp) - Lightweight C++ LLM agent framework
+- [leon-bckl/lsp-framework](https://github.com/leon-bckl/lsp-framework) - Language Server Protocol implementation in C++
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [icppWorld/icpp_llm](https://github.com/icppWorld/icpp_llm) - on-chain LLMs
 - [proxy-wasm/proxy-wasm-cpp-sdk](https://github.com/proxy-wasm/proxy-wasm-cpp-sdk) - WebAssembly for Proxies (C++ SDK)
@@ -247,7 +249,7 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [Query-farm/shellfs](https://github.com/Query-farm/shellfs) - DuckDB extension allowing shell commands to be used for input and output.
 - [eclipse-paho/paho.mqtt.cpp](https://github.com/eclipse-paho/paho.mqtt.cpp) - 
-- [getml/sqlgen](https://github.com/getml/sqlgen) - sqlgen is an ORM and SQL query generator for C++-20, similar to Python's SQLAlchemy/SQLModel or Rust's Diesel.
+- [getml/sqlgen](https://github.com/getml/sqlgen) - sqlgen is a reflection-based ORM and SQL query generator for C++-20, similar to Python's SQLAlchemy/SQLModel or Rust's Diesel.
 - [eclipse-cyclonedds/cyclonedds-cxx](https://github.com/eclipse-cyclonedds/cyclonedds-cxx) - 
 - [kiwix/libkiwix](https://github.com/kiwix/libkiwix) - Common code base for all Kiwix ports
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
@@ -1094,7 +1096,6 @@
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
@@ -1328,6 +1329,8 @@
 
 ## Python 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+- [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [dyabel/AnyTool](https://github.com/dyabel/AnyTool) - 
 - [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - [ICLR 2025] LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
 - [OoriData/Toolio](https://github.com/OoriData/Toolio) - GenAI & agent toolkit for Apple Silicon Mac, implementing JSON schema-steered structured output (3SO) and tool-calling in Python. For more on 3SO: https://huggingface.co/blog/ucheog/llm-power-steering
@@ -1665,6 +1668,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -1763,6 +1767,7 @@
 
 ## Rust 
 
+- [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
@@ -1976,6 +1981,7 @@
 
 ## TypeScript 
 
+- [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/sse
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
