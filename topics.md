@@ -1013,6 +1013,7 @@
 
 ## cpp 
 
+- [Emreerdog/mbase](https://github.com/Emreerdog/mbase) - MBASE, an LLM SDK in C++
 - [leon-bckl/lsp-framework](https://github.com/leon-bckl/lsp-framework) - Language Server Protocol implementation in C++
 - [taocpp/json](https://github.com/taocpp/json) - C++ header-only JSON library
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
@@ -3046,6 +3047,10 @@
 
 ## others 
 
+- [jart/json.cpp](https://github.com/jart/json.cpp) - JSON for Classic C++
+- [vparla/mcp-cpp](https://github.com/vparla/mcp-cpp) - Model Context Protocol implementation in Pure C++20.  See https://modelcontextprotocol.io/docs/sdk for context
+- [peppemas/mcp_server](https://github.com/peppemas/mcp_server) - A C++ implementation of a Model Context Protocol Server with a pluggable module architecture.
+- [hkr04/cpp-mcp](https://github.com/hkr04/cpp-mcp) - Lightweight C++ MCP (Model Context Protocol) SDK
 - [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/sse
 - [WHU-MYTH-Lab/humanus.cpp](https://github.com/WHU-MYTH-Lab/humanus.cpp) - Lightweight C++ LLM agent framework
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
