@@ -190,6 +190,7 @@
 
 ## C++ 
 
+- [nsumner/cpp-tree-sitter](https://github.com/nsumner/cpp-tree-sitter) - Simple C++ and CMake wrapper around tree-sitter.
 - [jart/json.cpp](https://github.com/jart/json.cpp) - JSON for Classic C++
 - [vparla/mcp-cpp](https://github.com/vparla/mcp-cpp) - Model Context Protocol implementation in Pure C++20.  See https://modelcontextprotocol.io/docs/sdk for context
 - [Emreerdog/mbase](https://github.com/Emreerdog/mbase) - MBASE, an LLM SDK in C++
@@ -221,7 +222,6 @@
 - [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
 - [daniele77/cli](https://github.com/daniele77/cli) - A library for interactive command line interfaces in modern C++
 - [gammasoft71/tunit](https://github.com/gammasoft71/tunit) - Modern c++17 unit testing framework on Microsoft Windows, Apple macOS, Linux, iOS and android.
@@ -303,7 +303,7 @@
 - [NIKEA-SOFT/HelenaFramework](https://github.com/NIKEA-SOFT/HelenaFramework) - Modern and Universal Framework on C++20 for clean, flexible, scalable architecture with minimal overhead.
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63305, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.63796, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [sourcey/libsourcey](https://github.com/sourcey/libsourcey) - C++14 evented IO libraries for high performance networking and media based applications
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -576,6 +576,9 @@
 
 ## Go 
 
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight and powerful workflow engine for enterprise & small teams. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands ov
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -795,7 +798,7 @@
 - [apache/eventmesh](https://github.com/apache/eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [JanssenProject/jans](https://github.com/JanssenProject/jans) - The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server"
-- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The library for building AR and VR applications and experiences with React Native.
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -1071,8 +1074,10 @@
 ## Jupyter Notebook 
 
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) - Understanding Training Dynamics of Deep ReLU Networks
 - [searlion/mlx-finetuning](https://github.com/searlion/mlx-finetuning) - 
 - [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
+- [borglab/gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matr
 - [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
 - [binder-examples/multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
@@ -1334,6 +1339,11 @@
 
 ## Python 
 
+- [manzt/anywidget](https://github.com/manzt/anywidget) - reusable widgets made easy
+- [Super-I-Tech/mcp_plexus](https://github.com/Super-I-Tech/mcp_plexus) - Secure, Multi-Tenant MCP Server Framework for Modern AI
+- [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP) - An Open-Source Multimodal AIGC Solution based on ComfyUI + MCP + LLM  https://pixelle.ai
+- [GongRzhe/opencv-mcp-server](https://github.com/GongRzhe/opencv-mcp-server) - OpenCV MCP Server  provides OpenCV's image and video processing capabilities through the Model Context Protocol (MCP). Access powerful computer vision tools for tasks ranging from basic image manipula
+- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) - BioMCP: Biomedical Model Context Protocol
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [dyabel/AnyTool](https://github.com/dyabel/AnyTool) - 
@@ -1342,7 +1352,6 @@
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [lucasnewman/f5-tts-mlx](https://github.com/lucasnewman/f5-tts-mlx) - Implementation of F5-TTS in MLX
 - [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - LM Studio Apple MLX engine
-- [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) - Understanding Training Dynamics of Deep ReLU Networks
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -1558,7 +1567,7 @@
 - [SageMindAI/autogen-agi](https://github.com/SageMindAI/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [zulip/python-zulip-api](https://github.com/zulip/python-zulip-api) - Python library for the Zulip API.
 - [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [sidak/otfusion](https://github.com/sidak/otfusion) - Model Fusion via Optimal Transport, NeurIPS 2020
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 - [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py) - Python SDK for experimenting, testing, evaluating & monitoring LLM-powered applications - Parea AI (YC S23)
@@ -1772,6 +1781,8 @@
 
 ## Rust 
 
+- [dcSpark/mcp-dockmaster](https://github.com/dcSpark/mcp-dockmaster) - MCP Dockmaster allows you to easily install and manage MCP servers. Available for Mac, Windows and Linux as a Desktop App, CLI and a library.
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
@@ -1906,6 +1917,9 @@
 
 ## Swift 
 
+- [Mcrich23/Container-Compose](https://github.com/Mcrich23/Container-Compose) - A docker-compose clone for Apple Container
+- [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - The official Swift SDK for Model Context Protocol servers and clients.
+- [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [Trans-N-ai/swama](https://github.com/Trans-N-ai/swama) - High-performance MLX-based LLM inference engine for macOS with native Swift implementation
@@ -1986,7 +2000,10 @@
 
 ## TypeScript 
 
-- [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/sse
+- [huggingface/hf-mcp-server](https://github.com/huggingface/hf-mcp-server) - Hugging Face MCP Server
+- [syronlabs/stellar-mcp](https://github.com/syronlabs/stellar-mcp) - A Stellar MCP to interact with Horizon API and Soroban
+- [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) - MCP server that provides LLM with tools for interacting with Starknet
+- [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/mcp
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
