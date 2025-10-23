@@ -115,6 +115,7 @@
 
 ## C 
 
+- [gittup/tup](https://github.com/gittup/tup) - Tup is a file-based build system.
 - [tree-sitter-grammars/tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [emqx/neuron](https://github.com/emqx/neuron) - Open source industrial IoT connectivity server
@@ -191,6 +192,7 @@
 
 ## C++ 
 
+- [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
 - [ned14/llfio](https://github.com/ned14/llfio) - P1031 low level file i/o and filesystem library for the C++ standard
 - [gropaul/hostFS](https://github.com/gropaul/hostFS) - 
 - [coginiti-dev/QuackStore](https://github.com/coginiti-dev/QuackStore) - 
@@ -315,7 +317,7 @@
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.63834, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.63906, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [sourcey/libsourcey](https://github.com/sourcey/libsourcey) - C++14 evented IO libraries for high performance networking and media based applications
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -492,6 +494,7 @@
 
 ## CMake 
 
+- [toeb/cmakepp](https://github.com/toeb/cmakepp) - An Enhancement Suite for the CMake Build System
 - [TheLartians/Observe](https://github.com/TheLartians/Observe) - 📣 Hey listen! A simple general-purpose event-listener system for C++17.
 - [jupyter-xeus/xeus-cookiecutter](https://github.com/jupyter-xeus/xeus-cookiecutter) - Cookiecutter for xeus-based Jupyter kernels
 - [cpp-pm/hunter](https://github.com/cpp-pm/hunter) - CMake driven cross-platform package manager for C/C++.
@@ -1094,6 +1097,7 @@
 
 ## Jupyter Notebook 
 
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [SqueezeBits/GraLoRA](https://github.com/SqueezeBits/GraLoRA) - 
 - [mshukor/UnIVAL](https://github.com/mshukor/UnIVAL) - [TMLR23] Official implementation of UnIVAL: Unified Model for Image, Video, Audio and Language Tasks.
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning Tutorial Notebooks on Google Colab, Kaggle and more.
@@ -1235,9 +1239,11 @@
 
 ## Others 
 
+- [bageldotcom/paris](https://github.com/bageldotcom/paris) - paris - world's first decentralized trained open-weight diffusion model
 - [Wang-ML-Lab/llm-continual-learning-survey](https://github.com/Wang-ML-Lab/llm-continual-learning-survey) - [CSUR 2025] Continual Learning of Large Language Models: A Comprehensive Survey
 - [alexanderop/awesome-local-first](https://github.com/alexanderop/awesome-local-first) - Useful Links for Everything related to LocalFirst
 - [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
+- [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb) - 🦆 A curated list of awesome DuckDB resources
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1364,6 +1370,9 @@
 
 ## Python 
 
+- [Goekdeniz-Guelmez/mlx-kan](https://github.com/Goekdeniz-Guelmez/mlx-kan) - KAN (Kolmogorov–Arnold Networks) in the MLX framework for Apple Silicon
+- [Goekdeniz-Guelmez/mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) - Train Large Language Models on MLX.
+- [bageldotcom/zkLoRA](https://github.com/bageldotcom/zkLoRA) - Efficient Zero-Knowledge Proofs for LoRA Verification
 - [awni/picochat](https://github.com/awni/picochat) - Smaller and faster nanochat in MLX
 - [apple/ml-loop](https://github.com/apple/ml-loop) - 
 - [apple/ml-l3m](https://github.com/apple/ml-l3m) - Large multi-modal models (L3M) pre-training.
@@ -1565,7 +1574,7 @@
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
+- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Text Embeddings
 - [EvolvingLMMs-Lab/Otter](https://github.com/EvolvingLMMs-Lab/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [FusionAuth/fusionauth-python-client](https://github.com/FusionAuth/fusionauth-python-client) - FusionAuth Python Client
@@ -1582,7 +1591,7 @@
 - [BerriAI/clerkie-cli](https://github.com/BerriAI/clerkie-cli) - Clerkie-cli is a terminal tool that uses an LLM to help debug and troubleshoot coding errors in any programming language. It offers explanations, suggested fixes, guidance, alternative approaches, and
 - [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
-- [AbanteAI/rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
+- [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [run-llama/llamabot](https://github.com/run-llama/llamabot) - 
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
@@ -1798,6 +1807,7 @@
 
 ## Ruby 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - Power of Kubernetes, Simplicity of Heroku
@@ -1839,7 +1849,6 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
-- [rivet-dev/engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2079,7 +2088,6 @@
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [ibero-data/duck-ui](https://github.com/ibero-data/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
 - [TwillAI/summon-app](https://github.com/TwillAI/summon-app) - Postman for MCP servers
-- [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - A library for building stateful workloads anywhere
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [ProgramComputer/NASA-MCP-server](https://github.com/ProgramComputer/NASA-MCP-server) - A Model Context Protocol (MCP) server for NASA APIs, providing a standardized interface for AI models to interact with NASA's vast array of data sources.
@@ -2103,6 +2111,7 @@
 - [MachinaXi/bracket.engineer](https://github.com/MachinaXi/bracket.engineer) - Generate 3D printable power brick brackets.
 - [elazarcoh/cpp2-syntax](https://github.com/elazarcoh/cpp2-syntax) - cpp2 (cppfront) Syntax Highlighting for VSCode
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
