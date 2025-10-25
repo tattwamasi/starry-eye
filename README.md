@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [GopherSecurity/gopher-mcp](https://github.com/GopherSecurity/gopher-mcp) - MCP C++ SDK - Model Context Protocol implementation in CPP with enterprise-grade security, visibility and connectivity.
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
 - [ned14/llfio](https://github.com/ned14/llfio) - P1031 low level file i/o and filesystem library for the C++ standard
 - [gropaul/hostFS](https://github.com/gropaul/hostFS) - 
@@ -494,6 +495,7 @@
 
 ## CMake 
 
+- [eddelbuettel/duckdb-mlpack](https://github.com/eddelbuettel/duckdb-mlpack) - 
 - [toeb/cmakepp](https://github.com/toeb/cmakepp) - An Enhancement Suite for the CMake Build System
 - [TheLartians/Observe](https://github.com/TheLartians/Observe) - 📣 Hey listen! A simple general-purpose event-listener system for C++17.
 - [jupyter-xeus/xeus-cookiecutter](https://github.com/jupyter-xeus/xeus-cookiecutter) - Cookiecutter for xeus-based Jupyter kernels
@@ -1229,7 +1231,6 @@
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
 - [zadr/iTunesLibraryExample](https://github.com/zadr/iTunesLibraryExample) - A quick little app to show how to use iTunesLibrary.framework on Mac OS X to display a list of song titles/albums/artists.
-- [Xcode-Snippets/Objective-C](https://github.com/Xcode-Snippets/Objective-C) - A few code snippets from my Xcode arsenal
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 - [sbooth/Max](https://github.com/sbooth/Max) - An audio converter and CD ripper
 
@@ -1837,7 +1838,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another cmake lsp
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
