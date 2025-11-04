@@ -192,6 +192,9 @@
 
 ## C++ 
 
+- [networkoptix/nx_open](https://github.com/networkoptix/nx_open) - NetworkOptix open-source components used to build Powered-by-Nx products including Desktop Client for Network Optix Video Management Platform.
+- [ddovod/jet-live](https://github.com/ddovod/jet-live) - c++ hot code reload for linux and macos
+- [martinky/qt-interactive-coding](https://github.com/martinky/qt-interactive-coding) - C++ interactive / live coding with Qt
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [GopherSecurity/gopher-mcp](https://github.com/GopherSecurity/gopher-mcp) - MCP C++ SDK - Model Context Protocol implementation in CPP with enterprise-grade security, visibility and connectivity.
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
@@ -496,6 +499,7 @@
 
 ## CMake 
 
+- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [eddelbuettel/duckdb-mlpack](https://github.com/eddelbuettel/duckdb-mlpack) - Bringing mlpack to duckdb
 - [toeb/cmakepp](https://github.com/toeb/cmakepp) - An Enhancement Suite for the CMake Build System
 - [TheLartians/Observe](https://github.com/TheLartians/Observe) - 📣 Hey listen! A simple general-purpose event-listener system for C++17.
@@ -600,6 +604,8 @@
 
 ## Go 
 
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [mclenhard/catie-mcp](https://github.com/mclenhard/catie-mcp) - 
 - [nanobot-ai/nanobot](https://github.com/nanobot-ai/nanobot) - Build MCP Agents
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
@@ -853,6 +859,8 @@
 
 ## JavaScript 
 
+- [hyphacoop/one.compost.digital](https://github.com/hyphacoop/one.compost.digital) - 
+- [hyphacoop/two.compost.digital](https://github.com/hyphacoop/two.compost.digital) - 
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Personal AI Infrastructure for upgrading humans.
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server) - Language server for content, using @unifiedjs
@@ -1246,6 +1254,7 @@
 
 ## Others 
 
+- [knightnemo/Awesome-World-Models](https://github.com/knightnemo/Awesome-World-Models) - A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [bageldotcom/paris](https://github.com/bageldotcom/paris) - paris - world's first decentralized trained open-weight diffusion model
 - [Wang-ML-Lab/llm-continual-learning-survey](https://github.com/Wang-ML-Lab/llm-continual-learning-survey) - [CSUR 2025] Continual Learning of Large Language Models: A Comprehensive Survey
@@ -1334,6 +1343,7 @@
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [dojo/meta](https://github.com/dojo/meta) - :rocket: Dojo - meta information for the project.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [ys/shortcuts](https://github.com/ys/shortcuts) - 
 - [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is an open source quadruped robot that jumps, flips, and trots!
@@ -1378,6 +1388,7 @@
 
 ## Python 
 
+- [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database. 2.4M metrics/sec + 950K logs/sec + 940K traces/sec + 940K events/sec. One endpoint, one protocol. DuckDB + Parquet + Arrow. AGPL-3.0
 - [Doriandarko/MLX-GRPO](https://github.com/Doriandarko/MLX-GRPO) - A pure MLX-based training pipeline for fine-tuning LLMs using GRPO on Apple Silicon.
 - [TheProxyCompany/proxy-base-agent](https://github.com/TheProxyCompany/proxy-base-agent) - A stateful agent with 100% reliable tool use. Build custom agents on any LLM with guaranteed state consistency.
@@ -1739,7 +1750,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -2065,6 +2076,7 @@
 
 ## TypeScript 
 
+- [phare/sloggo](https://github.com/phare/sloggo) - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
 - [DitriXNew/askme-copilot](https://github.com/DitriXNew/askme-copilot) - 
 - [ericniebler/buildoutputcolorizer](https://github.com/ericniebler/buildoutputcolorizer) - Eric's Build Output Colorizer extension for VSCode
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui) - 
@@ -2118,7 +2130,7 @@
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [vfeskov/war-of-bob](https://github.com/vfeskov/war-of-bob) - Evade bullets, pick up broccoli -&gt; bob.vfeskov.com
 - [oughtinc/mosaic](https://github.com/oughtinc/mosaic) - A web app for recursive question-answering with pointers
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
+- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [akshaykmr/teletype](https://github.com/akshaykmr/teletype) - Stream and share terminals over the web. Show off mad cli-fu, help a colleague, teach, or troubleshoot. end-to-end encrypted 🛡
@@ -2321,7 +2333,7 @@
 - [spruceid/ssx](https://github.com/spruceid/ssx) - Self-Sovereign Anything
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [agi-merge/waggle-dance](https://github.com/agi-merge/waggle-dance) - Knowledge work automation with AI agents
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
@@ -2424,7 +2436,6 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [dojo/framework](https://github.com/dojo/framework) - Dojo Framework. A Progressive Framework for Modern Web Apps
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 - [chatch/stellar-hd-wallet](https://github.com/chatch/stellar-hd-wallet) - 🔐  Key derivation for Stellar (SEP-0005)  🚀
 - [future-tense/stellar-pathfinder-server](https://github.com/future-tense/stellar-pathfinder-server) - A standalone path finder for Stellar
