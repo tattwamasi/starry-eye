@@ -151,6 +151,7 @@
 - [dpapavas/luaprompt](https://github.com/dpapavas/luaprompt) - An embeddable Lua command prompt as well as a stand-alone interpreter with pretty-printing and autocompletion.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [BPI-SINOVOIP/THG6500-TAX2-OPENWRT-BSP](https://github.com/BPI-SINOVOIP/THG6500-TAX2-OPENWRT-BSP) - 
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [NouamaneTazi/bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - C++ implementation for BLOOM
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [saagarjha/TSOEnabler](https://github.com/saagarjha/TSOEnabler) - Kernel extension that enables TSO for Apple silicon processes
@@ -192,6 +193,7 @@
 
 ## C++ 
 
+- [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [networkoptix/nx_open](https://github.com/networkoptix/nx_open) - NetworkOptix open-source components used to build Powered-by-Nx products including Desktop Client for Network Optix Video Management Platform.
 - [ddovod/jet-live](https://github.com/ddovod/jet-live) - c++ hot code reload for linux and macos
 - [martinky/qt-interactive-coding](https://github.com/martinky/qt-interactive-coding) - C++ interactive / live coding with Qt
@@ -322,7 +324,7 @@
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.63906, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.64270, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [sourcey/libsourcey](https://github.com/sourcey/libsourcey) - C++14 evented IO libraries for high performance networking and media based applications
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -426,7 +428,6 @@
 - [lganzzzo/canchat](https://github.com/lganzzzo/canchat) - Feature-complete rooms-based chat for tens of thousands users. Client plus Server. Built with Oat++ Web Framework.
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [ptsochantaris/emeltal](https://github.com/ptsochantaris/emeltal) - Local ML voice chat using high-end models.
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [Snapchat/djinni](https://github.com/Snapchat/djinni) - A tool for generating cross-language type declarations and interface bindings. Djinni's new home is in the Snapchat org.
@@ -604,6 +605,7 @@
 
 ## Go 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [mclenhard/catie-mcp](https://github.com/mclenhard/catie-mcp) - 
@@ -612,7 +614,7 @@
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight and powerful workflow engine for enterprise & small teams. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands ov
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful, portable, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and ex
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -655,7 +657,7 @@
 - [cockroachdb/watermill-crdb](https://github.com/cockroachdb/watermill-crdb) - CockroachDB Pub/Sub for the Watermill project.
 - [ThreeDotsLabs/watermill-nats](https://github.com/ThreeDotsLabs/watermill-nats) - NATS Pub/Sub for the Watermill project.
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
-- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
+- [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [zitadel/terraform-provider-zitadel](https://github.com/zitadel/terraform-provider-zitadel) - Official Terraform provider for ZITADEL
@@ -674,7 +676,7 @@
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [openfaas/faasd](https://github.com/openfaas/faasd) - Lightweight and portable version of OpenFaaS
-- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment
+- [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Reproducible development environment for humans and agents
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) - TriggerMesh is the open-source AWS EventBridge alternative. It provides a unified eventing experience, a developer-friendly CLI, and runs on Docker or natively on Kubernetes.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -697,7 +699,7 @@
 - [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster) - Pinset orchestration for IPFS
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [advanced-security/gh-sbom](https://github.com/advanced-security/gh-sbom) - Generate SBOMs with gh CLI
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Tfsec is now part of Trivy
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -859,6 +861,7 @@
 
 ## JavaScript 
 
+- [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
 - [hyphacoop/one.compost.digital](https://github.com/hyphacoop/one.compost.digital) - 
 - [hyphacoop/two.compost.digital](https://github.com/hyphacoop/two.compost.digital) - 
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Personal AI Infrastructure for upgrading humans.
@@ -1360,7 +1363,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [sacarlson/OpenCart_stellar_plugin](https://github.com/sacarlson/OpenCart_stellar_plugin) - Stellar.org Net payment plugin addon for OpenCart online store management system
 - [tronprotocol/documentation](https://github.com/tronprotocol/documentation) - Documentations of project TRON
 - [zulucrypto/stellar-smart-contracts](https://github.com/zulucrypto/stellar-smart-contracts) - Example smart contracts for use with Stellar
@@ -1388,6 +1391,7 @@
 
 ## Python 
 
+- [isacucho/FnMacAssistant](https://github.com/isacucho/FnMacAssistant) - An assistant that helps you download the latest Fortnite IPA and applies the necessary patches for it to work properly.
 - [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database. 2.4M metrics/sec + 950K logs/sec + 940K traces/sec + 940K events/sec. One endpoint, one protocol. DuckDB + Parquet + Arrow. AGPL-3.0
 - [Doriandarko/MLX-GRPO](https://github.com/Doriandarko/MLX-GRPO) - A pure MLX-based training pipeline for fine-tuning LLMs using GRPO on Apple Silicon.
@@ -1850,6 +1854,9 @@
 
 ## Rust 
 
+- [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [penberg/agentfs](https://github.com/penberg/agentfs) - The filesystem for agents
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [martin-conur/quackformers](https://github.com/martin-conur/quackformers) - DuckDB NLP extension.
 - [empicano/mqtt5](https://github.com/empicano/mqtt5) - The MQTTv5 protocol for Python written in Rust
@@ -1870,6 +1877,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2080,7 +2088,7 @@
 - [DitriXNew/askme-copilot](https://github.com/DitriXNew/askme-copilot) - 
 - [ericniebler/buildoutputcolorizer](https://github.com/ericniebler/buildoutputcolorizer) - Eric's Build Output Colorizer extension for VSCode
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui) - 
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visually inspect MCP servers
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visual inspector for MCP server - Postman for MCP
 - [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server that provides LLMs with tools for interacting with EVM networks
 - [Shopify/remote-dom](https://github.com/Shopify/remote-dom) - 
@@ -2138,7 +2146,6 @@
 - [MachinaXi/bracket.engineer](https://github.com/MachinaXi/bracket.engineer) - Generate 3D printable power brick brackets.
 - [elazarcoh/cpp2-syntax](https://github.com/elazarcoh/cpp2-syntax) - cpp2 (cppfront) Syntax Highlighting for VSCode
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
