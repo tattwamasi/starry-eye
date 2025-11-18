@@ -275,7 +275,7 @@
 - [build-cpp/cmkr](https://github.com/build-cpp/cmkr) - Modern build system based on CMake and TOML.
 - [Bleuje/interactive-physarum](https://github.com/Bleuje/interactive-physarum) - Physarum/organic simulations inspired by "36 Points". Interaction with gamepad for artistic installation.  (using openFrameworks)
 - [angohr/angohr](https://github.com/angohr/angohr) - Experiments with C++20, modules, packaging
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for consumer devices.
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [dais-polymtl/flock](https://github.com/dais-polymtl/flock) - Flock: multimodal querying for DuckDB
 - [cdacamar/ball_pit](https://github.com/cdacamar/ball_pit) - A simple physics-based ball pit!
@@ -1875,6 +1875,7 @@
 
 ## Rust 
 
+- [portofcontext/pctx](https://github.com/portofcontext/pctx) - The pctx framework replaces LLM tool calling with a Code Mode that runs in secure sandboxes.
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
