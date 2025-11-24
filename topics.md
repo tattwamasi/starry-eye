@@ -2008,7 +2008,7 @@
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - [Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -5027,7 +5027,7 @@
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
 - [tmandry/AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - [Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [ptsochantaris/emeltal](https://github.com/ptsochantaris/emeltal) - Local ML voice chat using high-end models.
 - [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI) - User Interface made for Ollama.ai using Swift
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
@@ -5057,7 +5057,7 @@
 
 - [pballada/yutub](https://github.com/pballada/yutub) - A VisionOS Youtube client
 - [enoch1118/ollamaGUI](https://github.com/enoch1118/ollamaGUI) - Ollama app for macos
-- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - [Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [ptsochantaris/emeltal](https://github.com/ptsochantaris/emeltal) - Local ML voice chat using high-end models.
 - [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI) - User Interface made for Ollama.ai using Swift
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
