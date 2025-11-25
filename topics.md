@@ -762,7 +762,7 @@
 - [poliha/stellar-tokens](https://github.com/poliha/stellar-tokens) - 
 - [Reidmcc/rockfish](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX)
 - [stellar-deprecated/kelp](https://github.com/stellar-deprecated/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
-- [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
+- [stellar/go-stellar-sdk](https://github.com/stellar/go-stellar-sdk) - Stellar's Go SDK
 - [chatch/stellar-contracts](https://github.com/chatch/stellar-contracts) - Stellar contract examples and components
 - [0xfe/hacking-stellar](https://github.com/0xfe/hacking-stellar) - A hacker's guide to using the Stellar blockchain platform.
 - [starformlabs/stellar-nebulaforge-aws](https://github.com/starformlabs/stellar-nebulaforge-aws) - Launch your stellar.org infrastructure on the AWS cloud
@@ -1187,7 +1187,7 @@
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [Reidmcc/rockfish](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX)
 - [stellar-deprecated/kelp](https://github.com/stellar-deprecated/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
-- [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
+- [stellar/go-stellar-sdk](https://github.com/stellar/go-stellar-sdk) - Stellar's Go SDK
 - [0xfe/hacking-stellar](https://github.com/0xfe/hacking-stellar) - A hacker's guide to using the Stellar blockchain platform.
 - [Kirbyrawr/stellar-sample-unity](https://github.com/Kirbyrawr/stellar-sample-unity) - Stellar C# SDK Integration in Unity 3D
 - [Soneso/stellar-ios-mac-sdk](https://github.com/Soneso/stellar-ios-mac-sdk) - Stellar SDK for iOS & macOS - Swift, Stellar, Horizon, Soneso
@@ -3490,7 +3490,7 @@
 - [hexerei/entt-confetti](https://github.com/hexerei/entt-confetti) - C++ sample application as a starting point using the ECS implementation EnTT and SDL2
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [aantron/luv](https://github.com/aantron/luv) - Cross-platform asynchronous I/O and system calls
-- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
+- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [playbit/public](https://github.com/playbit/public) - Open-source software components of Playbit
