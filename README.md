@@ -625,7 +625,7 @@
 - [Control-D-Inc/ctrld](https://github.com/Control-D-Inc/ctrld) - A highly configurable, multi-protocol DNS forwarding proxy
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A dead simple, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A dead simple workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands ove
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -763,7 +763,7 @@
 - [Reidmcc/rockfish](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX)
 - [interstellar/starlight](https://github.com/interstellar/starlight) - Payment channels on Stellar
 - [stellar-deprecated/kelp](https://github.com/stellar-deprecated/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
-- [stellar/go](https://github.com/stellar/go) - Stellar's public monorepo of go code
+- [stellar/go-stellar-sdk](https://github.com/stellar/go-stellar-sdk) - Stellar's Go SDK
 - [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [ezdapps/backend](https://github.com/ezdapps/backend) - A blockchain platform with a simplified programming language. 85% of all tokens will be distributed for free among GitHub users.
@@ -882,7 +882,6 @@
 - [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server) - Language server for content, using @unifiedjs
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -971,7 +970,6 @@
 - [BruceMacD/chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 - [crutchcorn/nextjs-shoelace-example](https://github.com/crutchcorn/nextjs-shoelace-example) - A simple NextJS app using Shoelace web components
 - [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Authress-Engineering/openapi-explorer](https://github.com/Authress-Engineering/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
 - [DavidFrahm/wakatime-mobile](https://github.com/DavidFrahm/wakatime-mobile) - Mobile app for WakaTime
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -1529,7 +1527,7 @@
 - [SolaceLabs/solace-ai-connector](https://github.com/SolaceLabs/solace-ai-connector) - 
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
+- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
@@ -1662,7 +1660,7 @@
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [SageMindAI/autogen-agi](https://github.com/SageMindAI/autogen-agi) - AutoGen AGI: Advancing AI agents using AutoGen towards AGI capabilities. Explore cutting-edge enhancements in group chat dynamics, decision-making, and complex task proficiency. Join our journey in sh
 - [zulip/python-zulip-api](https://github.com/zulip/python-zulip-api) - Python library for the Zulip API.
-- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) - The first "code-first" agent framework for seamlessly planning and executing data analytics tasks.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [sidak/otfusion](https://github.com/sidak/otfusion) - Model Fusion via Optimal Transport, NeurIPS 2020
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
@@ -1769,7 +1767,7 @@
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -2021,6 +2019,7 @@
 - [CriticalMoments/CMSaasStarter](https://github.com/CriticalMoments/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [MLH-Fellowship/vscode-github-projects](https://github.com/MLH-Fellowship/vscode-github-projects) - VS Code extension that brings GitHub's projects into VS Code.
 
 ## Swift 
@@ -2055,7 +2054,7 @@
 - [tmandry/AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
-- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
+- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - [Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI) - User Interface made for Ollama.ai using Swift
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
@@ -2137,6 +2136,7 @@
 - [kevinliu399/litcode](https://github.com/kevinliu399/litcode) - 
 - [condots/dots](https://github.com/condots/dots) - Visual SBOM editor for SPDX
 - [MonetizedMCP/typescript-sdk](https://github.com/MonetizedMCP/typescript-sdk) - 
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [ducklake-hq/ducklab](https://github.com/ducklake-hq/ducklab) - In-browser data analysis using SQL | Powered by duckdb-wasm
 - [sahilng/ducknb](https://github.com/sahilng/ducknb) - VS Code Extension for Apple Silicon Macs that enables DuckDB SQL Notebooks
@@ -2390,7 +2390,7 @@
 - [awslabs/harmonix](https://github.com/awslabs/harmonix) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron.
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
