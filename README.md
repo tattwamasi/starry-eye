@@ -1406,7 +1406,7 @@
 
 - [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) - Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 - [benadida/helios-server](https://github.com/benadida/helios-server) - Helios server
-- [Gen-Verse/LatentMAS](https://github.com/Gen-Verse/LatentMAS) - Latent Collaboration in Multi-Agent Systems (LatentMAS)
+- [Gen-Verse/LatentMAS](https://github.com/Gen-Verse/LatentMAS) - Latent Collaboration in Multi-Agent Systems
 - [facebookresearch/neuralfeels](https://github.com/facebookresearch/neuralfeels) - Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation
 - [facebookresearch/doc-storygen-v2](https://github.com/facebookresearch/doc-storygen-v2) - Codebase for LLM story generation; updated version of https//github.com/yangkevin2/doc-story-generation
 - [facebookresearch/Mixture-of-Transformers](https://github.com/facebookresearch/Mixture-of-Transformers) - Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models. TMLR 2025.
@@ -1527,7 +1527,7 @@
 - [wlav/cppyy](https://github.com/wlav/cppyy) - 
 - [SolaceLabs/solace-ai-connector](https://github.com/SolaceLabs/solace-ai-connector) - 
 - [mesonbuild/meson](https://github.com/mesonbuild/meson) - The Meson Build System
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
