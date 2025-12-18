@@ -628,7 +628,7 @@
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL. Powered by DuckDB.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A self-contained, lightweight workflow engine for enterprise and small teams. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing comm
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight, local-first workflow engine for enterprise and small teams. 100% open source. No vendor lock-in. Offline or air-gapped environment ready.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -842,7 +842,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [serenadeai/serenade](https://github.com/serenadeai/serenade) - 
 - [thargor6/JWildfire](https://github.com/thargor6/JWildfire) - JWildfire - powerful, flexible and user-friendly fractal flame editor
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -1301,6 +1301,7 @@
 - [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [HungryHowies/How-To-Build-Zitadel-from-Source](https://github.com/HungryHowies/How-To-Build-Zitadel-from-Source) - How to get Zitadel’ s Source code and build it on Ubuntu 22.0.4 instance. These are basic steps to get it up and running.
 - [superfly/domain-reseller-guide](https://github.com/superfly/domain-reseller-guide) - 
@@ -1404,6 +1405,7 @@
 
 ## Python 
 
+- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [ardevd/ha-dimo](https://github.com/ardevd/ha-dimo) - DIMO integration for Home Assistant
 - [samwho/llmwalk](https://github.com/samwho/llmwalk) - Explore the answer-space of open LLMs
 - [uqer1244/MLX_z-image](https://github.com/uqer1244/MLX_z-image) - MLX version of z-image model
@@ -1582,7 +1584,6 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [exo-explore/mlx-bitnet](https://github.com/exo-explore/mlx-bitnet) - 1.58 Bit LLM on Apple Silicon using MLX
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [lunamidori5/Midori-AI](https://github.com/lunamidori5/Midori-AI) - Midori AI's Mono Repo! Check out our site below!
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
