@@ -1404,6 +1404,7 @@
 
 ## Python 
 
+- [Phantom-video/HuMo](https://github.com/Phantom-video/HuMo) - HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning
 - [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [ardevd/ha-dimo](https://github.com/ardevd/ha-dimo) - DIMO integration for Home Assistant
 - [samwho/llmwalk](https://github.com/samwho/llmwalk) - Explore the answer-space of open LLMs
@@ -2114,6 +2115,7 @@
 
 ## TypeScript 
 
+- [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [phare/sloggo](https://github.com/phare/sloggo) - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
 - [DitriXNew/askme-copilot](https://github.com/DitriXNew/askme-copilot) - 
@@ -2144,7 +2146,7 @@
 - [MonetizedMCP/typescript-sdk](https://github.com/MonetizedMCP/typescript-sdk) - 
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
-- [ducklake-hq/ducklab](https://github.com/ducklake-hq/ducklab) - In-browser data analysis using SQL | Powered by duckdb-wasm
+- [ehassaan/ducklab](https://github.com/ehassaan/ducklab) - In-browser data analysis using SQL | Powered by duckdb-wasm
 - [sahilng/ducknb](https://github.com/sahilng/ducknb) - VS Code Extension for Apple Silicon Macs that enables DuckDB SQL Notebooks
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
