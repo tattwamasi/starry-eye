@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [intellekthq/duckdb-pst](https://github.com/intellekthq/duckdb-pst) - In-place querying of Microsoft PST files, directly from storage, with SQL.
 - [EricLengyel/OpenDDL](https://github.com/EricLengyel/OpenDDL) - Open Data Description Language
 - [MattGuerrette/Metal](https://github.com/MattGuerrette/Metal) - Metal examples using C++
 - [ggerganov/imgui-ws](https://github.com/ggerganov/imgui-ws) - Dear ImGui over WebSockets
@@ -628,7 +629,7 @@
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL. Powered by DuckDB.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Alternative to Cron and Airflow without complexity. Offline or air-gapped environment ready.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A lightweight workflow engine with builtin Web UI. No code, self-contained, and portable.  execute them anywhere with a single binary, compose complex pipelines from reusable sub-workflows, and distri
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -1291,8 +1292,7 @@
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
-- [dakboard/Hardware-OS](https://github.com/dakboard/Hardware-OS) - DAKboard Wall Display, CPU, and Raspberry Pi
-- [dakboard/Cloud-Platform](https://github.com/dakboard/Cloud-Platform) - Feature requests, enhancements and anything you'd like to see in DAKboard!
+- [dakboard/DAKboard](https://github.com/dakboard/DAKboard) - Feature requests, enhancements and anything you'd like to see in DAKboard!
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 - [ibm-granite/granite-code-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
@@ -1909,7 +1909,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust.
 - [jo/hyperwood](https://github.com/jo/hyperwood) - Hyperwood is an open-source system for crafting furniture from simple wooden slats.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -2211,7 +2211,7 @@
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
-- [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard) - Modern dashboard for managing E2B sandboxes and API keys. Built with Next.js 15, React 19, and Supabase.
+- [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard) - Modern dashboard for managing E2B sandboxes and API keys. Built with Next.js 16, React 19, and Supabase.
 - [e2b-dev/ai-analyst](https://github.com/e2b-dev/ai-analyst) - Open source AI analyst powered by E2B. Analyze your CSV files with Llama 3.1 and create interactive charts.
 - [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -2341,7 +2341,7 @@
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
