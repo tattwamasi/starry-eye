@@ -2063,7 +2063,7 @@
 - [andersrex/notesollama](https://github.com/andersrex/notesollama) - Use Ollama to talk to local LLMs in Apple Notes
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - [Looking for active maintainers] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [kghandour/Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI) - User Interface made for Ollama.ai using Swift
-- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
+- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
