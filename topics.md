@@ -2092,6 +2092,7 @@
 
 ## hacktoberfest 
 
+- [kindspells/astro-shield](https://github.com/kindspells/astro-shield) - Astro integration to enhance your website's security with SubResource Integrity hashes, Content-Security-Policy headers, and other techniques.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -2334,6 +2335,7 @@
 
 ## javascript 
 
+- [kindspells/astro-shield](https://github.com/kindspells/astro-shield) - Astro integration to enhance your website's security with SubResource Integrity hashes, Content-Security-Policy headers, and other techniques.
 - [benadida/helios-server](https://github.com/benadida/helios-server) - Helios server
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2902,6 +2904,7 @@
 
 ## markdown 
 
+- [erlandv/writenex](https://github.com/erlandv/writenex) - A collection of tools for modern markdown editing and content management.
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [tree-sitter-grammars/tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -3037,6 +3040,7 @@
 
 ## nextjs 
 
+- [erlandv/writenex](https://github.com/erlandv/writenex) - A collection of tools for modern markdown editing and content management.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3330,6 +3334,10 @@
 
 ## others 
 
+- [muni-town/roomy](https://github.com/muni-town/roomy) - Gardenable group chat made with AT Protocol and Leaf.
+- [nulfrost/leaflet-loader-astro](https://github.com/nulfrost/leaflet-loader-astro) - An Astro loader for https://leaflet.pub
+- [ThinkOodle/storybook-astro](https://github.com/ThinkOodle/storybook-astro) - 
+- [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
 - [Deekshith-Dade/mlx_sam3](https://github.com/Deekshith-Dade/mlx_sam3) - 
 - [intellekthq/duckdb-pst](https://github.com/intellekthq/duckdb-pst) - In-place querying of Microsoft PST files, directly from storage, with SQL.
 - [Phantom-video/HuMo](https://github.com/Phantom-video/HuMo) - HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning
@@ -4749,6 +4757,7 @@
 
 ## react 
 
+- [erlandv/writenex](https://github.com/erlandv/writenex) - A collection of tools for modern markdown editing and content management.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
@@ -4959,6 +4968,7 @@
 
 ## security 
 
+- [kindspells/astro-shield](https://github.com/kindspells/astro-shield) - Astro integration to enhance your website's security with SubResource Integrity hashes, Content-Security-Policy headers, and other techniques.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
