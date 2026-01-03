@@ -3364,7 +3364,7 @@
 - [facebook/fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a new C++ server.
 - [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex) - Unified Executors
 - [bitsbakery/callme](https://github.com/bitsbakery/callme) - A header-only C++20 library of fast delegates and events
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [isacucho/FnMacAssistant](https://github.com/isacucho/FnMacAssistant) - An assistant that helps you download the latest Fortnite IPA and applies the necessary patches for it to work properly.
 - [hyphacoop/one.compost.digital](https://github.com/hyphacoop/one.compost.digital) - 
 - [hyphacoop/two.compost.digital](https://github.com/hyphacoop/two.compost.digital) - 
@@ -3729,7 +3729,7 @@
 - [TransitApp/SVProgressHUD](https://github.com/TransitApp/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [upspeak/upspeak](https://github.com/upspeak/upspeak) - Knowledge management system and information client. Organise notes, discussions, blogs, articles into queryable archives.
 - [chenasraf/github-repos-astro-loader](https://github.com/chenasraf/github-repos-astro-loader) - An Astro loader to fetch GitHub repositories for use as content in Astro websites
-- [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
+- [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [LayerAkira/kurosawa_akira](https://github.com/LayerAkira/kurosawa_akira) - Set of smart contracts on StarkNet for Akira Decentralised Exchange
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [argentlabs/argent-starknet-recover](https://github.com/argentlabs/argent-starknet-recover) - 
@@ -3844,7 +3844,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [superfly/domain-reseller-guide](https://github.com/superfly/domain-reseller-guide) - 
 - [openvla/openvla](https://github.com/openvla/openvla) - OpenVLA: An open-source vision-language-action model for robotic manipulation.
-- [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
+- [anomalyco/ion](https://github.com/anomalyco/ion) - Moved to https://github.com/sst/sst
 - [triggermesh/triggermesh](https://github.com/triggermesh/triggermesh) - TriggerMesh is the open-source AWS EventBridge alternative. It provides a unified eventing experience, a developer-friendly CLI, and runs on Docker or natively on Kubernetes.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
@@ -4043,7 +4043,7 @@
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [nat-henderson/terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
