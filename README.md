@@ -2127,7 +2127,7 @@
 - [kindspells/astro-shield](https://github.com/kindspells/astro-shield) - Astro integration to enhance your website's security with SubResource Integrity hashes, Content-Security-Policy headers, and other techniques.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [phare/sloggo](https://github.com/phare/sloggo) - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
 - [DitriXNew/askme-copilot](https://github.com/DitriXNew/askme-copilot) - 
 - [ericniebler/buildoutputcolorizer](https://github.com/ericniebler/buildoutputcolorizer) - Eric's Build Output Colorizer extension for VSCode
@@ -2231,7 +2231,7 @@
 - [Fryuni/inox-tools](https://github.com/Fryuni/inox-tools) - Oxygen-free tools for Astronauts.
 - [withstudiocms/ui](https://github.com/withstudiocms/ui) - The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.
 - [chenasraf/github-repos-astro-loader](https://github.com/chenasraf/github-repos-astro-loader) - An Astro loader to fetch GitHub repositories for use as content in Astro websites
-- [sst/openauth](https://github.com/sst/openauth) - ▦ Universal, standards-based auth provider.
+- [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [argentlabs/argent-x](https://github.com/argentlabs/argent-x) - ArgentX browser extension for StarkNet - made with ❤️ by Argent
 - [argentlabs/argent-starknet-recover](https://github.com/argentlabs/argent-starknet-recover) - 
@@ -2332,7 +2332,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
-- [sst/ion](https://github.com/sst/ion) - Moved to https://github.com/sst/sst
+- [anomalyco/ion](https://github.com/anomalyco/ion) - Moved to https://github.com/sst/sst
 - [bracesproul/gen-ui-python](https://github.com/bracesproul/gen-ui-python) - 🧬🐍 Generative UI web application built with LangChain Python, AI SDK & Next.js
 - [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 🧬 Generative UI web application built with LangChain.js, AI SDK & Next.js
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
@@ -2430,7 +2430,7 @@
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
