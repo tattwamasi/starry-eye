@@ -620,10 +620,10 @@
 ## Go 
 
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Industrial IoT and Analytics. 11.8M records/sec. Racing telemetry, smart cities, mining sensors, medical devices. DuckDB SQL + Parquet + Arrow. AGPL-3.0
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Industrial IoT and Analytics. 18.6M records/sec. Racing telemetry, smart cities, mining sensors, medical devices. DuckDB SQL + Parquet + Arrow. AGPL-3.0
 - [mclenhard/catie-mcp](https://github.com/mclenhard/catie-mcp) - 
 - [nanobot-ai/nanobot](https://github.com/nanobot-ai/nanobot) - Build MCP Agents
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
@@ -887,7 +887,6 @@
 - [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
 - [hyphacoop/one.compost.digital](https://github.com/hyphacoop/one.compost.digital) - 
 - [hyphacoop/two.compost.digital](https://github.com/hyphacoop/two.compost.digital) - 
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server) - Language server for content, using @unifiedjs
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
@@ -1406,6 +1405,7 @@
 
 ## Python 
 
+- [Acelogic/LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX) - Attempt at Porting LTX-2 Video Model to Apple's MLX Machine Learning Framework
 - [batson/mlux](https://github.com/batson/mlux) - 
 - [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Factory for AI. Build, manage, and deploy AI-optimized Context Graphs.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -2147,6 +2147,7 @@
 - [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/mcp
 - [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [lorenseanstewart/progressive-complexity](https://github.com/lorenseanstewart/progressive-complexity) - Demo code for my blog post "A Progressive Complexity Manifesto"
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
@@ -2449,7 +2450,7 @@
 - [oreal-solutions/motionlink-cli](https://github.com/oreal-solutions/motionlink-cli) - Publish content to your blog, portfolio, and doc websites from Notion.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
@@ -2469,7 +2470,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [solana-foundation/solana-pay](https://github.com/solana-foundation/solana-pay) - A new standard for decentralized payments.
 - [aws-samples/aws-lambda-layer-awscli](https://github.com/aws-samples/aws-lambda-layer-awscli) - AWS Lambda Layer for AWS CLI
