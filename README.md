@@ -432,7 +432,7 @@
 - [gelldur/EventBus](https://github.com/gelldur/EventBus) - A lightweight and very fast event bus / event framework for C++17
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [zhouzhenghui/signal-bus](https://github.com/zhouzhenghui/signal-bus) - universal event-driven, concurrent infrastructure for ANSI-C/C++, also known as asychronous signal-slot and source level continuation mechanism for C language.
-- [DeveloperPaul123/eventbus](https://github.com/DeveloperPaul123/eventbus) - A simple, header only event bus library written in modern C++17.
+- [ptsouchlos/eventbus](https://github.com/ptsouchlos/eventbus) - A simple, header only event bus library written in modern C++17.
 - [uptane/aktualizr](https://github.com/uptane/aktualizr) - C++ Uptane Client
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
