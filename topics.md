@@ -343,6 +343,7 @@
 - [OoriData/Toolio](https://github.com/OoriData/Toolio) - GenAI & agent toolkit for Apple Silicon Mac, implementing JSON schema-steered structured output (3SO) and tool-calling in Python. For more on 3SO: https://huggingface.co/blog/ucheog/llm-power-steering
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
@@ -521,7 +522,7 @@
 ## analytics 
 
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL. Powered by DuckDB.
+- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -859,6 +860,7 @@
 
 ## c 
 
+- [TheLartians/Ccache.cmake](https://github.com/TheLartians/Ccache.cmake) - 🚅 Compile faster with Ccache! A Ccache integration for CMake with Xcode support.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake Tools provides a robust, convenient workflow for CMake projects in VS Code. It simplifies configurations with CMake presets, supports IntelliSense and built-in debugging for CMake scripts, and o
@@ -1123,6 +1125,7 @@
 
 ## compiler 
 
+- [TheLartians/Ccache.cmake](https://github.com/TheLartians/Ccache.cmake) - 🚅 Compile faster with Ccache! A Ccache integration for CMake with Xcode support.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
@@ -1163,6 +1166,7 @@
 
 ## cpp 
 
+- [TheLartians/Ccache.cmake](https://github.com/TheLartians/Ccache.cmake) - 🚅 Compile faster with Ccache! A Ccache integration for CMake with Xcode support.
 - [saucer/saucer](https://github.com/saucer/saucer) - 🛸 A modern, cross-platform C++ webview library
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [victimsnino/ReactivePlusPlus](https://github.com/victimsnino/ReactivePlusPlus) - Implementation of async observable/observer (Reactive Programming) in C++ with care about performance and templates in mind in ReactiveX approach
@@ -1321,7 +1325,7 @@
 
 ## data 
 
-- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Build Data Dashboards all in SQL. Powered by DuckDB.
+- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
@@ -3175,6 +3179,7 @@
 
 ## no-code 
 
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -3516,7 +3521,6 @@
 - [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) - Understanding Training Dynamics of Deep ReLU Networks
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [proxy-wasm/proxy-wasm-cpp-sdk](https://github.com/proxy-wasm/proxy-wasm-cpp-sdk) - WebAssembly for Proxies (C++ SDK)
 - [unifiedjs/unified-language-server](https://github.com/unifiedjs/unified-language-server) - Language server for content, using @unifiedjs
@@ -3765,7 +3769,7 @@
 - [alexreinking/sdcppmu-diffuse](https://github.com/alexreinking/sdcppmu-diffuse) - Demo application for the San Diego C++ Meetup
 - [modern-cmake/cppfront](https://github.com/modern-cmake/cppfront) - CMake wrapper around the cppfront repository
 - [formoon/realworld-oatpp](https://github.com/formoon/realworld-oatpp) - 
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [cpp-pre/oatpppre-staticfileserver](https://github.com/cpp-pre/oatpppre-staticfileserver) - Static file server module for oatpp
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [ParaGroup/caf-pp](https://github.com/ParaGroup/caf-pp) - Parallel pattern library for the C++ Actor Framework (CAF)
@@ -4850,6 +4854,7 @@
 
 - [erlandv/writenex](https://github.com/erlandv/writenex) - A collection of tools for modern markdown editing and content management.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [vfeskov/gitpunch](https://github.com/vfeskov/gitpunch) - Watch for releases on GitHub → gitpunch.com
@@ -5781,6 +5786,7 @@
 
 ## xcode 
 
+- [TheLartians/Ccache.cmake](https://github.com/TheLartians/Ccache.cmake) - 🚅 Compile faster with Ccache! A Ccache integration for CMake with Xcode support.
 - [TheLartians/GroupSourcesByFolder.cmake](https://github.com/TheLartians/GroupSourcesByFolder.cmake) - Automatically group sources by folder structure for Visual Studio/Xcode generators
 - [n3d1117/ios2m1](https://github.com/n3d1117/ios2m1) - macOS command line tool to convert iOS apps into Apple M1 apps
 - [wakatime/macos-wakatime](https://github.com/wakatime/macos-wakatime) - Mac system tray app for automatic time tracking and metrics generated from your Xcode, Figma, Postman, etc. usage.
