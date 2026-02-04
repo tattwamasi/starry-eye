@@ -474,6 +474,7 @@
 - [open-dynamic-robot-initiative/blmc_drivers](https://github.com/open-dynamic-robot-initiative/blmc_drivers) - 
 - [open-dynamic-robot-initiative/bolt](https://github.com/open-dynamic-robot-initiative/bolt) - Drivers of the bolt robot
 - [open-dynamic-robot-initiative/solo](https://github.com/open-dynamic-robot-initiative/solo) - Low level interface to control the Solo robots.
+- [open-dynamic-robot-initiative/robot_fingers](https://github.com/open-dynamic-robot-initiative/robot_fingers) - Drivers, examples and basic scripts for the (Tri-)Finger robots.
 - [open-dynamic-robot-initiative/master-board](https://github.com/open-dynamic-robot-initiative/master-board) - Hardware and Firmware of the Solo Quadruped Master Board
 - [open-dynamic-robot-initiative/robot_interfaces](https://github.com/open-dynamic-robot-initiative/robot_interfaces) - 
 - [xtaci/algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
@@ -1405,6 +1406,7 @@
 
 ## Python 
 
+- [Hmbown/MLXSmith](https://github.com/Hmbown/MLXSmith) - Apple Silicon MLX fine-tuning toolkit — SFT, DPO/ORPO, GRPO, distillation, and OpenAI-compatible serving.
 - [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX.
 - [Acelogic/LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX) - Attempt at Porting LTX-2 Video Model to Apple's MLX Machine Learning Framework
 - [batson/mlux](https://github.com/batson/mlux) - 
@@ -1441,7 +1443,7 @@
 - [empicano/aiomqtt](https://github.com/empicano/aiomqtt) - The idiomatic asyncio MQTT client
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) - 
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
-- [Gen-Verse/Open-AgentRL](https://github.com/Gen-Verse/Open-AgentRL) - Open-source Agentic RL for LLMs — DemyAgent, RLAnything & training recipes included
+- [Gen-Verse/Open-AgentRL](https://github.com/Gen-Verse/Open-AgentRL) - Open-source Agentic RL for LLMs — RLAnything & DemyAgent
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -1495,7 +1497,7 @@
 - [Dan-in-CA/SIP](https://github.com/Dan-in-CA/SIP) - A highly customizable DIY irrigation/sprinkler controller based on Raspberry Pi
 - [sabuhish/fastapi-mqtt](https://github.com/sabuhish/fastapi-mqtt) - fastapi-mqtt is extension for MQTT protocol
 - [ArchiveBox/archivebox-proxy](https://github.com/ArchiveBox/archivebox-proxy) - Official ArchiveBox MITM proxy: saves URLs of all requests passing through to an ArchiveBox server for archival.
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 - [JosefAlbers/WTM](https://github.com/JosefAlbers/WTM) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
 - [Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple) - Articles and tools related to research in the Apple environment (mainly macOS).
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1835,7 +1837,6 @@
 - [nomorecoin/python-bip38-testing](https://github.com/nomorecoin/python-bip38-testing) - Python BIP0038
 - [JazzCore/python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
 - [1200wd/bulkpaperwallets](https://github.com/1200wd/bulkpaperwallets) - Create Bulk Paper Wallets
-- [open-dynamic-robot-initiative/robot_fingers](https://github.com/open-dynamic-robot-initiative/robot_fingers) - Drivers, examples and basic scripts for the (Tri-)Finger robots.
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [wasienv/wasienv](https://github.com/wasienv/wasienv) - Wasienv: WASI Development Toolchain for C/C++
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
