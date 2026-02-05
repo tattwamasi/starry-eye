@@ -304,7 +304,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 - [kontext-dev/agent-browser](https://github.com/kontext-dev/agent-browser) - One connection for all your MCP servers.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps and MCP Apps
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [e2b-dev/e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
@@ -953,7 +953,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps and MCP Apps
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -2121,7 +2121,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65655, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65727, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -2615,7 +2615,7 @@
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65655, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65727, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -3007,7 +3007,7 @@
 - [morinokami/astro-mcp](https://github.com/morinokami/astro-mcp) - MCP server to support Astro project development
 - [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) - A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps and MCP Apps
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
@@ -3311,7 +3311,7 @@
 - [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) - A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first AI coworker, with memory
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps and MCP Apps
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [memgraph/mage](https://github.com/memgraph/mage) - MAGE - Memgraph Advanced Graph Extensions :crystal_ball:
@@ -5619,7 +5619,7 @@
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [serverlessworkflow/synapse](https://github.com/serverlessworkflow/synapse) - Serverless Workflow Management System (WFMS)
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps and MCP Apps
 - [withstudiocms/ui](https://github.com/withstudiocms/ui) - The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
