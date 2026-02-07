@@ -290,7 +290,7 @@
 
 ## agent 
 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [TheProxyCompany/proxy-base-agent](https://github.com/TheProxyCompany/proxy-base-agent) - A stateful agent with 100% reliable tool use. Build custom agents on any LLM with guaranteed state consistency.
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server that provides LLMs with tools for interacting with EVM networks
@@ -328,7 +328,7 @@
 ## ai 
 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠
 - [visibl-ai/visibl-audiobooks](https://github.com/visibl-ai/visibl-audiobooks) - One Shot Book to Movie
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -920,7 +920,7 @@
 
 ## chatbot 
 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [kspviswa/PyOMlx](https://github.com/kspviswa/PyOMlx) - A wannabe Ollama equivalent for Apple MlX models
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
@@ -1349,7 +1349,7 @@
 
 ## data-science 
 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -1487,7 +1487,7 @@
 
 ## developer-tools 
 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -2966,7 +2966,7 @@
 
 ## mcp 
 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls.
 - [GopherSecurity/gopher-mcp](https://github.com/GopherSecurity/gopher-mcp) - MCP C++ SDK - Model Context Protocol implementation in CPP with enterprise-grade security, visibility and connectivity.
 - [TheProxyCompany/proxy-base-agent](https://github.com/TheProxyCompany/proxy-base-agent) - A stateful agent with 100% reliable tool use. Build custom agents on any LLM with guaranteed state consistency.
@@ -3302,7 +3302,7 @@
 
 ## open-source 
 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It exposes custom tools and MCP servers as code that runs in secure sandboxes for token-efficient calls.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
@@ -3418,6 +3418,7 @@
 
 ## others 
 
+- [apple/ml-rldf](https://github.com/apple/ml-rldf) - 
 - [Hmbown/MLXSmith](https://github.com/Hmbown/MLXSmith) - Apple Silicon MLX fine-tuning toolkit — SFT, DPO/ORPO, GRPO, distillation, and OpenAI-compatible serving.
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 - [MACE-App/MACE](https://github.com/MACE-App/MACE) - M.A.C.E. (Mac Advanced Compliance Editor) is a modern macOS app to simplify compliance baseline creation, auditing, and management using NIST's mSCP 2.0
