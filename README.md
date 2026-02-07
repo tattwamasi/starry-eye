@@ -569,7 +569,6 @@
 ## Cairo 
 
 - [LayerAkira/kurosawa_akira](https://github.com/LayerAkira/kurosawa_akira) - Set of smart contracts on StarkNet for Akira Decentralised Exchange
-- [cairo-book/cairo-book](https://github.com/cairo-book/cairo-book) - The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.
 
 ## Clojure 
 
@@ -818,6 +817,7 @@
 - [marko-knoebl/ng-jsonresume](https://github.com/marko-knoebl/ng-jsonresume) - Angular directive for displaying resumes from JSON data
 - [lowerbarriers/resume](https://github.com/lowerbarriers/resume) - Easy-to-use résumé template with lots of features
 - [schnerring/hugo-mod-json-resume](https://github.com/schnerring/hugo-mod-json-resume) - A Hugo module containing templates to integrate multilingual JSON Resume data into your Hugo website.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [tattwamasi/bitcoinbook](https://github.com/tattwamasi/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [Kimbatt/btc-address-generator](https://github.com/Kimbatt/btc-address-generator) - Bitcoin address generator (bech32, segwit, paper wallets, BIP39 seed, etc.)
@@ -958,6 +958,7 @@
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
+- [cairo-book/cairo-book](https://github.com/cairo-book/cairo-book) - The Cairo Programming Language Book, a comprehensive documentation of the Cairo 1 programming language.
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [zitadel/actions](https://github.com/zitadel/actions) - ZITADEL Actions - Easy extensibility with custom code. Think GitHub Actions in an Identity System.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -1206,7 +1207,6 @@
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -1406,11 +1406,12 @@
 
 ## Python 
 
+- [apple/ml-rldf](https://github.com/apple/ml-rldf) - 
 - [Hmbown/MLXSmith](https://github.com/Hmbown/MLXSmith) - Apple Silicon MLX fine-tuning toolkit — SFT, DPO/ORPO, GRPO, distillation, and OpenAI-compatible serving.
 - [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX.
 - [Acelogic/LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX) - Attempt at Porting LTX-2 Video Model to Apple's MLX Machine Learning Framework
 - [batson/mlux](https://github.com/batson/mlux) - 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Engine for AI. Build, manage, and deploy AI-optimized Context Graphs.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Programmable Context for the AI Stack. Build. Version. Deploy. The full lifecycle platform for Context Graphs.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Deekshith-Dade/mlx_sam3](https://github.com/Deekshith-Dade/mlx_sam3) - MLX SAM3 - MLX Port of SAM3 for interactive image segmentation with Text and Geometric Prompts
 - [Phantom-video/HuMo](https://github.com/Phantom-video/HuMo) - HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning
