@@ -3415,6 +3415,8 @@
 
 ## others 
 
+- [the-miint/duckdb-miint](https://github.com/the-miint/duckdb-miint) - 
+- [zvasilev/MarkdownFTXUI](https://github.com/zvasilev/MarkdownFTXUI) - 
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
 - [apple/ml-rldf](https://github.com/apple/ml-rldf) - 
