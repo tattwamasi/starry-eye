@@ -120,6 +120,7 @@
 
 ## C 
 
+- [the-miint/duckdb-miint](https://github.com/the-miint/duckdb-miint) - 
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
 - [gittup/tup](https://github.com/gittup/tup) - Tup is a file-based build system.
 - [teaguesterling/sitting_duck](https://github.com/teaguesterling/sitting_duck) - 
@@ -199,6 +200,7 @@
 
 ## C++ 
 
+- [zvasilev/MarkdownFTXUI](https://github.com/zvasilev/MarkdownFTXUI) - 
 - [intellekthq/duckdb-pst](https://github.com/intellekthq/duckdb-pst) - In-place querying of Microsoft PST files, directly from storage, with SQL.
 - [EricLengyel/OpenDDL](https://github.com/EricLengyel/OpenDDL) - Open Data Description Language
 - [MattGuerrette/Metal](https://github.com/MattGuerrette/Metal) - Metal examples using C++
@@ -1106,7 +1108,6 @@
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [mattdelacdev/WOW](https://github.com/mattdelacdev/WOW) - Reveal CSS animation as you scroll down a page
 - [garand/sticky](https://github.com/garand/sticky) - jQuery Plugin for Sticky Objects
-- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [aentan/Parallax-Scroll](https://github.com/aentan/Parallax-Scroll) - 
 - [quartzmo/discussion](https://github.com/quartzmo/discussion) - Dynamic comments for static blogs. Use it "server-less" with Firebase, or provide your own RESTful API.
 - [michaelusner/Home-Device-Controller](https://github.com/michaelusner/Home-Device-Controller) - node.js interface to home devices (Pentair pool controller and Yamaha amp)
@@ -2514,6 +2515,7 @@
 - [keybase/keybase-bot](https://github.com/keybase/keybase-bot) - exploration with the keybase chat API
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
 - [fracek/serverless-stellar-federation](https://github.com/fracek/serverless-stellar-federation) - Stellar Federation Server as a Google Cloud Platform Function. 🚀
+- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
