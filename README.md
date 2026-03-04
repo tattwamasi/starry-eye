@@ -631,7 +631,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance time-series database for Aerospace, Defense, and Industrial IoT. 18.6M records/sec. Satellite tracking, launch telemetry, ground stations, manufacturing, energy. DuckDB SQL + Parquet 
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. DuckDB SQL engine + Parquet storage + Arrow format. 18M+ records/sec ingestion. 6M+ rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go b
 - [mclenhard/catie-mcp](https://github.com/mclenhard/catie-mcp) - 
 - [nanobot-ai/nanobot](https://github.com/nanobot-ai/nanobot) - Build MCP Agents
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
@@ -1667,7 +1667,7 @@
 - [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
 - [derwiki/llm-prompt-injection-filtering](https://github.com/derwiki/llm-prompt-injection-filtering) - Uses the ChatGPT model to determine if a user-supplied question is safe and filter out dangerous questions
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
+- [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
 - [oughtinc/ice](https://github.com/oughtinc/ice) - Interactive Composition Explorer: a debugger for compositional language model programs
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [robocorp/actions-cookbook](https://github.com/robocorp/actions-cookbook) - Showcasing the best AI Actions for Robocorp Action Server. Contributions welcome!
@@ -2137,6 +2137,7 @@
 
 ## TypeScript 
 
+- [B44ken/microgpt](https://github.com/B44ken/microgpt) - 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [tobilg/duckdb-terminal](https://github.com/tobilg/duckdb-terminal) - A browser-based SQL Terminal for DuckDB powered by Ghostty terminal emulator.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
