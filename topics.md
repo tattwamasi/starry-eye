@@ -3437,6 +3437,7 @@
 
 ## others 
 
+- [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
 - [B44ken/microgpt](https://github.com/B44ken/microgpt) - 
 - [cpcloud/micasa](https://github.com/cpcloud/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 - [the-miint/duckdb-miint](https://github.com/the-miint/duckdb-miint) - 
@@ -3671,7 +3672,7 @@
 - [apple/ml-acn-embed](https://github.com/apple/ml-acn-embed) - Acoustic Neighbor Embeddings
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [apple/ml-slowfast-llava](https://github.com/apple/ml-slowfast-llava) - SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models
-- [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.
+- [vczh-libraries/GacUI](https://github.com/vczh-libraries/GacUI) - Native C++ UI library, cross-platform, MVVM and data binding, XML description, multi-language, core/renderer cross-process separation, etc
 - [SpartanJ/efsw](https://github.com/SpartanJ/efsw) - efsw is a C++ cross-platform file system watcher and notifier.
 - [ToTheBeginning/ComfyUI-DreamO](https://github.com/ToTheBeginning/ComfyUI-DreamO) - DreamO native implementation for ComfyUI
 - [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - [NeurIPS 2024] Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
@@ -4995,7 +4996,7 @@
 ## reinforcement-learning 
 
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [Gen-Verse/Open-AgentRL](https://github.com/Gen-Verse/Open-AgentRL) - An open-source RL (DemyAgent & RLAnything) for training LLM-based agents — supporting GRPO, PPO, RLHF, multi-turn reasoning, tool use, and distributed training.
+- [Gen-Verse/Open-AgentRL](https://github.com/Gen-Verse/Open-AgentRL) - RLAnything & DemyAgent: General and scalable agentic RL across terminal, GUI, SWE, and tool-call settings
 - [Gen-Verse/ReasonFlux](https://github.com/Gen-Verse/ReasonFlux) - [NeurIPS 2025 Spotlight] LLM post-training suite — featuring ReasonFlux, ReasonFlux-PRM, and ReasonFlux-Coder.
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
