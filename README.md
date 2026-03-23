@@ -70,6 +70,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Verilog](#verilog)
 - [Vue](#vue)
 - [Wikitext](#wikitext)
 - [Wolfram Language](#wolfram-language)
@@ -115,7 +116,6 @@
 
 ## C 
 
-- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 - [the-miint/duckdb-miint](https://github.com/the-miint/duckdb-miint) - 
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
@@ -719,7 +719,7 @@
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No 
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [coder/envbuilder](https://github.com/coder/envbuilder) - Build development environments from a Dockerfile on Docker, Kubernetes, and OpenShift. Enable developers to modify their development environment quickly.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
@@ -751,7 +751,7 @@
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
-- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+- [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [reposaur/reposaur](https://github.com/reposaur/reposaur) - Open source compliance tool for development platforms.
 - [iden3/docs](https://github.com/iden3/docs) - iden3 documentation
 - [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
@@ -1505,7 +1505,7 @@
 - [sabuhish/fastapi-mqtt](https://github.com/sabuhish/fastapi-mqtt) - fastapi-mqtt is extension for MQTT protocol
 - [ArchiveBox/archivebox-proxy](https://github.com/ArchiveBox/archivebox-proxy) - Official ArchiveBox MITM proxy: saves URLs of all requests passing through to an ArchiveBox server for archival.
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
-- [JosefAlbers/WTM](https://github.com/JosefAlbers/WTM) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
+- [JosefAlbers/wtm](https://github.com/JosefAlbers/wtm) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
 - [Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple) - Articles and tools related to research in the Apple environment (mainly macOS).
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
@@ -2523,6 +2523,10 @@
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+
+## Verilog 
+
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
 ## Vue 
 
