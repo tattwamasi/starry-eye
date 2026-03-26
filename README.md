@@ -344,7 +344,7 @@
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66527, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66562, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [sourcey/icey](https://github.com/sourcey/icey) - C++14 evented IO libraries for high performance networking and media based applications
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -1301,7 +1301,6 @@
 - [CppCon/CppCon2023](https://github.com/CppCon/CppCon2023) - Slides and other materials from CppCon 2023
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
-- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [dakboard/DAKboard](https://github.com/dakboard/DAKboard) - Feature requests, enhancements and anything you'd like to see in DAKboard!
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
 - [fishttp/awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
