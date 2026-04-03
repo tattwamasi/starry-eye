@@ -1039,7 +1039,6 @@
 - [stellar-expert/albedo](https://github.com/stellar-expert/albedo) - Security-centric, developer-friendly, easy-to-use delegated signer and keystore for Stellar Network
 - [postmanlabs/postman-collection-transformer](https://github.com/postmanlabs/postman-collection-transformer) - Perform rapid conversion and validation of JSON structure between Postman Collection Format v1 and v2.
 - [bpedro/postman-openapi-sync](https://github.com/bpedro/postman-openapi-sync) - Postman OpenAPI sync makes sure that your local OpenAPI spec is in sync with Postman.
-- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains
 - [rstormsf/multisender](https://github.com/rstormsf/multisender) - Token Multisender Dapp smart contract. Airdrop tokens. Batch sending ERC20, ETH, Ethereum tokens. Send thousands of transfers in a few transactions. It can help user to save more tx fee and time than 
 - [austintgriffith/burner-wallet](https://github.com/austintgriffith/burner-wallet) - 🔥👛Burner Wallet to move crypto quickly in a web browser. Sweep to cold storage when you get home.  🏠👨🏻‍🚒
 - [kalepail/stellar-turrets](https://github.com/kalepail/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
@@ -2164,7 +2163,7 @@
 - [syronlabs/stellar-mcp](https://github.com/syronlabs/stellar-mcp) - A Stellar MCP to interact with Horizon API and Soroban
 - [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) - MCP server that provides LLM with tools for interacting with Starknet
 - [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/mcp
-- [coinbase/x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
+- [x402-foundation/x402](https://github.com/x402-foundation/x402) - A payments protocol for the internet. Built on HTTP.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -2501,6 +2500,7 @@
 - [fttx/barcode-to-pc-app](https://github.com/fttx/barcode-to-pc-app) - Barcode to PC app
 - [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [circlefin/stablecoin-evm](https://github.com/circlefin/stablecoin-evm) - Source repository for smart contracts used by Circle's stablecoins on EVM-compatible blockchains
 - [rabetofficial/rabet-extension](https://github.com/rabetofficial/rabet-extension) - :rabbit: :earth_americas: Rabet browser extension enables you to manage your assets and interact with Stellar apps.
 - [connext/spacefold](https://github.com/connext/spacefold) - 🌓 A demo of instant cross-chain communication using Connext!
 - [reown-com/appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
