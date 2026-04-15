@@ -666,7 +666,7 @@
 - [darwin-containers/rund](https://github.com/darwin-containers/rund) - OCI Container Runtime for Darwin
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 - [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) - An MCP server to create secure code sandbox environment for executing code within Docker containers. This MCP server provides AI applications with a safe and isolated environment for running code whil
-- [kontext-dev/agent-browser](https://github.com/kontext-dev/agent-browser) - One connection for all your MCP servers.
+- [kontext-security/agent-browser](https://github.com/kontext-security/agent-browser) - One connection for all your MCP servers.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [superfly/flymcp](https://github.com/superfly/flymcp) - MCP server for Fly.io CLI integration with Claude Desktop
@@ -1563,7 +1563,7 @@
 - [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
 - [HybridRobotics/Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) - Codebase for Berkeley Humanoid Lite
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number vali
-- [kontext-dev/attestable-mcp-server](https://github.com/kontext-dev/attestable-mcp-server) - Verify that any MCP server is running the intended and untampered code via hardware attestation.
+- [kontext-security/attestable-mcp-server](https://github.com/kontext-security/attestable-mcp-server) - Verify that any MCP server is running the intended and untampered code via hardware attestation.
 - [Omar-V2/mcp-ical](https://github.com/Omar-V2/mcp-ical) - A Model Context Protocol Server that allows you to interact with your MacOS Calendar through natural language.
 - [erkyrath/tworld](https://github.com/erkyrath/tworld) - A choice-based shared online text environment sandbox
 - [SolaceLabs/solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) - An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s
@@ -2159,7 +2159,7 @@
 - [DitriXNew/askme-copilot](https://github.com/DitriXNew/askme-copilot) - 
 - [ericniebler/buildoutputcolorizer](https://github.com/ericniebler/buildoutputcolorizer) - Eric's Build Output Colorizer extension for VSCode
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui) - 
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test, Debug, and Evaluate MCP servers, ChatGPT apps, and MCP Apps (ext-apps)
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server that provides LLMs with tools for interacting with EVM networks
