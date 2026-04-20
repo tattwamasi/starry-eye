@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [openzim/libzim](https://github.com/openzim/libzim) - Reference implementation of the ZIM specification
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [zvasilev/MarkdownFTXUI](https://github.com/zvasilev/MarkdownFTXUI) - 
 - [intellekthq/duckdb-pst](https://github.com/intellekthq/duckdb-pst) - In-place querying of Microsoft PST files, directly from storage, with SQL.
