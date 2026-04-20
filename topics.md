@@ -3461,6 +3461,7 @@
 
 ## others 
 
+- [openzim/libzim](https://github.com/openzim/libzim) - Reference implementation of the ZIM specification
 - [xarlabs/zkey](https://github.com/xarlabs/zkey) - zKey is the zkLogin on Starknet, a self-custodial wallet using zero-knowledge proof that allows you to login to Dapps with your familiar social accounts like Google, Apple, and Meta.
 - [huggingface/AnyLanguageModel](https://github.com/huggingface/AnyLanguageModel) - An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers.
 - [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
