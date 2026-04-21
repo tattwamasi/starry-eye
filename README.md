@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [arximboldi/immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
 - [openzim/libzim](https://github.com/openzim/libzim) - Reference implementation of the ZIM specification
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [zvasilev/MarkdownFTXUI](https://github.com/zvasilev/MarkdownFTXUI) - 
@@ -1418,6 +1419,7 @@
 
 ## Python 
 
+- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - Open-source AI-driven quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
 - [apple/ml-rldf](https://github.com/apple/ml-rldf) - 
 - [Hmbown/MLXSmith](https://github.com/Hmbown/MLXSmith) - Apple Silicon MLX fine-tuning toolkit — SFT, DPO/ORPO, GRPO, distillation, and OpenAI-compatible serving.
@@ -1697,7 +1699,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -2061,7 +2063,6 @@
 
 - [huggingface/AnyLanguageModel](https://github.com/huggingface/AnyLanguageModel) - An API-compatible, drop-in replacement for Apple's Foundation Models framework with support for custom language model providers.
 - [scier/MetalSplatter](https://github.com/scier/MetalSplatter) - Render Gaussian Splats using Metal on Apple platforms (iOS/iPhone/iPad, macOS, and visionOS)
-- [isacucho/FnMacAssistant](https://github.com/isacucho/FnMacAssistant) - An assistant that helps you download the latest Fortnite IPA and applies the necessary patches for it to work properly.
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [Mcrich23/Container-Compose](https://github.com/Mcrich23/Container-Compose) - A docker-compose clone for Apple Container
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - The official Swift SDK for Model Context Protocol servers and clients.
