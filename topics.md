@@ -372,7 +372,7 @@
 - [Sub-Soft/Siliv](https://github.com/Sub-Soft/Siliv) - MacOS menu‑bar utility to adjust Apple Silicon GPU VRAM allocation
 - [alexhraber/tensors-to-consciousness](https://github.com/alexhraber/tensors-to-consciousness) - Explore the Mathematical Foundations of AI/ML: From Tensors to Consciousness
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -540,7 +540,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -1628,6 +1628,7 @@
 
 ## documentation 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [lawmurray/doxide](https://github.com/lawmurray/doxide) - Modern documentation for modern C++. Configure with YAML, output Markdown, post-process with Material for MkDocs.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -2165,15 +2166,14 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) - Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, o
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67114, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67186, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [webview/webview_deno](https://github.com/webview/webview_deno) - 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [Fryuni/inox-tools](https://github.com/Fryuni/inox-tools) - Oxygen-free tools for Astronauts.
 - [withstudiocms/ui](https://github.com/withstudiocms/ui) - The UI library for StudioCMS. Includes the layouts & components we use to build StudioCMS.
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [jh3y/whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
@@ -2660,7 +2660,7 @@
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67114, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67186, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [brainboxdotcc/DPP](https://github.com/brainboxdotcc/DPP) - C++ Discord API Bot Library - D++ is Lightweight and scalable for small and huge bots!
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -3037,7 +3037,7 @@
 - [mfukushim/map-traveler-mcp](https://github.com/mfukushim/map-traveler-mcp) - Virtual traveler library for MCP
 - [in-fun/mcpbar](https://github.com/in-fun/mcpbar) - The CLI manager for MCP servers
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -3126,7 +3126,7 @@
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3318,7 +3318,7 @@
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [alexhraber/tensors-to-consciousness](https://github.com/alexhraber/tensors-to-consciousness) - Explore the Mathematical Foundations of AI/ML: From Tensors to Consciousness
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## objective-c 
@@ -4557,7 +4557,7 @@
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
@@ -4768,7 +4768,7 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
@@ -4841,7 +4841,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -4873,7 +4873,7 @@
 - [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.
 - [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [matterai/DataKitsune](https://github.com/matterai/DataKitsune) - Introducing DataKitsune, an open-source Telegram bot designed to enhance the way you manage and retrieve links shared within your personal or group chats. By automatically indexing the content of thes
@@ -5473,7 +5473,7 @@
 - [kitops-ml/kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
