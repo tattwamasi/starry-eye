@@ -296,7 +296,7 @@
 ## agent 
 
 - [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The agent runtime platform powered by context graphs.
 - [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel) - 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
@@ -377,7 +377,7 @@
 
 ## ai 
 
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -531,7 +531,6 @@
 ## ai-agents 
 
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first control plane for data scripts, SQL, containers, SSH commands. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create, update, and run your wo
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
@@ -1246,7 +1245,6 @@
 - [Dobiasd/FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
 - [TheLartians/Observe](https://github.com/TheLartians/Observe) - 📣 Hey listen! A simple general-purpose event-listener system for C++17.
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-- [caomengxuan666/MCPServer.cpp](https://github.com/caomengxuan666/MCPServer.cpp) - A high-performance C++ implementation of the Model Communication Protocol server,which supports python plugins.
 - [Emreerdog/mbase](https://github.com/Emreerdog/mbase) - MBASE, an LLM SDK in C++
 - [leon-bckl/lsp-framework](https://github.com/leon-bckl/lsp-framework) - Language Server Protocol implementation in C++
 - [taocpp/json](https://github.com/taocpp/json) - C++ header-only JSON library
@@ -1596,7 +1594,7 @@
 
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first control plane for data scripts, SQL, containers, SSH commands. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create, update, and run your wo
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The control plane for teams looking to automate real work with AI agents within their own infrastructure. Packaged as a single binary, it runs on Linux, macOS, and Windows. Use your favorite AI agents
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
@@ -1714,7 +1712,6 @@
 
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
-- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
 - [ob-f/OpenBot](https://github.com/ob-f/OpenBot) - OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones suppo
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
@@ -3072,7 +3069,6 @@
 - [MCPJam/inspector](https://github.com/MCPJam/inspector) - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
 - [mclenhard/catie-mcp](https://github.com/mclenhard/catie-mcp) - 
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server that provides LLMs with tools for interacting with EVM networks
-- [caomengxuan666/MCPServer.cpp](https://github.com/caomengxuan666/MCPServer.cpp) - A high-performance C++ implementation of the Model Communication Protocol server,which supports python plugins.
 - [sitbon/magg](https://github.com/sitbon/magg) - Magg: The MCP Aggregator
 - [dcSpark/mcp-dockmaster](https://github.com/dcSpark/mcp-dockmaster) - MCP Dockmaster allows you to easily install and manage MCP servers. Available for Mac, Windows and Linux as a Desktop App, CLI and a library.
 - [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) - MCP server that provides LLM with tools for interacting with Starknet
@@ -3517,7 +3513,7 @@
 
 ## others 
 
-- [xataio/deltax](https://github.com/xataio/deltax) - Time series postgres extension
+- [gabec-slop/autoresearch-gym](https://github.com/gabec-slop/autoresearch-gym) - Gymnasium workbench for agent-driven autoresearch loops in robotics RL simulation
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [openzim/libzim](https://github.com/openzim/libzim) - Reference implementation of the ZIM specification
@@ -4607,6 +4603,7 @@
 
 ## postgresql 
 
+- [xataio/deltax](https://github.com/xataio/deltax) - Fast time-series extension for PostgreSQL
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -4725,7 +4722,6 @@
 - [empicano/mqtt5](https://github.com/empicano/mqtt5) - The MQTTv5 protocol for Python written in Rust
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [caomengxuan666/MCPServer.cpp](https://github.com/caomengxuan666/MCPServer.cpp) - A high-performance C++ implementation of the Model Communication Protocol server,which supports python plugins.
 - [sitbon/magg](https://github.com/sitbon/magg) - Magg: The MCP Aggregator
 - [manzt/anywidget](https://github.com/manzt/anywidget) - reusable widgets made easy
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
@@ -4803,7 +4799,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
+- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing
 - [ngrok/ngrok-python](https://github.com/ngrok/ngrok-python) - Embed ngrok secure ingress into your Python apps with a single line of code.
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
@@ -5124,6 +5120,7 @@
 
 ## rust 
 
+- [xataio/deltax](https://github.com/xataio/deltax) - Fast time-series extension for PostgreSQL
 - [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
 - [starkware-libs/stwo-cairo](https://github.com/starkware-libs/stwo-cairo) - Prove Cairo programs with the blazing-fast S-two prover, powered by the cryptographic breakthrough of Circle STARKs.
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
