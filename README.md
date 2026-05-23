@@ -234,7 +234,6 @@
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [vparla/mcp-cpp](https://github.com/vparla/mcp-cpp) - Model Context Protocol implementation in Pure C++20.  See https://modelcontextprotocol.io/docs/sdk for context
 - [bemanproject/execution](https://github.com/bemanproject/execution) - Implementation of the std::execution (P2300, sender/receiver) proposal
-- [caomengxuan666/MCPServer.cpp](https://github.com/caomengxuan666/MCPServer.cpp) - A high-performance C++ implementation of the Model Communication Protocol server,which supports python plugins.
 - [nextgeniuspro/vfspp](https://github.com/nextgeniuspro/vfspp) - Virtual File System C++
 - [nsumner/cpp-tree-sitter](https://github.com/nsumner/cpp-tree-sitter) - Simple C++ and CMake wrapper around tree-sitter.
 - [jart/json.cpp](https://github.com/jart/json.cpp) - JSON for Classic C++
@@ -642,7 +641,7 @@
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first control plane for any scripts, SQL, containers, SSH commands, and AI automation. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create, updat
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - The control plane for teams looking to automate real work with AI agents within their own infrastructure. Packaged as a single binary, it runs on Linux, macOS, and Windows. Use your favorite AI agents
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
@@ -1705,7 +1704,7 @@
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok
+- [alexdlaird/pyngrok](https://github.com/alexdlaird/pyngrok) - A Python wrapper for ngrok; programmatic tunnels and webhook testing
 - [ngrok/ngrok-api-python](https://github.com/ngrok/ngrok-api-python) - ngrok API client library for Python
 - [pierskarsenbarg/pulumi-ngrok](https://github.com/pierskarsenbarg/pulumi-ngrok) - 
 - [thinkall/autogen-demos](https://github.com/thinkall/autogen-demos) - Demo code for use cases of AutoGen
@@ -1903,7 +1902,7 @@
 
 - [xataio/deltax](https://github.com/xataio/deltax) - Fast time-series extension for PostgreSQL
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
 - [starkware-libs/stwo-cairo](https://github.com/starkware-libs/stwo-cairo) - Prove Cairo programs with the blazing-fast S-two prover, powered by the cryptographic breakthrough of Circle STARKs.
 - [starkware-libs/cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
