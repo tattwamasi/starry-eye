@@ -321,7 +321,7 @@
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
 - [jll63/yomm2](https://github.com/jll63/yomm2) - Fast, orthogonal, open multi-methods. Solve the Expression Problem in C++17.
 - [tcbrindle/flux](https://github.com/tcbrindle/flux) - A C++20 library for sequence-orientated programming
-- [dcbaker/meson-plus-plus](https://github.com/dcbaker/meson-plus-plus) - An experimental and incomplete implementation of Meson in C++, for solving Meson's bootstrapping issue.
+- [dcbaker/meson-plus-plus](https://github.com/dcbaker/meson-plus-plus) - An experimental and incomplete implementation of Meson in C++, aiming to be fast.
 - [getml/reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, Avro, Boost Serialization, BSON, Cap'n Proto, CBOR, Cereal, CSV, flexbuffers, msgpack, parquet, 
 - [celtera/avendish](https://github.com/celtera/avendish) - declarative polyamorous cross-system intermedia objects
 - [terragraph/meta-terragraph](https://github.com/terragraph/meta-terragraph) - Terragraph is a technology that leverages 60 GHz spectrum to deliver fast, reliable internet.
@@ -965,7 +965,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [mattjennings/astro-live-code](https://github.com/mattjennings/astro-live-code) - Render your MDX code blocks in Astro
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [zitadel/actions](https://github.com/zitadel/actions) - ZITADEL Actions - Easy extensibility with custom code. Think GitHub Actions in an Identity System.
@@ -2286,7 +2286,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [honojs/honox](https://github.com/honojs/honox) - HonoX - Hono based meta framework
 - [partykit/sketch-disco](https://github.com/partykit/sketch-disco) - Web components adding presence to static websites
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [partykit/sketch-waterhole](https://github.com/partykit/sketch-waterhole) - Shared YouTube player
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
