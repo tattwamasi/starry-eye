@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [zaucy/docoptexpr](https://github.com/zaucy/docoptexpr) - C++ compile time docopt
 - [arximboldi/immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++ — value semantics at scale
 - [openzim/libzim](https://github.com/openzim/libzim) - Reference implementation of the ZIM specification
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -1544,7 +1545,7 @@
 - [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 - [cubist38/mlx-openai-server](https://github.com/cubist38/mlx-openai-server) - A high-performance API server that provides OpenAI-compatible endpoints for MLX models. Developed using Python and powered by the FastAPI framework, it provides an efficient, scalable, and user-friend
 - [alexhraber/tensors-to-consciousness](https://github.com/alexhraber/tensors-to-consciousness) - Explore the Mathematical Foundations of AI/ML: From Tensors to Consciousness
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [BenBrock/reple](https://github.com/BenBrock/reple) - "Replay-based" REPLs for compiled languages.
 - [wlav/cppyy](https://github.com/wlav/cppyy) - 
@@ -2147,6 +2148,7 @@
 
 ## TypeScript 
 
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [B44ken/microgpt](https://github.com/B44ken/microgpt) - 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
