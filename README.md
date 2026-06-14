@@ -1901,7 +1901,7 @@
 
 ## Rust 
 
-- [LiteLLM-Labs/litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) - 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
+- [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) - 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
 - [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - StarkWare's next gen prover
 - [xataio/deltax](https://github.com/xataio/deltax) - Fast time-series extension for PostgreSQL
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
