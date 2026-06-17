@@ -231,6 +231,7 @@
 - [teaguesterling/duckdb_mcp](https://github.com/teaguesterling/duckdb_mcp) - A simple MCP server extension for DuckDB
 - [luohaha/BlockDuck](https://github.com/luohaha/BlockDuck) - Live SQL Queries on Blockchain
 - [Abishalini/cppcon2023](https://github.com/Abishalini/cppcon2023) - Overview on how to constuct a plugin based system in C++
+- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 - [facebookresearch/ocean](https://github.com/facebookresearch/ocean) - Ocean is the in-house framework for Computer Vision (CV) and Augmented Reality (AR) applications at Meta. It is platform independent and is mainly implemented in C/C++.
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [vparla/mcp-cpp](https://github.com/vparla/mcp-cpp) - Model Context Protocol implementation in Pure C++20.  See https://modelcontextprotocol.io/docs/sdk for context
@@ -593,7 +594,6 @@
 ## Cuda 
 
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
-- [GooFit/GooFit](https://github.com/GooFit/GooFit) - Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP
 
 ## Cython 
 
@@ -609,7 +609,6 @@
 
 ## Dockerfile 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [VirtusLab/codetale](https://github.com/VirtusLab/codetale) - CodeTale - documentation & issue tracking
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -1214,6 +1213,7 @@
 
 ## Makefile 
 
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [engineswap/orderbook](https://github.com/engineswap/orderbook) - 
 - [teslamotors/buildroot](https://github.com/teslamotors/buildroot) - Tesla's buildroot repository
 - [publysher/docker-hugo](https://github.com/publysher/docker-hugo) - Docker base image for static sites generated with Hugo
@@ -1924,7 +1924,6 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another CMake LSP
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -2203,6 +2202,7 @@
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [caioricciuti/duck-ui](https://github.com/caioricciuti/duck-ui) - Duck-UI is a web-based interface for interacting with DuckDB, a high-performance analytical database system. It features a SQL editor, data import/export, data explorer, query history, theme toggle, a
 - [TwillAI/agentbox-sdk](https://github.com/TwillAI/agentbox-sdk) - The open-source TypeScript SDK for running AI coding agents in sandboxes. One unified API — swap agents and infrastructure providers without changing your code.
+- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
 - [uwdata/mosaic](https://github.com/uwdata/mosaic) - An extensible framework for linking databases and interactive views.
 - [ProgramComputer/NASA-MCP-server](https://github.com/ProgramComputer/NASA-MCP-server) - A Model Context Protocol (MCP) server for NASA APIs, providing a standardized interface for AI models to interact with NASA's vast array of data sources.
