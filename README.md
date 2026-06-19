@@ -1487,7 +1487,7 @@
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [jasonppy/VoiceStar](https://github.com/jasonppy/VoiceStar) - VoiceStar: Robust, Duration-controllable TTS that can Extrapolate
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
-- [kfrlib/cxxdox](https://github.com/kfrlib/cxxdox) - Generates mkdocs files from C++ source code with minimal configuration. Python + libclang, does not use doxygen. Works in docker
+- [kfrlib/cxxdox](https://github.com/kfrlib/cxxdox) - MkDocs plugin that generates C++ API documentation from source using libclang. Parses headers, extracts Doxygen comments, and renders browsable reference pages for namespaces, classes, functions, and 
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
