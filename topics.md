@@ -297,7 +297,7 @@
 
 - [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-- [trustgraph-ai/TrustGraph](https://github.com/trustgraph-ai/TrustGraph) - Write context once. Run agents anywhere. Discover the power of holons and dramatically reduce your token usage.
+- [trustgraph-ai/TrustGraph](https://github.com/trustgraph-ai/TrustGraph) - Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.
 - [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel) - 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server that provides LLMs with tools for interacting with EVM networks
@@ -3402,7 +3402,7 @@
 ## open-source 
 
 - [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
-- [trustgraph-ai/TrustGraph](https://github.com/trustgraph-ai/TrustGraph) - Write context once. Run agents anywhere. Discover the power of holons and dramatically reduce your token usage.
+- [trustgraph-ai/TrustGraph](https://github.com/trustgraph-ai/TrustGraph) - Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
@@ -4264,7 +4264,7 @@
 - [winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file) - A transport for winston which logs to a rotating file each day.
 - [winstonjs/logform](https://github.com/winstonjs/logform) - An mutable object format designed for chaining & objectMode streams
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A tiny, zero-dependency cron task scheduler for Node.js, written in TypeScript.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) - 
