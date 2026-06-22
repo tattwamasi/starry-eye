@@ -305,7 +305,7 @@
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [TwillAI/agentbox-sdk](https://github.com/TwillAI/agentbox-sdk) - The open-source TypeScript SDK for running AI coding agents in sandboxes. One unified API — swap agents and infrastructure providers without changing your code.
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [adeelahmad/MacPilot](https://github.com/adeelahmad/MacPilot) - 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. No code needed, just English instructions!
@@ -387,7 +387,7 @@
 - [networkoptix/nx_open](https://github.com/networkoptix/nx_open) - NetworkOptix open-source components used to build Powered-by-Nx products including Desktop Client for Network Optix Video Management Platform.
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. 19.9M records/sec ingestion, 8.4M+ rows/sec queries. Ingestion, compaction, SQL, retention, continuous queries — one binary. Open Parquet on your storage. S3/Azur
 - [GopherSecurity/gopher-mcp](https://github.com/GopherSecurity/gopher-mcp) - MCP C++ SDK - Model Context Protocol implementation in CPP with enterprise-grade security, observability and connectivity.
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [johnmai-dev/NotebookMLX](https://github.com/johnmai-dev/NotebookMLX) - 📋 NotebookMLX - An Open Source version of NotebookLM (Ported NotebookLlama)
 - [sitbon/magg](https://github.com/sitbon/magg) - Magg: The MCP Aggregator
 - [dcSpark/mcp-dockmaster](https://github.com/dcSpark/mcp-dockmaster) - MCP Dockmaster allows you to easily install and manage MCP servers. Available for Mac, Windows and Linux as a Desktop App, CLI and a library.
@@ -405,7 +405,7 @@
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -2456,7 +2456,7 @@
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
@@ -2759,7 +2759,7 @@
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [TwillAI/agentbox-sdk](https://github.com/TwillAI/agentbox-sdk) - The open-source TypeScript SDK for running AI coding agents in sandboxes. One unified API — swap agents and infrastructure providers without changing your code.
-- [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [dvcrn/mcp-server-siri-shortcuts](https://github.com/dvcrn/mcp-server-siri-shortcuts) - MCP for calling Siri Shorcuts from LLMs
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
@@ -3338,6 +3338,7 @@
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [nodesource/nsolid-aws](https://github.com/nodesource/nsolid-aws) - Run N|Solid in Amazon Web Services
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - Job scheduling for Node.js with overlap prevention, distributed coordination, and background tasks. Zero dependencies.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
 - [hyperjumptech/monika](https://github.com/hyperjumptech/monika) - Monika is a command line application to monitor every part of your web app using a simple YAML configuration file. Get alert not only when your site is down but also when it's slow.
@@ -4264,7 +4265,6 @@
 - [winstonjs/winston-daily-rotate-file](https://github.com/winstonjs/winston-daily-rotate-file) - A transport for winston which logs to a rotating file each day.
 - [winstonjs/logform](https://github.com/winstonjs/logform) - An mutable object format designed for chaining & objectMode streams
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A tiny, zero-dependency cron task scheduler for Node.js, written in TypeScript.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) - 
@@ -4657,7 +4657,7 @@
 
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [adeelahmad/MacPilot](https://github.com/adeelahmad/MacPilot) - 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. No code needed, just English instructions!
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
