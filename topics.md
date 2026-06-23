@@ -297,7 +297,7 @@
 
 - [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-- [trustgraph-ai/TrustGraph](https://github.com/trustgraph-ai/TrustGraph) - Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.
 - [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel) - 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server that provides LLMs with tools for interacting with EVM networks
@@ -891,7 +891,7 @@
 - [kalepail/stellar-quest-bounties](https://github.com/kalepail/stellar-quest-bounties) - Stellar Quest Bounties is an extension of the traditional, series based Stellar Quest challenges allowing seasoned and passionate Stellar Questers to continue their journey of education and earning du
 - [kalepail/stellar-turrets](https://github.com/kalepail/stellar-turrets) - Reference implementation of the Stellar Turrets protocol
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
-- [Lobstrco/Vault-iOS](https://github.com/Lobstrco/Vault-iOS) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
+- [Lobstrco/vault-ios](https://github.com/Lobstrco/vault-ios) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [stellar/awesome-stellar](https://github.com/stellar/awesome-stellar) - 👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more.
 - [poliha/stellar-tokens](https://github.com/poliha/stellar-tokens) - 
@@ -1343,7 +1343,7 @@
 - [o1-labs/zkapp-cli](https://github.com/o1-labs/zkapp-cli) - CLI to create a zkApp (zero-knowledge app) for Mina Protocol
 - [kalepail/stellar-quest-bounties](https://github.com/kalepail/stellar-quest-bounties) - Stellar Quest Bounties is an extension of the traditional, series based Stellar Quest challenges allowing seasoned and passionate Stellar Questers to continue their journey of education and earning du
 - [Lobstrco/stellar-identicon-js](https://github.com/Lobstrco/stellar-identicon-js) - Javascript tool to generate identicons for Stellar wallets - unique icons, generated based on the wallet public key
-- [Lobstrco/Vault-iOS](https://github.com/Lobstrco/Vault-iOS) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
+- [Lobstrco/vault-ios](https://github.com/Lobstrco/vault-ios) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
 - [Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance](https://github.com/Roibal/Cryptocurrency-Trading-Bots-Python-Beginner-Advance) - Crypto Trading Bots in Python - Triangular Arbitrage, Beginner & Advanced Cryptocurrency Trading Bots Written in Python
 - [poliha/stellar-tokens](https://github.com/poliha/stellar-tokens) - 
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
@@ -3403,7 +3403,7 @@
 ## open-source 
 
 - [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
-- [trustgraph-ai/TrustGraph](https://github.com/trustgraph-ai/TrustGraph) - Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - Write context once. Run agents anywhere. Discover the power of holonic context graphs and dramatically reduce your token usage.
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter) - 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.
@@ -5451,7 +5451,7 @@
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [Lobstrco/Vault-iOS](https://github.com/Lobstrco/Vault-iOS) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
+- [Lobstrco/vault-ios](https://github.com/Lobstrco/vault-ios) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
 - [dsward2/macSVG](https://github.com/dsward2/macSVG) - macSVG - An open-source macOS app for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view ➤➤➤
 - [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
