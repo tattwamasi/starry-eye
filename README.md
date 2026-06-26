@@ -1441,7 +1441,7 @@
 - [facebookresearch/doc-storygen-v2](https://github.com/facebookresearch/doc-storygen-v2) - Codebase for LLM story generation; updated version of https//github.com/yangkevin2/doc-story-generation
 - [facebookresearch/Mixture-of-Transformers](https://github.com/facebookresearch/Mixture-of-Transformers) - Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models. TMLR 2025.
 - [NVIDIA-NeMo/Automodel](https://github.com/NVIDIA-NeMo/Automodel) - 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
-- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [Doriandarko/MLX-GRPO](https://github.com/Doriandarko/MLX-GRPO) - A pure MLX-based training pipeline for fine-tuning LLMs using GRPO on Apple Silicon.
 - [Goekdeniz-Guelmez/mlx-kan](https://github.com/Goekdeniz-Guelmez/mlx-kan) - KAN (Kolmogorov–Arnold Networks) in the MLX framework for Apple Silicon
 - [Goekdeniz-Guelmez/mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) - Train Large Language Models on MLX.
@@ -1925,7 +1925,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another CMake LSP
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - agentOS is a portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
