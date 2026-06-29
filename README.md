@@ -1434,7 +1434,7 @@
 - [samwho/llmwalk](https://github.com/samwho/llmwalk) - Explore the answer-space of open LLMs
 - [uqer1244/MLX_z-image](https://github.com/uqer1244/MLX_z-image) - MLX version of z-image model
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [ettrickshepherd/mlx-dev-skill](https://github.com/ettrickshepherd/mlx-dev-skill) - Claude Code skill for writing idiomatic Apple MLX code on Apple Silicon
+- [btgaskin/mlx-dev-skill](https://github.com/btgaskin/mlx-dev-skill) - Claude Code skill for writing idiomatic Apple MLX code on Apple Silicon
 - [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr) - Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
 - [benadida/helios-server](https://github.com/benadida/helios-server) - Helios server
 - [Gen-Verse/LatentMAS](https://github.com/Gen-Verse/LatentMAS) - [ICML 2026 Spotlight] Latent Collaboration in Multi-Agent Systems
@@ -2179,7 +2179,7 @@
 - [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/mcp
 - [x402-foundation/x402](https://github.com/x402-foundation/x402) - A payments protocol for the internet. Built on HTTP.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [lorenseanstewart/progressive-complexity](https://github.com/lorenseanstewart/progressive-complexity) - Demo code for my blog post "A Progressive Complexity Manifesto"
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -2258,7 +2258,7 @@
 - [withastro/storefront](https://github.com/withastro/storefront) - Astro for ecommerce 💰
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [bluesky-social/statusphere-example-app](https://github.com/bluesky-social/statusphere-example-app) - An example atproto application using ExpressJS and Typescript.
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [e2b-dev/dashboard](https://github.com/e2b-dev/dashboard) - Modern dashboard for managing E2B sandboxes and API keys. Built with Next.js 16, React 19, and Supabase.
 - [e2b-dev/ai-analyst](https://github.com/e2b-dev/ai-analyst) - Open source AI analyst powered by E2B. Analyze your CSV files with Llama 3.1 and create interactive charts.
 - [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
