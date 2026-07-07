@@ -140,6 +140,7 @@
 - [h2non/semver.c](https://github.com/h2non/semver.c) - Semantic version in ANSI C
 - [nanomsg/nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
+- [amzeratul/halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [ClickHouse/clickhouse-cpp](https://github.com/ClickHouse/clickhouse-cpp) - C++ client library for ClickHouse
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [playbit/public](https://github.com/playbit/public) - Open-source software components of Playbit
@@ -396,7 +397,6 @@
 - [3Hren/blackhole](https://github.com/3Hren/blackhole) - Yet another logging library.
 - [bobluppes/graaf](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++ graph library
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
-- [amzeratul/halley](https://github.com/amzeratul/halley) - A lightweight game engine written in modern C++
 - [hdoc/hdoc](https://github.com/hdoc/hdoc) - The modern documentation tool for C++.
 - [lawmurray/doxide](https://github.com/lawmurray/doxide) - Modern documentation for modern C++. Configure with YAML, output Markdown, post-process with Material for MkDocs.
 - [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs) - MrDocs: A Clang/LLVM tool for building reference documentation from C++ code and javadoc comments.
