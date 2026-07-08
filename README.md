@@ -95,7 +95,6 @@
 
 - [tinacms/tina-astro-starter](https://github.com/tinacms/tina-astro-starter) - 
 - [hookdeck/event-destinations](https://github.com/hookdeck/event-destinations) - An initiative to support a new model for event interoperability between event producers and their consumers to favor better developer experience, robust integration, and infrastructural efficiency.
-- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [morinokami/astro-mcp](https://github.com/morinokami/astro-mcp) - MCP server to support Astro project development
 - [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) - Add a ripple-style theme toggle animation to your Astro project with ease
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
@@ -349,7 +348,7 @@
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68275, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68453, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [nilstate/icey](https://github.com/nilstate/icey) - Real-time media stack and lightweight libwebrtc alternative, built in C++20
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -1154,7 +1153,6 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [limitless-ai-inc/limitless-api-examples](https://github.com/limitless-ai-inc/limitless-api-examples) - Examples for using the Limitless Developer API
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
-- [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa) - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -1648,6 +1646,7 @@
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [EvolvingLMMs-Lab/Otter](https://github.com/EvolvingLMMs-Lab/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
+- [AnswerDotAI/ghapi](https://github.com/AnswerDotAI/ghapi) - A delightful and complete interface to GitHub's amazing API
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [FusionAuth/fusionauth-python-client](https://github.com/FusionAuth/fusionauth-python-client) - FusionAuth Python Client
 - [riccardomusmeci/mlx-llm](https://github.com/riccardomusmeci/mlx-llm) - Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
@@ -1776,7 +1775,7 @@
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [kaleido-lab/dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
 - [poe-platform/server-bot-quick-start](https://github.com/poe-platform/server-bot-quick-start) - Tutorial for Poe server bots
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
@@ -2169,7 +2168,7 @@
 - [ericniebler/buildoutputcolorizer](https://github.com/ericniebler/buildoutputcolorizer) - Eric's Build Output Colorizer extension for VSCode
 - [duckdb/duckdb-ui](https://github.com/duckdb/duckdb-ui) - 
 - [MCPJam/inspector](https://github.com/MCPJam/inspector) - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An AI-powered Life Operating System for Magnifying Human Capabilities
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
 - [leonardsellem/n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server that provides LLMs with tools for interacting with EVM networks
 - [Shopify/remote-dom](https://github.com/Shopify/remote-dom) - 
@@ -2248,6 +2247,7 @@
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) - Loaders for Astro's Content Layer
+- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [lin-stephanie/astro-loaders](https://github.com/lin-stephanie/astro-loaders) - A monorepo hosting Astro loaders that I need and might be useful for you.
 - [morinokami/mcp-server-bluesky](https://github.com/morinokami/mcp-server-bluesky) - MCP server for interacting with Bluesky
 - [allenheltondev/mcp-tool-telemetry](https://github.com/allenheltondev/mcp-tool-telemetry) - POC for tracking MCP server tool usage with Kestra
