@@ -95,6 +95,7 @@
 
 - [tinacms/tina-astro-starter](https://github.com/tinacms/tina-astro-starter) - 
 - [hookdeck/event-destinations](https://github.com/hookdeck/event-destinations) - An initiative to support a new model for event interoperability between event producers and their consumers to favor better developer experience, robust integration, and infrastructural efficiency.
+- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [morinokami/astro-mcp](https://github.com/morinokami/astro-mcp) - MCP server to support Astro project development
 - [ocavue/astro-theme-toggle](https://github.com/ocavue/astro-theme-toggle) - Add a ripple-style theme toggle animation to your Astro project with ease
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
@@ -2247,7 +2248,6 @@
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [LekoArts/astro-loaders](https://github.com/LekoArts/astro-loaders) - Loaders for Astro's Content Layer
-- [lin-stephanie/astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) - A flexible and feature-rich Astro theme for developers and creators.
 - [lin-stephanie/astro-loaders](https://github.com/lin-stephanie/astro-loaders) - A monorepo hosting Astro loaders that I need and might be useful for you.
 - [morinokami/mcp-server-bluesky](https://github.com/morinokami/mcp-server-bluesky) - MCP server for interacting with Bluesky
 - [allenheltondev/mcp-tool-telemetry](https://github.com/allenheltondev/mcp-tool-telemetry) - POC for tracking MCP server tool usage with Kestra
