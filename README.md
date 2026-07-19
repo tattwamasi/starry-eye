@@ -1007,7 +1007,7 @@
 - [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [twitter-together/action](https://github.com/twitter-together/action) - :bird: A GitHub action to tweet from a repository
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [maintainers/invite-automation](https://github.com/maintainers/invite-automation) - Instructions repo to join the Maintainers Organization
 - [johnnyopao/awsp](https://github.com/johnnyopao/awsp) - Switch AWS Profiles Easily
@@ -1426,6 +1426,7 @@
 - [Acelogic/LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX) - Attempt at Porting LTX-2 Video Model to Apple's MLX Machine Learning Framework
 - [batson/mlux](https://github.com/batson/mlux) - 
 - [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The context engineering platform for open source AI. Deploy open models connected with context graph harnesses for explainable agents.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Deekshith-Dade/mlx_sam3](https://github.com/Deekshith-Dade/mlx_sam3) - MLX SAM3 - MLX Port of SAM3 for interactive image segmentation with Text and Geometric Prompts
 - [Phantom-video/HuMo](https://github.com/Phantom-video/HuMo) - HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning
@@ -1533,7 +1534,7 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
-- [Sub-Soft/Siliv](https://github.com/Sub-Soft/Siliv) - MacOS menu‑bar utility to adjust Apple Silicon GPU VRAM allocation
+- [Sub0X/Siliv](https://github.com/Sub0X/Siliv) - MacOS menu‑bar utility to adjust Apple Silicon GPU VRAM allocation
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -1764,7 +1765,7 @@
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [yencarnacion/yt-sum](https://github.com/yencarnacion/yt-sum) - This is a Python script that summarizes a youtube video from a YouTube URL
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [ZiwenZhuang/parkour](https://github.com/ZiwenZhuang/parkour) - [CoRL 2023] Robot Parkour Learning
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
@@ -2162,7 +2163,6 @@
 - [ThinkOodle/storybook-astro](https://github.com/ThinkOodle/storybook-astro) - 
 - [erlandv/writenex](https://github.com/erlandv/writenex) - A collection of tools for modern markdown editing and content management.
 - [kindspells/astro-shield](https://github.com/kindspells/astro-shield) - Astro integration to enhance your website's security with SubResource Integrity hashes, Content-Security-Policy headers, and other techniques.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [hijohnnylin/neuronpedia](https://github.com/hijohnnylin/neuronpedia) - open source interpretability platform 🧠
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [phare/sloggo](https://github.com/phare/sloggo) - Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
