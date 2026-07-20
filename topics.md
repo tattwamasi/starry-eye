@@ -299,7 +299,7 @@
 
 ## agent 
 
-- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The context engineering platform for open source AI. Deploy open models connected with context graph harnesses for explainable agents.
@@ -388,7 +388,7 @@
 
 ## ai 
 
-- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -1854,7 +1854,7 @@
 
 ## finance 
 
-- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 
@@ -2509,7 +2509,7 @@
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
-- [michael/editable](https://github.com/michael/editable) - The Svelte website you can edit on the page
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -4752,7 +4752,7 @@
 
 ## python 
 
-- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [benadida/helios-server](https://github.com/benadida/helios-server) - Helios server
@@ -4948,7 +4948,7 @@
 
 ## quantitative-finance 
 
-- [brokermr810/QuantDinger](https://github.com/brokermr810/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 
 ## r 
@@ -5410,7 +5410,7 @@
 - [trailofbits/sqlite_wrapper](https://github.com/trailofbits/sqlite_wrapper) - An easy-to-use, extensible and lightweight C++17 wrapper for SQLite
 - [outerbase/starbasedb](https://github.com/outerbase/starbasedb) - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.
 - [DallasHoff/sqlocal](https://github.com/DallasHoff/sqlocal) - SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.
-- [michael/editable](https://github.com/michael/editable) - The Svelte website you can edit on the page
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - The perfectionist ORM. ⭐️ Please star to support this work
@@ -5442,7 +5442,7 @@
 
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
-- [michael/editable](https://github.com/michael/editable) - The Svelte website you can edit on the page
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
