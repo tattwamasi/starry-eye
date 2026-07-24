@@ -291,7 +291,7 @@
 - [build-cpp/cmkr](https://github.com/build-cpp/cmkr) - Modern build system based on CMake and TOML.
 - [Bleuje/interactive-physarum](https://github.com/Bleuje/interactive-physarum) - Physarum/organic simulations inspired by "36 Points". Interaction with gamepad for artistic installation.  (using openFrameworks)
 - [angohr/angohr](https://github.com/angohr/angohr) - Experiments with C++20, modules, packaging
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [dais-polymtl/flock](https://github.com/dais-polymtl/flock) - Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB (VLDB Demo 2025)
 - [cdacamar/ball_pit](https://github.com/cdacamar/ball_pit) - A simple physics-based ball pit!
@@ -350,7 +350,7 @@
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68453, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68887, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [nilstate/icey](https://github.com/nilstate/icey) - Real-time media stack and lightweight libwebrtc alternative, built in C++20
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -631,7 +631,7 @@
 
 ## Go 
 
-- [google/ax](https://github.com/google/ax) - Google's open source distributed agent runtime
+- [google/ax](https://github.com/google/ax) - An open source distributed agent runtime
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [micasa-dev/micasa](https://github.com/micasa-dev/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -947,7 +947,6 @@
 - [stateofca/opencred](https://github.com/stateofca/opencred) - OpenCred Verifiable Credentials Platform
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [apHarmony/jsharmony-cms](https://github.com/apHarmony/jsharmony-cms) - jsHarmony CMS
 - [EisenbergEffect/server-first-web-components](https://github.com/EisenbergEffect/server-first-web-components) - A demo app showing server-first web components with DSD, HTMX, and Islands.
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
@@ -996,7 +995,6 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - MOVED to jsonresume/jsonresume.org (packages/cli) — npm 'resume-cli' unchanged, revived for Node 18+
 - [polymorpher/one-wallet](https://github.com/polymorpher/one-wallet) - 1wallet | Modulo OTP Wallet - unconventional keyless, non-custodial wallet secured by Google Authenticator. EVM-compatible, smart contract operated, with composable security.
-- [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [jkga/me](https://github.com/jkga/me) - :neckbeard: A next-gen JAMSTACK for developers leveraging the use of JSON Resume Schema  in creating a web based vitae and portfolio. Stop worrying with a complex setup and deployment process. Docs: h
 - [treyhuffine/portfolio-create-react-app](https://github.com/treyhuffine/portfolio-create-react-app) - How to build a developer portfolio using React
@@ -1928,7 +1926,7 @@
 - [neocmakelsp/neocmakelsp](https://github.com/neocmakelsp/neocmakelsp) - Another CMake LSP
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
@@ -2321,6 +2319,7 @@
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [grenovales/astro-framework7](https://github.com/grenovales/astro-framework7) - Astro Integration for Framework7
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
@@ -2455,6 +2454,7 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud!
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
+- [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - The perfectionist ORM. ⭐️ Please star to support this work
 - [drakeaxelrod/json-resume-service](https://github.com/drakeaxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
