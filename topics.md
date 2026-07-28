@@ -215,6 +215,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quant](#quant)
 - [quantitative-finance](#quantitative-finance)
 - [r](#r)
 - [rag](#rag)
@@ -397,7 +398,7 @@
 - [networkoptix/nx_open](https://github.com/networkoptix/nx_open) - NetworkOptix open-source components used to build Powered-by-Nx products including Desktop Client for Network Optix Video Management Platform.
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. 19.9M records/sec ingestion, 8.4M+ rows/sec queries. Ingestion, compaction, SQL, retention, continuous queries — one binary. Open Parquet on your storage. S3/Azur
 - [GopherSecurity/gopher-mcp](https://github.com/GopherSecurity/gopher-mcp) - C++ MCP SDK - build Model Context Protocol (MCP) servers and clients in C++ / CPP. Enterprise-grade security, observability, connectivity. Stdio, HTTP+SSE, Streamable HTTP, WebSocket, TCP transports. 
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 - [johnmai-dev/NotebookMLX](https://github.com/johnmai-dev/NotebookMLX) - 📋 NotebookMLX - An Open Source version of NotebookLM (Ported NotebookLlama)
 - [sitbon/magg](https://github.com/sitbon/magg) - Magg: The MCP Aggregator
 - [dcSpark/mcp-dockmaster](https://github.com/dcSpark/mcp-dockmaster) - MCP Dockmaster allows you to easily install and manage MCP servers. Available for Mac, Windows and Linux as a Desktop App, CLI and a library.
@@ -1208,6 +1209,7 @@
 
 ## coding 
 
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [Andyinater/AutoGen_IterativeCoding](https://github.com/Andyinater/AutoGen_IterativeCoding) - This repository demonstrates how a simple iterative coding loop, with history and resume capability, can be can be implemented in the AutoGen Framework.
 
@@ -2082,7 +2084,7 @@
 
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [taubyte/dream](https://github.com/taubyte/dream) - A local cloud for rapid development and testing.
@@ -2397,6 +2399,7 @@
 
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [gammasoft71/tunit](https://github.com/gammasoft71/tunit) - Modern c++17 unit testing framework on Microsoft Windows, Apple macOS, Linux, iOS and android.
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
 - [Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple) - Articles and tools related to research in the Apple environment (mainly macOS).
@@ -2914,7 +2917,7 @@
 ## lua 
 
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 
@@ -2999,6 +3002,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple) - Articles and tools related to research in the Apple environment (mainly macOS).
@@ -3208,7 +3212,7 @@
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3705,7 +3709,6 @@
 - [cesar-douady/open-lmake](https://github.com/cesar-douady/open-lmake) - Open-lmake is a generic, fearless build system. It is like make, except that it is user-friendly, versatile, scalable and reliable.
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog) - fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [borglab/gtsfm](https://github.com/borglab/gtsfm) - End-to-end SFM framework based on GTSAM
 - [binder-examples/multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
@@ -4646,7 +4649,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [matt-42/lithium](https://github.com/matt-42/lithium) - Easy to use C++17 HTTP Server with no compromise on performances. https://matt-42.github.io/lithium
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [multigres/multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -4684,7 +4687,7 @@
 
 - [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - The AI harness that moves you from current state to ideal state. An intent engineering platform: it conveys what you ultimately want to your AI on every task. [CODING, BUILDING, CREATING, BUSINESS, LI
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work—from Coding to Creativity.
 - [adeelahmad/MacPilot](https://github.com/adeelahmad/MacPilot) - 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. No code needed, just English instructions!
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -4942,6 +4945,10 @@
 - [Privatehive/libONVIF](https://github.com/Privatehive/libONVIF) - Yet another ONVIF library
 - [f1xpl/openauto](https://github.com/f1xpl/openauto) - AndroidAuto headunit emulator
 - [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
+
+## quant 
+
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 
 ## quantitative-finance 
 
@@ -5399,7 +5406,7 @@
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [backtrace-labs/verneuil](https://github.com/backtrace-labs/verneuil) - Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.
@@ -5456,6 +5463,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [modelcontextprotocol/swift-sdk](https://github.com/modelcontextprotocol/swift-sdk) - The official Swift SDK for Model Context Protocol servers and clients.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [apple/FHIRModels](https://github.com/apple/FHIRModels) - Swift library for FHIR® resource data models
