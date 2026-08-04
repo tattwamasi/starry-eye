@@ -544,7 +544,7 @@
 
 - [portofcontext/pctx](https://github.com/portofcontext/pctx) - pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
@@ -1635,7 +1635,7 @@
 
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [CanineHQ/canine](https://github.com/CanineHQ/canine) - A developer friendly PaaS for your Kubernetes
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
@@ -2790,7 +2790,7 @@
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
 - [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
 - [TwillAI/agentbox-sdk](https://github.com/TwillAI/agentbox-sdk) - The open-source TypeScript SDK for running AI coding agents in sandboxes. One unified API — swap agents and infrastructure providers without changing your code.
@@ -3122,7 +3122,7 @@
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One
 - [PostHog/mcp](https://github.com/PostHog/mcp) - Official PostHog MCP Server 🦔
 - [ysfscream/mqttx-mcp-sse-server](https://github.com/ysfscream/mqttx-mcp-sse-server) - An implementation of the Model-Context Protocol (MCP) that enables MQTT operations over Server-Sent Events (SSE) transport.
 - [TwillAI/agentbox-sdk](https://github.com/TwillAI/agentbox-sdk) - The open-source TypeScript SDK for running AI coding agents in sandboxes. One unified API — swap agents and infrastructure providers without changing your code.
@@ -3141,12 +3141,14 @@
 - [kontext-security/agent-browser](https://github.com/kontext-security/agent-browser) - One connection for all your MCP servers.
 - [kontext-security/attestable-mcp-server](https://github.com/kontext-security/attestable-mcp-server) - Verify that any MCP server is running the intended and untampered code via hardware attestation.
 - [Omar-V2/mcp-ical](https://github.com/Omar-V2/mcp-ical) - A Model Context Protocol Server that allows you to interact with your MacOS Calendar through natural language.
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [SolaceLabs/solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) - An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-s
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 - [morinokami/astro-mcp](https://github.com/morinokami/astro-mcp) - MCP server to support Astro project development
 - [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp) - A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
@@ -3924,7 +3926,6 @@
 - [formoon/realworld-oatpp](https://github.com/formoon/realworld-oatpp) - 
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [cpp-pre/oatpppre-staticfileserver](https://github.com/cpp-pre/oatpppre-staticfileserver) - Static file server module for oatpp
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [ParaGroup/caf-pp](https://github.com/ParaGroup/caf-pp) - Parallel pattern library for the C++ Actor Framework (CAF)
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [Qihoo360/TinyMCP](https://github.com/Qihoo360/TinyMCP) - A lightweight C++ SDK for implementing the MCP Server.
@@ -3935,7 +3936,6 @@
 - [momentohq/mcp-momento](https://github.com/momentohq/mcp-momento) - A model context protocol server for Momento
 - [superfly/flymcp](https://github.com/superfly/flymcp) - MCP server for Fly.io CLI integration with Claude Desktop
 - [oatpp/oatpp-mcp](https://github.com/oatpp/oatpp-mcp) - Anthropic’s Model Context Protocol implementation for Oat++
-- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [AllYarnsAreBeautiful/ayab-desktop](https://github.com/AllYarnsAreBeautiful/ayab-desktop) - The AYAB Software
 - [Seifert69/DikuMUD3](https://github.com/Seifert69/DikuMUD3) - DikuMUD III using HTML and websockets.
 - [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++
@@ -4798,6 +4798,7 @@
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [wakatime/wakaq](https://github.com/wakatime/wakaq) - Background task queue for Python backed by Redis, a super minimal Celery
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [duriantaco/pykomodo](https://github.com/duriantaco/pykomodo) - A Python-based parallel file chunking system designed for processing large codebases into LLM-friendly chunks.
@@ -5269,7 +5270,7 @@
 
 ## self-hosted 
 
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. AI native Airflow alternative, no database.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow engine for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logic. One
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
