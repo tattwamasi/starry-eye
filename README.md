@@ -185,7 +185,7 @@
 - [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 - [serverlessworkflow/synapse](https://github.com/serverlessworkflow/synapse) - Serverless Workflow Management System (WFMS)
 - [jonsequitur/dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive
-- [polterguy/magic](https://github.com/polterguy/magic) - Deterministic AI agents and generated backends — MIT-licensed, self-hosted, MCP-native
+- [polterguy/magic](https://github.com/polterguy/magic) - Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on your own hardware, with zero lock-in
 - [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) - Research project. A Memory solution for users, teams, and applications.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -2149,6 +2149,7 @@
 
 ## TypeScript 
 
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
@@ -2534,7 +2535,7 @@
 - [future-tense/stellar-pathfinder-server](https://github.com/future-tense/stellar-pathfinder-server) - A standalone path finder for Stellar
 - [keybase/keybase-bot](https://github.com/keybase/keybase-bot) - exploration with the keybase chat API
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
-- [fracek/serverless-stellar-federation](https://github.com/fracek/serverless-stellar-federation) - Stellar Federation Server as a Google Cloud Platform Function. 🚀
+- [fraceccon/serverless-stellar-federation](https://github.com/fraceccon/serverless-stellar-federation) - Stellar Federation Server as a Google Cloud Platform Function. 🚀
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
