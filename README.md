@@ -185,7 +185,7 @@
 - [jacksondunstan/UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting) - Unity Scripting in C++
 - [serverlessworkflow/synapse](https://github.com/serverlessworkflow/synapse) - Serverless Workflow Management System (WFMS)
 - [jonsequitur/dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive
-- [polterguy/magic](https://github.com/polterguy/magic) - Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on your own hardware, with zero lock-in
+- [polterguy/magic](https://github.com/polterguy/magic) - An Open Source Alternative to Lovable and Supabase in one system!
 - [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) - Research project. A Memory solution for users, teams, and applications.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -637,7 +637,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - High-performance analytical database. 19.9M records/sec ingestion, 8.4M+ rows/sec queries. Ingestion, compaction, SQL, retention, continuous queries — one binary. Open Parquet on your storage. S3/Azur
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Si
 - [mclenhard/catie-mcp](https://github.com/mclenhard/catie-mcp) - 
 - [obot-platform/nanobot](https://github.com/obot-platform/nanobot) - Build MCP Agents
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
@@ -645,7 +645,7 @@
 - [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [f/mcptools](https://github.com/f/mcptools) - A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, and AI agents; keep workflows separate from business logi
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One bin
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
@@ -907,7 +907,7 @@
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 - [jhpyle/docassemble](https://github.com/jhpyle/docassemble) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19 without npm, SQLite, and PostgreSQL support ++
 - [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 - [taubyte/dream](https://github.com/taubyte/dream) - A local cloud for rapid development and testing.
 - [vfeskov/gitpunch](https://github.com/vfeskov/gitpunch) - Watch for releases on GitHub → gitpunch.com
@@ -1210,7 +1210,7 @@
 
 ## Makefile 
 
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [engineswap/orderbook](https://github.com/engineswap/orderbook) - 
 - [teslamotors/buildroot](https://github.com/teslamotors/buildroot) - Tesla's buildroot repository
 - [publysher/docker-hugo](https://github.com/publysher/docker-hugo) - Docker base image for static sites generated with Hugo
@@ -1472,7 +1472,7 @@
 - [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official CLI and Python client for the Hugging Face Hub.
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
 - [SqueezeAILab/TinyAgent](https://github.com/SqueezeAILab/TinyAgent) - [EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge!
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1692,7 +1692,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -2535,7 +2535,7 @@
 - [future-tense/stellar-pathfinder-server](https://github.com/future-tense/stellar-pathfinder-server) - A standalone path finder for Stellar
 - [keybase/keybase-bot](https://github.com/keybase/keybase-bot) - exploration with the keybase chat API
 - [satoshipay/solar](https://github.com/satoshipay/solar) - 🌞 Stellar wallet. Secure and user-friendly.
-- [fraceccon/serverless-stellar-federation](https://github.com/fraceccon/serverless-stellar-federation) - Stellar Federation Server as a Google Cloud Platform Function. 🚀
+- [franceccon/serverless-stellar-federation](https://github.com/franceccon/serverless-stellar-federation) - Stellar Federation Server as a Google Cloud Platform Function. 🚀
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [discord/airhornbot](https://github.com/discord/airhornbot) - The only bot for Discord you'll ever need.
