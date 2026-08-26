@@ -350,7 +350,7 @@
 - [enkisoftware/imgui_markdown](https://github.com/enkisoftware/imgui_markdown) - Markdown for Dear ImGui
 - [inanevin/LinaEngine](https://github.com/inanevin/LinaEngine) - Lina Engine is an open-source , modular, tiny and fast C++ game engine, aimed to develop 3D desktop games.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69404, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69465, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [nilstate/icey](https://github.com/nilstate/icey) - Real-time media stack and lightweight libwebrtc alternative, built in C++20
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -895,6 +895,7 @@
 
 ## JavaScript 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [visibl-ai/visibl-audiobooks](https://github.com/visibl-ai/visibl-audiobooks) - Multi-Pass Book to Graphic Novel
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
@@ -1559,7 +1560,7 @@
 - [Calysto/metakernel](https://github.com/Calysto/metakernel) - Jupyter/IPython Kernel Tools
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - An open source extension that connects AI agents to computational notebooks in JupyterLab.
 - [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
-- [HybridRobotics/Berkeley-Humanoid-Lite](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) - Codebase for Berkeley Humanoid Lite
+- [HybridRobotics/berkeley-humanoid-lite](https://github.com/HybridRobotics/berkeley-humanoid-lite) - Codebase for Berkeley Humanoid Lite
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number vali
 - [kontext-security/attestable-mcp-server](https://github.com/kontext-security/attestable-mcp-server) - Verify that any MCP server is running the intended and untampered code via hardware attestation.
 - [Omar-V2/mcp-ical](https://github.com/Omar-V2/mcp-ical) - A Model Context Protocol Server that allows you to interact with your MacOS Calendar through natural language.
@@ -2188,7 +2189,7 @@
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [microsoft/vscode-cmake-tools](https://github.com/microsoft/vscode-cmake-tools) - CMake Tools provides a robust, convenient workflow for CMake projects in VS Code. It simplifies configurations with CMake presets, supports IntelliSense and built-in debugging for CMake scripts, and o
 - [apple/embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-- [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) - MCP server for querying Apple Health data with natural language and SQL
+- [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) - Local-first Apple Health MCP server. Lets AI assistants answer questions about your sleep, workouts, activity and heart data from a local export.
 - [kevinliu399/litcode](https://github.com/kevinliu399/litcode) - 
 - [condots/dots](https://github.com/condots/dots) - Visual SBOM editor for SPDX
 - [MonetizedMCP/typescript-sdk](https://github.com/MonetizedMCP/typescript-sdk) - 
@@ -2460,7 +2461,7 @@
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
-- [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - JSON-native TypeScript ORM for Node.js, Bun and Deno. Supports PostgreSQL, MySQL, MariaDB, SQLite, CockroachDB, Turso, Neon, Cloudflare D1 and MongoDB. Queries are plain JSON, typed to the leaf.
+- [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - The JSON-native TypeScript ORM for Node.js, Bun and Deno
 - [drakeaxelrod/json-resume-service](https://github.com/drakeaxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
