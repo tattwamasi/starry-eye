@@ -1972,7 +1972,7 @@
 - [ngrok/ngrok-python](https://github.com/ngrok/ngrok-python) - Embed ngrok secure ingress into your Python apps with a single line of code.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [dojoengine/dojo](https://github.com/dojoengine/dojo) - Dojo is a toolchain for building provable games and applications
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
@@ -2465,7 +2465,7 @@
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
-- [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - The JSON-native ORM for Bun, Deno, Node
+- [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - The JSON-native TypeScript ORM for Bun, Deno, Node
 - [drakeaxelrod/json-resume-service](https://github.com/drakeaxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
