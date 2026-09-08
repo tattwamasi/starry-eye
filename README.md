@@ -956,7 +956,6 @@
 - [plentico/plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [apostrophecms/public-demo](https://github.com/apostrophecms/public-demo) - The source of our public demo of ApostropheCMS
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -2061,6 +2060,7 @@
 ## Svelte 
 
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [MLH-Fellowship/vscode-github-projects](https://github.com/MLH-Fellowship/vscode-github-projects) - VS Code extension that brings GitHub's projects into VS Code.
 
 ## Swift 
@@ -2329,7 +2329,6 @@
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [grenovales/astro-framework7](https://github.com/grenovales/astro-framework7) - Astro Integration for Framework7
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
@@ -2346,6 +2345,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
 - [StaticJsCMS/static-cms](https://github.com/StaticJsCMS/static-cms) - A Git-based CMS for Static Site Generators
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
