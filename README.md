@@ -624,7 +624,7 @@
 
 ## Elixir 
 
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [andruby/stellar-price](https://github.com/andruby/stellar-price) - Tells you where to buy and sell crypto coins for the best price
 
 ## Erlang 
@@ -1421,7 +1421,7 @@
 - [gabec-slop/autoresearch-gym](https://github.com/gabec-slop/autoresearch-gym) - Gymnasium workbench for agent-driven autoresearch loops in robotics RL simulation
 - [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - Open-source AI Trading OS and commercial-ready multi-tenant SaaS platform — research markets, build Python strategies, backtest, paper/live trade, and monitor crypto, stocks, and forex, with built-in 
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
-- [apple/ml-rldf](https://github.com/apple/ml-rldf) - 
+- [apple-aiml-research/ml-rldf](https://github.com/apple-aiml-research/ml-rldf) - 
 - [Hmbown/MLXSmith](https://github.com/Hmbown/MLXSmith) - Apple Silicon MLX fine-tuning toolkit — SFT, DPO/ORPO, GRPO, distillation, and OpenAI-compatible serving.
 - [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX.
 - [Acelogic/LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX) - Attempt at Porting LTX-2 Video Model to Apple's MLX Machine Learning Framework
@@ -1431,7 +1431,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Deekshith-Dade/mlx_sam3](https://github.com/Deekshith-Dade/mlx_sam3) - MLX SAM3 - MLX Port of SAM3 for interactive image segmentation with Text and Geometric Prompts
 - [Phantom-video/HuMo](https://github.com/Phantom-video/HuMo) - HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning
-- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
+- [apple-aiml-research/ml-sharp](https://github.com/apple-aiml-research/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
 - [ardevd/ha-dimo](https://github.com/ardevd/ha-dimo) - DIMO integration for Home Assistant
 - [samwho/llmwalk](https://github.com/samwho/llmwalk) - Explore the answer-space of open LLMs
 - [uqer1244/MLX_z-image](https://github.com/uqer1244/MLX_z-image) - MLX version of z-image model
@@ -1450,8 +1450,8 @@
 - [Goekdeniz-Guelmez/mlx-kan](https://github.com/Goekdeniz-Guelmez/mlx-kan) - KAN (Kolmogorov–Arnold Networks) in the MLX framework for Apple Silicon
 - [Goekdeniz-Guelmez/mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) - Train Large Language Models on MLX.
 - [bageldotcom/zkLoRA](https://github.com/bageldotcom/zkLoRA) - Efficient Zero-Knowledge Proofs for LoRA Verification
-- [apple/ml-loop](https://github.com/apple/ml-loop) - 
-- [apple/ml-l3m](https://github.com/apple/ml-l3m) - Large multi-modal models (L3M) pre-training.
+- [apple-aiml-research/ml-loop](https://github.com/apple-aiml-research/ml-loop) - 
+- [apple-aiml-research/ml-l3m](https://github.com/apple-aiml-research/ml-l3m) - Large multi-modal models (L3M) pre-training.
 - [brabeeba/CogLink-Network](https://github.com/brabeeba/CogLink-Network) - 
 - [sachinraja13/DINO_DETR_MLX](https://github.com/sachinraja13/DINO_DETR_MLX) - MLX version of DINO DETR
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
@@ -1496,7 +1496,7 @@
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload for Python, written in Rust
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [duckdb/extension-template](https://github.com/duckdb/extension-template) - Template for DuckDB extensions to help you develop, test and deploy a custom extension
-- [apple/ml-diffucoder](https://github.com/apple/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
+- [apple-aiml-research/ml-diffucoder](https://github.com/apple-aiml-research/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [derekburgess/dungen](https://github.com/derekburgess/dungen) - 
 - [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
@@ -1519,11 +1519,11 @@
 - [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
-- [apple/ml-recurrent-drafter](https://github.com/apple/ml-recurrent-drafter) - 
-- [apple/ml-dataset-decomposition](https://github.com/apple/ml-dataset-decomposition) - Official repo of dataset-decomposition paper [NeurIPS 2024]
+- [apple-aiml-research/ml-recurrent-drafter](https://github.com/apple-aiml-research/ml-recurrent-drafter) - 
+- [apple-aiml-research/ml-dataset-decomposition](https://github.com/apple-aiml-research/ml-dataset-decomposition) - Official repo of dataset-decomposition paper [NeurIPS 2024]
 - [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
-- [apple/ml-acn-embed](https://github.com/apple/ml-acn-embed) - Acoustic Neighbor Embeddings
-- [apple/ml-slowfast-llava](https://github.com/apple/ml-slowfast-llava) - SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models
+- [apple-aiml-research/ml-acn-embed](https://github.com/apple-aiml-research/ml-acn-embed) - Acoustic Neighbor Embeddings
+- [apple-aiml-research/ml-slowfast-llava](https://github.com/apple-aiml-research/ml-slowfast-llava) - SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models
 - [Gen-Verse/ReasonFlux](https://github.com/Gen-Verse/ReasonFlux) - [NeurIPS 2025 Spotlight] LLM post-training suite — featuring ReasonFlux, ReasonFlux-PRM, and ReasonFlux-Coder.
 - [ToTheBeginning/ComfyUI-DreamO](https://github.com/ToTheBeginning/ComfyUI-DreamO) - DreamO native implementation for ComfyUI
 - [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - [NeurIPS 2024] Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
@@ -1664,7 +1664,7 @@
 - [dermasmid/scrapetube](https://github.com/dermasmid/scrapetube) - A YouTube scraper for scraping channels, playlists, and searching 🔎
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [BerriAI/clerkie-cli](https://github.com/BerriAI/clerkie-cli) - Clerkie-cli is a terminal tool that uses an LLM to help debug and troubleshoot coding errors in any programming language. It offers explanations, suggested fixes, guidance, alternative approaches, and
-- [apple/ml-mgie](https://github.com/apple/ml-mgie) - 
+- [apple-aiml-research/ml-mgie](https://github.com/apple-aiml-research/ml-mgie) - 
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
 - [granawkins/rawdog](https://github.com/granawkins/rawdog) - Generate and auto-execute Python scripts in the cli
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
@@ -1702,7 +1702,7 @@
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [apple/axlearn](https://github.com/apple/axlearn) - An Extensible Deep Learning Library
-- [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
+- [apple-aiml-research/ml-ferret](https://github.com/apple-aiml-research/ml-ferret) - 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
 - [epfLLM/Megatron-LLM](https://github.com/epfLLM/Megatron-LLM) - distributed trainer for LLMs
@@ -1808,11 +1808,11 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - Terminal-based toolkit for GitHub data analysis.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [awslabs/Renate](https://github.com/awslabs/Renate) - Library for automatic retraining and continual learning
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+- [apple-aiml-research/ml-stable-diffusion](https://github.com/apple-aiml-research/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [EISMGard/github-audit-tool](https://github.com/EISMGard/github-audit-tool) - This is a tool for auditing github repos, users, and teams. Good for compliance, security and other stuff.
@@ -2183,7 +2183,7 @@
 - [modelcontextprotocol/example-remote-server](https://github.com/modelcontextprotocol/example-remote-server) - A hosted version of the Everything server - for demonstration and testing purposes, hosted at https://example-server.modelcontextprotocol.io/mcp
 - [x402-foundation/x402](https://github.com/x402-foundation/x402) - A payments protocol for the internet. Built on HTTP.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [lorenseanstewart/progressive-complexity](https://github.com/lorenseanstewart/progressive-complexity) - Demo code for my blog post "A Progressive Complexity Manifesto"
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
@@ -2358,7 +2358,7 @@
 - [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted continuous delivery & deployment platform with version management.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.
 - [stackblitz/tutorialkit](https://github.com/stackblitz/tutorialkit) - TutorialKit by StackBlitz - Create interactive tutorials powered by the WebContainer API
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
@@ -2407,7 +2407,7 @@
 - [apoffa/serverless-gpt-assistant](https://github.com/apoffa/serverless-gpt-assistant) - This project contains a serverless implementation of the OpenaAI GPT assistant
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [bentoml/Yatai](https://github.com/bentoml/Yatai) - Model Deployment at Scale on Kubernetes 🦄️
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2514,7 +2514,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [aws-samples/aws-lambda-layer-awscli](https://github.com/aws-samples/aws-lambda-layer-awscli) - AWS Lambda Layer for AWS CLI
 - [aws/aws-iot-device-sdk-js-v2](https://github.com/aws/aws-iot-device-sdk-js-v2) - Next generation AWS IoT Client SDK for Node.js using the AWS Common Runtime
