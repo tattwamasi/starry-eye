@@ -633,7 +633,7 @@
 
 ## Go 
 
-- [google/ax](https://github.com/google/ax) - An open source distributed agent runtime
+- [google/ax](https://github.com/google/ax) - Google's open agentic orchestrator
 - [xataio/xata](https://github.com/xataio/xata) - Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 - [micasa-dev/micasa](https://github.com/micasa-dev/micasa) - A modal TUI for tracking home projects, maintenance schedules, appliances, and vendor quotes.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -1419,7 +1419,7 @@
 - [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) - Companion code for the global workspace interpretability paper
 - [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 - [gabec-slop/autoresearch-gym](https://github.com/gabec-slop/autoresearch-gym) - Gymnasium workbench for agent-driven autoresearch loops in robotics RL simulation
-- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - Open-source AI Trading OS and commercial-ready multi-tenant SaaS platform — research markets, build Python strategies, backtest, paper/live trade, and monitor crypto, stocks, and forex, with built-in 
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch 
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
 - [apple-aiml-research/ml-rldf](https://github.com/apple-aiml-research/ml-rldf) - 
 - [Hmbown/MLXSmith](https://github.com/Hmbown/MLXSmith) - Apple Silicon MLX fine-tuning toolkit — SFT, DPO/ORPO, GRPO, distillation, and OpenAI-compatible serving.
