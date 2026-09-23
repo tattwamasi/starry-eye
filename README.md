@@ -782,7 +782,7 @@
 - [AndrewBudd/axb](https://github.com/AndrewBudd/axb) - 
 - [brutella/hkcam](https://github.com/brutella/hkcam) - Open-Source HomeKit Surveillance Camera
 - [kf5grd/KeybaseBotGo](https://github.com/kf5grd/KeybaseBotGo) - A bot framework for Keybase written in Go
-- [chain/txvm](https://github.com/chain/txvm) - TxVM is a virtual machine for blockchain transactions
+- [Onyx-Protocol/txvm](https://github.com/Onyx-Protocol/txvm) - TxVM is a virtual machine for blockchain transactions
 - [Reidmcc/rockfish](https://github.com/Reidmcc/rockfish) - Rockfish is an arbitrage bot for the Stellar Decentralized Exchange (SDEX)
 - [interstellar/starlight](https://github.com/interstellar/starlight) - Payment channels on Stellar
 - [stellar-deprecated/kelp](https://github.com/stellar-deprecated/kelp) - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
@@ -931,7 +931,6 @@
 - [meow-d/nomarks](https://github.com/meow-d/nomarks) - Typora-style WYSIWYG markdown preview for VScode. personal fork of sean10's fork of markless.
 - [leaningtech/cheerp-meta](https://github.com/leaningtech/cheerp-meta) - Cheerp - a C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript
 - [sdennett55/cards-of-personality-frontend](https://github.com/sdennett55/cards-of-personality-frontend) - A mobile-first multiplayer web game inspired by the popular Cards Against Humanity card game.
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
 - [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - remark plugin to support frontmatter (YAML, TOML, and more)
@@ -1075,7 +1074,6 @@
 - [codeforcash/keybase-bot-awslambda](https://github.com/codeforcash/keybase-bot-awslambda) - A keybase bot hosted on AWS Lambda
 - [poliha/stellar-tokens](https://github.com/poliha/stellar-tokens) - 
 - [rerouted/poolBlynkLink](https://github.com/rerouted/poolBlynkLink) - NodeJS for Blynk.io and nodejs-poolController
-- [SqueezerIO/stellar-2way-payment-dapp](https://github.com/SqueezerIO/stellar-2way-payment-dapp) - 
 - [phoboslab/underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [iodide-project/iodide](https://github.com/iodide-project/iodide) - Literate scientific computing and communication for the web
 - [htck/bayeux](https://github.com/htck/bayeux) - Historic Tale Construction Kit - opensource and customizable version !
@@ -1146,7 +1144,7 @@
 - [mshukor/UnIVAL](https://github.com/mshukor/UnIVAL) - [TMLR23] Official implementation of UnIVAL: Unified Model for Image, Video, Audio and Language Tasks.
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models.
 - [johnmai-dev/NotebookMLX](https://github.com/johnmai-dev/NotebookMLX) - 📋 NotebookMLX - An Open Source version of NotebookLM (Ported NotebookLlama)
-- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) - Understanding Training Dynamics of Deep ReLU Networks
 - [searlion/mlx-finetuning](https://github.com/searlion/mlx-finetuning) - 
 - [JoeJoe1313/LLMs-Journey](https://github.com/JoeJoe1313/LLMs-Journey) - Various LLM resources and experiments
@@ -2061,6 +2059,7 @@
 
 ## Svelte 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [MLH-Fellowship/vscode-github-projects](https://github.com/MLH-Fellowship/vscode-github-projects) - VS Code extension that brings GitHub's projects into VS Code.
@@ -2395,7 +2394,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source agentic app for running AI agents across local and hosted models.
 - [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
-- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
+- [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [bluesky-social/ozone](https://github.com/bluesky-social/ozone) - web interface for labeling content in atproto / Bluesky
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
