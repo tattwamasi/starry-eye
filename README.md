@@ -1423,7 +1423,7 @@
 - [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX.
 - [Acelogic/LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX) - Attempt at Porting LTX-2 Video Model to Apple's MLX Machine Learning Framework
 - [batson/mlux](https://github.com/batson/mlux) - 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Semantic Intelligence Layer
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Semantic Intelligence Layer for Ontologies
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Deekshith-Dade/mlx_sam3](https://github.com/Deekshith-Dade/mlx_sam3) - MLX SAM3 - MLX Port of SAM3 for interactive image segmentation with Text and Geometric Prompts
@@ -1474,7 +1474,7 @@
 - [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official CLI and Python client for the Hugging Face Hub.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - [ICML 2024] LLMCompiler: An LLM Compiler for Parallel Function Calling
@@ -1526,7 +1526,7 @@
 - [ToTheBeginning/ComfyUI-DreamO](https://github.com/ToTheBeginning/ComfyUI-DreamO) - DreamO native implementation for ComfyUI
 - [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - [NeurIPS 2024] Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [logtd/ComfyUI-Fluxtapoz](https://github.com/logtd/ComfyUI-Fluxtapoz) - Nodes for image juxtaposition for Flux in ComfyUI
 - [YangLing0818/IterComp](https://github.com/YangLing0818/IterComp) - [ICLR 2025] IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation
 - [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
@@ -2154,7 +2154,8 @@
 
 ## TypeScript 
 
-- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and  Codex together as one system
+- [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
 - [BerriAI/litespeed](https://github.com/BerriAI/litespeed) - Litespeed — a local coding agent with multi-model workflows for your terminal and browser
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [0-AI-UG/cate](https://github.com/0-AI-UG/cate) - An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace.
@@ -2467,7 +2468,7 @@
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 - [github/branch-deploy](https://github.com/github/branch-deploy) - Enabling Branch Deployments through IssueOps with GitHub Actions - If you find this project useful, give it a star! ⭐️
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
-- [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - The JSON-native TypeScript ORM for Bun, Browsers, Edge, Deno, Node, Workers
+- [rogerpadilla/uql](https://github.com/rogerpadilla/uql) - JSON-native TypeScript ORM for Bun, Browsers, Edge, Deno, Node, Workers
 - [drakeaxelrod/json-resume-service](https://github.com/drakeaxelrod/json-resume-service) - JSON resumes as a Service - generate Resumes from the resume.json schema
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
