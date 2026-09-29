@@ -3609,6 +3609,7 @@
 
 ## others 
 
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 - [BerriAI/litespeed](https://github.com/BerriAI/litespeed) - Litespeed — a local coding agent with multi-model workflows for your terminal and browser
 - [facebookresearch/project_superdex](https://github.com/facebookresearch/project_superdex) - SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable reinforcement learning interface in a unified simulation platform, with VR-based teleoperation and add
@@ -4085,7 +4086,6 @@
 - [fly-apps/astro-streaming](https://github.com/fly-apps/astro-streaming) - 
 - [perfect13/watermill-mqtt](https://github.com/perfect13/watermill-mqtt) - watermil mqtt
 - [thargor6/JWildfire](https://github.com/thargor6/JWildfire) - JWildfire - powerful, flexible and user-friendly fractal flame editor
-- [fulldotdev/blocks](https://github.com/fulldotdev/blocks) - 
 - [a-atalla/vendure-astro-shop](https://github.com/a-atalla/vendure-astro-shop) - Vendure storefront that is built with astro
 - [majesticooss/astros](https://github.com/majesticooss/astros) - Template with astro, tailwind and alpinejs
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
