@@ -300,7 +300,7 @@
 - [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) - WebAssembly version of DuckDB
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [Query-farm/shellfs](https://github.com/Query-farm/shellfs) - DuckDB extension allowing shell commands to be used for input and output.
-- [eclipse-paho/paho.mqtt.cpp](https://github.com/eclipse-paho/paho.mqtt.cpp) - 
+- [eclipse-paho/paho.mqtt.cpp](https://github.com/eclipse-paho/paho.mqtt.cpp) - An Eclipse Paho C++ client library for MQTT for Windows, Linux and MacOS.
 - [munich-data-engineering/sqlgen](https://github.com/munich-data-engineering/sqlgen) - sqlgen is a reflection-based ORM and SQL query generator for C++-20, similar to Python's SQLAlchemy/SQLModel or Rust's Diesel.
 - [eclipse-cyclonedds/cyclonedds-cxx](https://github.com/eclipse-cyclonedds/cyclonedds-cxx) - 
 - [kiwix/libkiwix](https://github.com/kiwix/libkiwix) - Common code base for all Kiwix ports
@@ -2061,7 +2061,6 @@
 
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [MLH-Fellowship/vscode-github-projects](https://github.com/MLH-Fellowship/vscode-github-projects) - VS Code extension that brings GitHub's projects into VS Code.
 
 ## Swift 
@@ -2332,6 +2331,7 @@
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [grenovales/astro-framework7](https://github.com/grenovales/astro-framework7) - Astro Integration for Framework7
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
