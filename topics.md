@@ -3809,7 +3809,7 @@
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
-- [dais-polymtl/flock](https://github.com/dais-polymtl/flock) - Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB (VLDB Demo 2025)
+- [dais-labo/flock](https://github.com/dais-labo/flock) - Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB (VLDB Demo 2025)
 - [apple-aiml-research/ml-diffucoder](https://github.com/apple-aiml-research/ml-diffucoder) - DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
 - [sinadarbouy/mcp-nats](https://github.com/sinadarbouy/mcp-nats) - A Model Context Protocol (MCP) server for NATS messaging system integration
 - [derekburgess/dungen](https://github.com/derekburgess/dungen) - 
