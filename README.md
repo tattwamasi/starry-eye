@@ -857,7 +857,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [serenadeai/serenade](https://github.com/serenadeai/serenade) - 
 - [thargor6/JWildfire](https://github.com/thargor6/JWildfire) - JWildfire - powerful, flexible and user-friendly fractal flame editor
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -2122,7 +2122,6 @@
 - [trustwallet/TrustSDK-iOS](https://github.com/trustwallet/TrustSDK-iOS) - No longer maintained. https://community.trustwallet.com/t/trustsdk-is-discontinued/213116
 - [Lobstrco/vault-ios](https://github.com/Lobstrco/vault-ios) - Multi-signature security on the Stellar network for iOS. 🔑🗝️🔑
 - [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
-- [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [FeatherCMS/feather](https://github.com/FeatherCMS/feather) - Feather is a modern Swift-based Content Management System.
 - [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
 - [SwiftWebUI/SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web
