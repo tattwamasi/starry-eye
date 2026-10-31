@@ -115,6 +115,7 @@
 
 ## C 
 
+- [drawthingsai/local-code-community](https://github.com/drawthingsai/local-code-community) - Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Personal Agent on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS. On device Muse.
 - [antirez/voxtral.c](https://github.com/antirez/voxtral.c) - Pure C inference of Mistral Voxtral Realtime 4B speech to text model
 - [gittup/tup](https://github.com/gittup/tup) - Tup is a file-based build system.
@@ -1411,6 +1412,7 @@
 
 ## Python 
 
+- [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) - Free, open-source AI video generator for Mac. Run LTX-2.5 and MiniMax H3 (Hailuo) locally on Apple Silicon: text-to-video and image-to-video with sound, lip-sync, character LoRA training, songs from l
 - [dhdegroot/Bonsai-data-representation](https://github.com/dhdegroot/Bonsai-data-representation) - All code necessary for reconstructing Bonsai-trees on high-dimensional data and visualizing them in Bonsai-scout
 - [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) - Companion code for the global workspace interpretability paper
 - [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) - DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
