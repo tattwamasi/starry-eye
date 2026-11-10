@@ -3694,6 +3694,7 @@
 
 ## others 
 
+- [apple-aiml-research/ml-halo](https://github.com/apple-aiml-research/ml-halo) - HALO: Perceptive Humanoid Motion from Simulation
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [liuliu/ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library
 - [entireio/marvin](https://github.com/entireio/marvin) - 🤖 Our robot now 3D printed, remote controlled, with voice detection and speech, all open source. And it connects to ChatGPT and Entire.
