@@ -919,7 +919,7 @@
 - [taubyte/dream](https://github.com/taubyte/dream) - A local cloud for rapid development and testing.
 - [vfeskov/gitpunch](https://github.com/vfeskov/gitpunch) - Watch for releases on GitHub → gitpunch.com
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [openfaas/function-editor-demo](https://github.com/openfaas/function-editor-demo) - Demo of a Function Editor to take customer code and deploy it as a sanboxed function
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [a-r-g-v/docker-hackmd](https://github.com/a-r-g-v/docker-hackmd) - docker hackmd  image
@@ -1057,7 +1057,7 @@
 - [bitpay/copay-recovery](https://github.com/bitpay/copay-recovery) - A simple client-side app to recover funds from all current and past Copay backups.
 - [mpcowan/trello-insights](https://github.com/mpcowan/trello-insights) - Trello Insights Power-Up
 - [rtcovidlive/covid-dash](https://github.com/rtcovidlive/covid-dash) - 
-- [PaulLaux/eth-hot-wallet](https://github.com/PaulLaux/eth-hot-wallet) - Ethereum wallet with erc20 support / web wallet - built using react, web3, eth-lightwallet
+- [PaulLaux/eth-hot-wallet](https://github.com/PaulLaux/eth-hot-wallet) - Browser-based Ethereum and ERC-20 wallet for Ethereum, Base, Arbitrum and Optimism. Keys never leave the browser, encrypted with Web Crypto.
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
 - [botfront/botfront](https://github.com/botfront/botfront) - Enterprise-grade open source GUI platform for Rasa teams
 - [chunyenHuang/hummusRecipe](https://github.com/chunyenHuang/hummusRecipe) - A powerful PDF tool for NodeJS based on HummusJS.
@@ -1428,7 +1428,7 @@
 - [Blaizzy/mlx-video](https://github.com/Blaizzy/mlx-video) - MLX-Video is the best package for inference and finetuning of Image-Video-Audio generation models on your Mac using MLX.
 - [Acelogic/LTX-2-MLX](https://github.com/Acelogic/LTX-2-MLX) - Attempt at Porting LTX-2 Video Model to Apple's MLX Machine Learning Framework
 - [batson/mlux](https://github.com/batson/mlux) - 
-- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The AI Governance Platform for Agents, Knowledge, and Context
+- [trustgraph-ai/trustgraph](https://github.com/trustgraph-ai/trustgraph) - The open-source ontology runtime for AI agents.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [Deekshith-Dade/mlx_sam3](https://github.com/Deekshith-Dade/mlx_sam3) - MLX SAM3 - MLX Port of SAM3 for interactive image segmentation with Text and Geometric Prompts
@@ -2257,7 +2257,7 @@
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI coworker with memory and collaboration
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Your agent team, in one group chat.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [matterai/DataKitsune](https://github.com/matterai/DataKitsune) - Introducing DataKitsune, an open-source Telegram bot designed to enhance the way you manage and retrieve links shared within your personal or group chats. By automatically indexing the content of thes
@@ -2346,7 +2346,7 @@
 - [supabase-community/supabase-vscode-extension](https://github.com/supabase-community/supabase-vscode-extension) - Supabase Extension for VS Code and GitHub Copilot.
 - [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript notebook
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [neondatabase/electric-pglite](https://github.com/neondatabase/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [fly-apps/astro-streaming](https://github.com/fly-apps/astro-streaming) - 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [bholmesdev/simple-stack](https://github.com/bholmesdev/simple-stack) - 🌱 Web apps made simple
@@ -2418,7 +2418,7 @@
 - [apoffa/serverless-gpt-assistant](https://github.com/apoffa/serverless-gpt-assistant) - This project contains a serverless implementation of the OpenaAI GPT assistant
 - [ueberdosis/hocuspocus](https://github.com/ueberdosis/hocuspocus) - The Yjs CRDT WebSocket backend for conflict-free real-time collaboration in your app.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [bentoml/Yatai](https://github.com/bentoml/Yatai) - Model Deployment at Scale on Kubernetes 🦄️
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
