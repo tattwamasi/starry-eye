@@ -1412,7 +1412,7 @@
 
 ## PowerShell 
 
-- [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) - 
+- [gh-actions-governance/github-fork-updater](https://github.com/gh-actions-governance/github-fork-updater) - 
 
 ## Prolog 
 
@@ -1911,7 +1911,7 @@
 
 ## Rust 
 
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+- [ai-openshell/openshell](https://github.com/ai-openshell/openshell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
 - [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) - 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
 - [starkware-libs/stwo](https://github.com/starkware-libs/stwo) - StarkWare's next gen prover
