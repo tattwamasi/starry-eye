@@ -1524,7 +1524,6 @@
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [adeelahmad/MacPilot](https://github.com/adeelahmad/MacPilot) - 🤖 AI-powered macOS automation framework - Control your Mac with natural language using GPT models. No code needed, just English instructions!
-- [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [apple/coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [apple-aiml-research/ml-recurrent-drafter](https://github.com/apple-aiml-research/ml-recurrent-drafter) - 
