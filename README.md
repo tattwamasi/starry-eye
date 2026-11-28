@@ -644,7 +644,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 38M+ records/sec ingestion, 25M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. S
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - The open-source time-series lakehouse. Keep every telemetry reading: hot data fast, cold history cheap in your own bucket, one SQL across both. Telegraf and Line Protocol in, Parquet out, published as
 - [mclenhard/catie-mcp](https://github.com/mclenhard/catie-mcp) - 
 - [obot-platform/nanobot](https://github.com/obot-platform/nanobot) - Build MCP Agents
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook
@@ -680,6 +680,7 @@
 - [kontext-security/agent-browser](https://github.com/kontext-security/agent-browser) - One connection for all your MCP servers.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
+- [SolaceProducts/solace-agent-mesh](https://github.com/SolaceProducts/solace-agent-mesh) - Platform for building and running AI agents across the full lifecycle — build, test, deploy, monitor, improve. Hosts your agents, runs their tools, and coordinates them over an event mesh, with sessio
 - [superfly/flymcp](https://github.com/superfly/flymcp) - MCP server for Fly.io CLI integration with Claude Desktop
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -903,7 +904,7 @@
 - [jtiscione/chessboard3js](https://github.com/jtiscione/chessboard3js) - WebGL chessboard library
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [anvaka/redsim](https://github.com/anvaka/redsim) - reddit discovery
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [visibl-ai/visibl-audiobooks](https://github.com/visibl-ai/visibl-audiobooks) - Multi-Pass Book to Graphic Novel
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
@@ -1516,7 +1517,7 @@
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [Dan-in-CA/SIP](https://github.com/Dan-in-CA/SIP) - A highly customizable DIY irrigation/sprinkler controller based on Raspberry Pi
 - [sabuhish/fastapi-mqtt](https://github.com/sabuhish/fastapi-mqtt) - fastapi-mqtt is extension for MQTT protocol
-- [ArchiveBox/archivebox-proxy](https://github.com/ArchiveBox/archivebox-proxy) - Official ArchiveBox MITM proxy: saves URLs of all requests passing through to an ArchiveBox server for archival.
+- [ArchiveBox/archivebox-proxy](https://github.com/ArchiveBox/archivebox-proxy) - ❯❯❯❯ ArchiveBox MITM proxy: archives all pages visited through the proxy, or enable replay mode to browse content from your archive. Supports HTTP/3, Websockets, Wireguard, SOCKS5, and more...
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 - [JosefAlbers/wtm](https://github.com/JosefAlbers/wtm) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
 - [Karmaz95/Snake_Apple](https://github.com/Karmaz95/Snake_Apple) - Articles and tools related to research in the Apple environment (mainly macOS).
@@ -1782,7 +1783,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, arXiv 2022 / ICCV 2023
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Open-Source Product for Controlled Data Agents
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [kaleido-lab/dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
 - [poe-platform/server-bot-quick-start](https://github.com/poe-platform/server-bot-quick-start) - Tutorial for Poe server bots
@@ -2015,7 +2016,6 @@
 - [hackmdio/docker-hackmd](https://github.com/hackmdio/docker-hackmd) - DEPRECATION: Please read our online documentation instead
 - [Autohook/Autohook](https://github.com/Autohook/Autohook) - A very, very small Git hook manager with focus on automation
 - [lfi-project/lfi](https://github.com/lfi-project/lfi) - Top-level repository for LFI: Practical, Efficient, and Secure Software-based Sandboxing
-- [SolaceProducts/solace-agent-mesh](https://github.com/SolaceProducts/solace-agent-mesh) - Platform for building and running AI agents across the full lifecycle — build, test, deploy, monitor, improve. Hosts your agents, runs their tools, and coordinates them over an event mesh, with sessio
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
@@ -2038,7 +2038,7 @@
 - [scottdraves/dots](https://github.com/scottdraves/dots) - interactive flames
 - [scottdraves/flam3](https://github.com/scottdraves/flam3) - the original fractal flame renderer and genetic language
 - [matter-labs-archive/zksync-lite-docs](https://github.com/matter-labs-archive/zksync-lite-docs) - zkSync Lite documentation
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [pennachin/docker](https://github.com/pennachin/docker) - Docker containers for OpenCog - Robot Operating System (ROS)
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -2096,7 +2096,7 @@
 - [kazazes/YOLOverlay](https://github.com/kazazes/YOLOverlay) - Real-time object detection overlay for macOS using YOLO models with smooth tracking, performance monitoring, and configurable settings.
 - [n3d1117/ios2m1](https://github.com/n3d1117/ios2m1) - macOS command line tool to convert iOS apps into Apple M1 apps
 - [nick-botticelli/super-tart](https://github.com/nick-botticelli/super-tart) - tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), and panic halting. See help menus for `tart create` and `tart run` for more info. Requires SIP/AMFI to be disabled
-- [pballada/yutub](https://github.com/pballada/yutub) - A VisionOS Youtube client
+- [pballada/yutub](https://github.com/pballada/yutub) - YouTube as a real app on Apple Vision Pro: a native visionOS window with big, centred playback controls, tabs for Watch Later, Subscriptions and History, and dark mode. SwiftUI + WebKit, no dependenci
 - [cbusillo/BD_to_AVP](https://github.com/cbusillo/BD_to_AVP) - 3D Blu-ray to Apple Vision Pro converter
 - [acuteimmersive/openimmersive](https://github.com/acuteimmersive/openimmersive) - A free and open immersive video player for the Apple Vision Pro.
 - [mikeswanson/SpatialPlayer](https://github.com/mikeswanson/SpatialPlayer) - An example spatial/immersive MV-HEVC video player for Apple Vision Pro
@@ -2158,7 +2158,7 @@
 ## TypeScript 
 
 - [jhlywa/chess.js](https://github.com/jhlywa/chess.js) - A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
-- [kgoedecke/doop](https://github.com/kgoedecke/doop) - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.
+- [doop-design/doop](https://github.com/doop-design/doop) - The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let's compose rich plans together
 - [mikedoise/oMLX-Copilot-Chat](https://github.com/mikedoise/oMLX-Copilot-Chat) - A Visual Studio Code Copilot Chat model provider for oMLX
 - [Vivswan/litellm-vscode-chat](https://github.com/Vivswan/litellm-vscode-chat) - Use 100+ LLMs in VS Code with GitHub Copilot Chat powered by LiteLLM.
@@ -2230,7 +2230,7 @@
 - [mfukushim/map-traveler-mcp](https://github.com/mfukushim/map-traveler-mcp) - Virtual traveler library for MCP
 - [in-fun/mcpbar](https://github.com/in-fun/mcpbar) - The CLI manager for MCP servers
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Shutting down on December 4, 2026. Analytics for 12+ billion GitHub events; the dataset (up to Nov 30, 2026) will be published for free download at https://ossinsight.io/data
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - DEPRECATED
 - [vanceism7/ls-cpp2](https://github.com/vanceism7/ls-cpp2) - A proof-of-concept LSP server for cpp2
